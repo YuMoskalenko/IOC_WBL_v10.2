@@ -1,0 +1,2362 @@
+"FamilyID_idx";"GenusID";"Extinct";"GenusSc";"Authority";"Code";"Comment"
+5;6;;"Struthio";"Linnaeus, 1758";;
+15;16;;"Rhea";"Brisson, 1760";;
+29;30;;"Apteryx";"Shaw, 1813";;
+40;41;;"Casuarius";"Brisson, 1760";;
+40;47;;"Dromaius";"Vieillot, 1816";"PHY, TAX";"Emus treated previously as a separate family Dromaiidae. Move to subfamily status in Casuariidae aligns with consensus (Christidis & Boles 2008; H&M 4)."
+55;56;;"Tinamus";"Hermann, 1783";;
+55;80;;"Nothocercus";"Bonaparte, 1856";;
+55;91;;"Crypturellus";"Brabourne & Chubb, C, 1914";;
+55;168;;"Rhynchotus";"Spix, 1825";;
+55;174;;"Nothoprocta";"Sclater, PL & Salvin, 1873";;
+55;198;;"Nothura";"Wagler, 1827";;
+55;217;;"Taoniscus";"Gloger, 1842";;
+55;219;;"Eudromia";"Geoffroy Saint-Hilaire, I, 1832";;
+55;234;;"Tinamotis";"Vigors, 1837";;
+239;240;;"Alectura";"Latham, 1824";;
+239;244;;"Aepypodius";"Oustalet, 1880";;
+239;249;;"Talegalla";"Lesson, R, 1828";;
+239;255;;"Leipoa";"Gould, 1840";;
+239;257;;"Macrocephalon";"Müller, S, 1846";;
+239;259;;"Eulipoa";"Ogilvie-Grant, 1893";;
+239;261;;"Megapodius";"Gaimard, 1823";;
+296;297;;"Ortalis";"Merrem, 1786";;
+296;325;;"Penelope";"Merrem, 1786";;
+296;365;;"Pipile";"Bonaparte, 1856";;
+296;374;;"Aburria";"Reichenbach, 1853";;
+296;376;;"Chamaepetes";"Wagler, 1832";;
+296;384;;"Penelopina";"Reichenbach, 1861";;
+296;386;;"Oreophasis";"Gray, GR, 1844";;
+296;388;;"Nothocrax";"Burmeister, 1856";;
+296;390;;"Mitu";"Lesson, R, 1831";;
+296;395;;"Pauxi";"Temminck, 1813";;
+296;401;;"Crax";"Linnaeus, 1758";;
+417;418;;"Agelastes";"Bonaparte, 1850";;
+417;421;;"Numida";"Linnaeus, 1764";;
+417;432;;"Guttera";"Wagler, 1832";;
+417;442;;"Acryllium";"Gray, GR, 1840";;
+445;446;;"Ptilopachus";"Swainson, 1837";"PHY, SEQ";"Ptilopachus partridges of Africa are more closely related to New World quails (Odontophoridae) and in turn to the guineafowl (Numididae) than to members of Phasianidae (Crowe et al. 2006; Crowe 2010; Cohen et al. 2012). See also Bowie et al. (2013) recommendation to treat as subfamily Ptilopachinae."
+445;453;;"Dendrortyx";"Gould, 1844";"SEQ";"Resequenced to reflect phylogenetic results of Tsai et al. (2019; Chesser et al. 2020, NACC 2020-A-06)."
+445;465;;"Oreortyx";"Baird, SF, 1858";;
+445;472;;"Callipepla";"Wagler, 1832";;
+445;495;;"Philortyx";"Gould, 1846";;
+445;497;;"Colinus";"Goldfuss, 1820";;
+445;545;;"Odontophorus";"Vieillot, 1816";;
+445;579;;"Dactylortyx";"Ogilvie-Grant, 1893";;
+445;592;;"Cyrtonyx";"Gould, 1844";;
+445;599;;"Rhynchortyx";"Ogilvie-Grant, 1893";;
+605;606;;"Meleagris";"Linnaeus, 1758";;
+605;615;;"Bonasa";"Stephens, 1819";;
+605;630;;"Tetrastes";"Keyserling & Blasius, JH, 1840";;
+605;646;;"Falcipennis";"Elliot, DG, 1864";;
+605;655;;"Tetrao";"Linnaeus, 1758";;
+605;668;;"Lyrurus";"Swainson, 1832";;
+605;677;;"Centrocercus";"Swainson, 1832";;
+605;680;;"Dendragapus";"Elliot, DG, 1864";;
+605;691;;"Tympanuchus";"Gloger, 1841";;
+605;705;;"Lagopus";"Brisson, 1760";;
+605;753;;"Lerwa";"Hodgson, 1837";;
+605;755;;"Tetraophasis";"Elliot, DG, 1871";;
+605;758;;"Tetraogallus";"Gray, JE, 1832";;
+605;779;;"Alectoris";"Kaup, 1829";;
+605;816;;"Ammoperdix";"Gould, 1851";;
+605;823;;"Francolinus";"Stephens, 1819";;
+605;843;;"Peliperdix";"Bonaparte, 1856";;
+605;857;;"Scleroptila";"Blyth, 1852";;
+605;880;;"Dendroperdix";"Roberts, 1922";;
+605;887;;"Pternistis";"Wagler, 1832";"PHY, TAX, ENG";"Revised (10.1) classification of spurfowls largely follows Mandiwana-Neudani et al. (2019). English name ""spurfowl"" for all the species in Pternistis follows Mandiwana-Neudani et al. (2019)."
+605;928;;"Perdix";"Brisson, 1760";;
+605;945;;"Rhizothera";"Gray, GR, 1841";;
+605;948;;"Margaroperdix";"Reichenbach, 1853";;
+605;950;;"Melanoperdix";"Jerdon, 1864";;
+605;954;;"Coturnix";"Garsault, 1764";;
+605;979;;"Excalfactoria";"Bonaparte, 1856";"TAX";"King Quail and Blue Quail are moved from Coturnix to Excalfactoria (Crowe et al. 2006; Christidis & Boles 2008)."
+605;988;;"Anurophasis";"Van Oort, 1910";;
+605;990;;"Perdicula";"Hodgson, 1837";;
+605;1007;"1";"Ophrysia";"Bonaparte, 1856";;
+605;1009;;"Xenoperdix";"Dinesen, Lehmberg, Svendsen, Hansen & Fjeldså, 1994";;
+605;1012;;"Arborophila";"Hodgson, 1837";;
+605;1052;;"Tropicoperdix";"Blyth, 1859";"TAX, PHY";"Tropicoperdix is resurrected for two species formerly assigned to Arborophila but which belong to a different clade (Chen et al. 2015,  2018)."
+605;1065;;"Caloperdix";"Blyth, 1861";;
+605;1070;;"Haematortyx";"Sharpe, 1879";;
+605;1072;;"Rollulus";"Bonnaterre, 1791";;
+605;1074;;"Bambusicola";"Gould, 1863";;
+605;1080;;"Galloperdix";"Blyth, 1845";;
+605;1087;;"Ithaginis";"Wagler, 1832";;
+605;1101;;"Tragopan";"Cuvier, 1829";;
+605;1111;;"Pucrasia";"Gray, GR, 1841";;
+605;1122;;"Lophophorus";"Temminck, 1813";;
+605;1129;;"Gallus";"Brisson, 1760";;
+605;1139;;"Lophura";"Fleming, J, 1822";;
+605;1181;;"Crossoptilon";"Hodgson, 1838";;
+605;1190;;"Catreus";"Cabanis, 1851";;
+605;1192;;"Syrmaticus";"Wagler, 1832";;
+605;1205;;"Phasianus";"Linnaeus, 1758";;
+605;1242;;"Chrysolophus";"Gray, JE, 1834";;
+605;1245;;"Polyplectron";"Temminck, 1807";;
+605;1256;;"Rheinardia";"Maingonnat, 1882";;
+605;1259;;"Argusianus";"Gray, GR, 1849";;
+605;1263;;"Pavo";"Linnaeus, 1758";;
+605;1269;;"Afropavo";"Chapin, 1936";;
+1273;1274;;"Anhima";"Brisson, 1760";;
+1273;1276;;"Chauna";"Illiger, 1811";;
+1280;1281;;"Anseranas";"Lesson, R, 1828";;
+1284;1285;;"Dendrocygna";"Swainson, 1837";;
+1284;1299;;"Thalassornis";"Eyton, 1838";;
+1284;1303;;"Cereopsis";"Latham, 1801";;
+1284;1307;;"Branta";"Scopoli, 1769";"PHY, SEQ";"Sequence of true geese (Branta, Anser) follows Ottenburghs et al. (2016)."
+1284;1328;;"Anser";"Brisson, 1760";;
+1284;1354;;"Coscoroba";"Reichenbach, 1853";;
+1284;1356;;"Cygnus";"Garsault, 1764";;
+1284;1365;;"Stictonetta";"Reichenbach, 1853";;
+1284;1367;;"Hymenolaimus";"Gray, GR, 1843";;
+1284;1369;;"Tachyeres";"Owen, 1875";;
+1284;1374;;"Merganetta";"Gould, 1842";;
+1284;1382;;"Plectropterus";"Stephens, 1824";;
+1284;1386;;"Sarkidiornis";"Eyton, 1838";;
+1284;1389;;"Cyanochen";"Bonaparte, 1856";;
+1284;1391;;"Alopochen";"Stejneger, 1885";;
+1284;1395;;"Neochen";"Oberholser, 1918";;
+1284;1397;;"Chloephaga";"Eyton, 1838";;
+1284;1407;;"Radjah";"Reichenbach, 1853";"TAX";"Separate Rajah Shelduck from Tadorna to monospecific genus Radjah, as it is paraphyletic in Tadorna relative to Alopochen (Worthy 2009; Gonzalez et al. 2009)."
+1284;1411;;"Tadorna";"Boie, F, 1822";;
+1284;1418;;"Malacorhynchus";"Swainson, 1831";;
+1284;1420;;"Salvadorina";"Rothschild & Hartert, 1894";;
+1284;1422;;"Cairina";"Fleming, J, 1822";;
+1284;1424;;"Asarcornis";"Salvadori, 1895";;
+1284;1426;;"Pteronetta";"Salvadori, 1895";;
+1284;1428;;"Aix";"Boie, F, 1828";;
+1284;1431;;"Chenonetta";"Brandt, JF, 1836";;
+1284;1433;;"Nettapus";"Brandt, JF, 1836";;
+1284;1439;;"Amazonetta";"Boetticher, 1929";;
+1284;1443;;"Callonetta";"Delacour, 1936";;
+1284;1445;;"Lophonetta";"Riley, 1914";;
+1284;1449;;"Speculanas";"Boetticher, 1929";;
+1284;1451;;"Sibirionetta";"Boetticher, 1929";"PHY, TAX, SEQ";"Transfer Baikal Teal from Anas to monotypic Sibirionetta (Gonzalez et al. 2009; H&M 4; NACC 2017-B-10)."
+1284;1453;;"Spatula";"Boie, F, 1822";"PHY, TAX, SEQ";"Transfer 10 species of teals and shovelers from Anas to Spatula and resequence (Gonzalez et al. 2009; H&M 4; NACC 2017-B-10)."
+1284;1471;;"Mareca";"Stephens, 1824";"PHY, TAX, SEQ";"Transfer 6 species of wigeons from Anas to Mareca and resequence (Gonzalez et al. 2009; H&M 4; NACC 2017-B-10)."
+1284;1480;;"Anas";"Linnaeus, 1758";"PHY, TAX, SEQ";"Excludes species moved to Sibirionetta, Spatula, and Mareca and resequenced (Gonzalez et al. 2009; H&M 4; NACC 2017-B-10). "
+1284;1539;;"Marmaronetta";"Reichenbach, 1853";;
+1284;1541;"1";"Rhodonessa";"Reichenbach, 1853";;
+1284;1543;;"Netta";"Kaup, 1829";;
+1284;1549;;"Aythya";"Boie, F, 1822";;
+1284;1564;;"Polysticta";"Eyton, 1836";;
+1284;1566;;"Somateria";"Leach, 1819";;
+1284;1576;;"Histrionicus";"Lesson, R, 1828";;
+1284;1578;"1";"Camptorhynchus";"Bonaparte, 1838";;
+1284;1580;;"Melanitta";"Boie, F, 1822";;
+1284;1587;;"Clangula";"Leach, 1819";;
+1284;1589;;"Bucephala";"Baird, SF, 1858";;
+1284;1595;;"Mergellus";"Selby, 1840";;
+1284;1597;;"Lophodytes";"Reichenbach, 1853";;
+1284;1599;;"Mergus";"Linnaeus, 1758";;
+1284;1608;;"Heteronetta";"Salvadori, 1865";;
+1284;1610;;"Nomonyx";"Ridgway, 1880";;
+1284;1612;;"Oxyura";"Bonaparte, 1828";;
+1284;1621;;"Biziura";"Stephens, 1824";;
+1628;1629;;"Podargus";"Vieillot, 1818";;
+1628;1641;;"Rigidipenna";"Cleere et al. 2007";"TAX";"DNA analyses support separation of Podargus inexpectatus to a monotypic genus Rigidipenna (Cleere et al. 2007; BLI; Tree of Life)."
+1628;1643;;"Batrachostomus";"Gould, 1838";;
+1668;1669;;"Steatornis";"Humboldt, 1814";;
+1672;1673;;"Nyctibius";"Vieillot, 1816";;
+1692;1693;;"Eurostopodus";"Gould, 1838";"SEQ";"The eared nightjars Eurostopodus are basal to rest of the Caprimulgidae, and thus placed first in the sequence of the genera (Barrowclough et al. 2006; Larsen et al. 2007)."
+1692;1701;;"Lyncornis";"Gould, 1838";"PHY,TAX";"Move Malaysian Eared Nightjar and Great Eared Nightjar from Eurostopodus to Lyncornis (Han et al. 2010)."
+1692;1709;;"Gactornis";"Han, Robbins & Braun, 2010";;
+1692;1711;;"Chordeiles";"Swainson, 1832";;
+1692;1744;;"Lurocalis";"Cassin, 1851";;
+1692;1751;;"Nyctiprogne";"Bonaparte, 1857";;
+1692;1759;;"Nyctipolus";"Ridgway, 1912";"TAX, PHY";"Generic assignments of New World taxa, formerly placed in Caprimulgus, are revised following SACC 522, based on Han et al. (2010)."
+1692;1765;;"Nyctidromus";"Gould, 1838";;
+1692;1774;;"Setopagis";"Ridgway, 1912";"TAX, PHY";"Generic assignments of New World taxa, formerly placed in Caprimulgus, are revised following SACC 522, based on Han et al. (2010)."
+1692;1779;;"Eleothreptus";"Gray, GR, 1840";;
+1692;1782;;"Systellura";"Ridgway, 1912";"TAX, PHY";"Generic assignments of New World taxa, formerly placed in Caprimulgus, are revised following SACC 522 based on Han et al. (2010)."
+1692;1793;;"Uropsalis";"Miller, W, 1915";;
+1692;1801;;"Hydropsalis";"Wagler, 1832";"PHY";"White-tailed Nightjar and Spot-tailed Nightjar assigned to Hydropsalis following SACC 522, based on Han et al. (2010)."
+1692;1819;;"Macropsalis";"Sclater, PL, 1866";;
+1692;1821;;"Siphonorhis";"Sclater, PL, 1861";;
+1692;1826;;"Nyctiphrynus";"Bonaparte, 1857";;
+1692;1835;;"Phalaenoptilus";"Ridgway, 1880";;
+1692;1843;;"Antrostomus";"Bonaparte, 1838";"PHY, TAX";"Transfer the following 11 species of New World nightjars to Antrostomus following Han et al. (2010), SACC 466."
+1692;1871;;"Veles";"Bangs, 1918";;
+1692;1873;;"Caprimulgus";"Linnaeus, 1758";;
+1982;1983;;"Aegotheles";"Vigors & Horsfield, 1827";"TAX";"Euaegotheles is merged into Aegotheles (Dumbacher et al. 2003)."
+2000;2001;;"Hemiprocne";"Nitzsch, 1829";;
+2019;2020;;"Cypseloides";"Streubel, 1848";;
+2019;2032;;"Streptoprocne";"Oberholser, 1906";;
+2019;2052;;"Hydrochous";"Brooke, 1970";;
+2019;2054;;"Collocalia";"Gray, GR, 1840";"PHY, TAX, AS";"The Glossy Swiftlet species complex is revised to follow Rheindt et al. (2017)."
+2019;2101;;"Aerodramus";"Oberholser, 1906";;
+2019;2188;;"Schoutedenapus";"De Roo, 1968";;
+2019;2193;;"Mearnsia";"Ridgway, 1911";;
+2019;2198;;"Zoonavena";"Mathews, 1918";;
+2019;2204;;"Telacanthura";"Mathews, 1918";;
+2019;2211;;"Rhaphidura";"Oates, 1883";;
+2019;2214;;"Neafrapus";"Mathews, 1918";;
+2019;2219;;"Hirundapus";"Hodgson, 1837";;
+2019;2228;;"Chaetura";"Stephens, 1826";;
+2019;2261;;"Aeronautes";"Hartert, 1892";;
+2019;2272;;"Tachornis";"Gosse, 1847";;
+2019;2282;;"Panyptila";"Cabanis, 1847";;
+2019;2285;;"Cypsiurus";"Lesson, R, 1843";;
+2019;2301;;"Tachymarptis";"Roberts, 1922";;
+2019;2319;;"Apus";"Scopoli, 1777";;
+2374;2375;;"Topaza";"Gray, GR, 1840";"PHY";"Topaza and Florisuga are basal genera within Trochilidae (Altshuler et al. 2004; McGuire et al. 2014)."
+2374;2383;;"Florisuga";"Bonaparte, 1850";;
+2374;2388;;"Eutoxeres";"Reichenbach, 1849";;
+2374;2396;;"Ramphodon";"Lesson, R, 1830";;
+2374;2398;;"Glaucis";"Boie, F, 1831";;
+2374;2404;;"Threnetes";"Gould, 1852";;
+2374;2417;;"Anopetia";"Simon, 1918";;
+2374;2419;;"Phaethornis";"Swainson, 1827";;
+2374;2491;;"Doryfera";"Gould, 1847";;
+2374;2498;;"Schistes";"Gould, 1852";;
+2374;2503;;"Augastes";"Gould, 1849";;
+2374;2509;;"Colibri";"von Spix, 1824";;
+2374;2521;;"Androdon";"Gould, 1863";;
+2374;2523;;"Heliactin";"Boie, F, 1831";;
+2374;2525;;"Heliothryx";"Boie, F, 1831";;
+2374;2531;;"Polytmus";"Brisson, 1760";;
+2374;2540;;"Avocettula";"Reichenbach, 1849";;
+2374;2542;;"Chrysolampis";"Boie, F, 1831";;
+2374;2544;;"Anthracothorax";"Boie, F, 1831";;
+2374;2559;;"Eulampis";"Boie, F, 1831";;
+2374;2564;;"Heliangelus";"Gould, 1848";"TAX";"Bogota Sunangel Heliangelus zusii, currently recognized by the SACC, is here regarded as a hybrid specimen, of which one of the parents is likely Aglaiocercus kingi (Pérez-Emán et al. 2018)."
+2374;2585;;"Sephanoides";"Gray, GR, 1840";;
+2374;2590;;"Discosura";"Bonaparte, 1850";"TAX";"Popelairia is now merged into Discosura (Schuchmann 1999; SACC)."
+2374;2598;;"Lophornis";"Lesson, R, 1829";;
+2374;2616;;"Phlogophilus";"Gould, 1860";;
+2374;2619;;"Adelomyia";"Bonaparte, 1854";;
+2374;2630;;"Aglaiocercus";"Zimmer, JT, 1930";;
+2374;2642;;"Sappho";"Reichenbach, 1849";;
+2374;2646;;"Polyonymus";"Heine, 1863";;
+2374;2648;;"Taphrolesbia";"Simon, 1918";;
+2374;2650;;"Oreotrochilus";"Gould, 1847";;
+2374;2663;;"Opisthoprora";"Cabanis & Heine, 1860";;
+2374;2665;;"Lesbia";"Lesson, R, 1833";;
+2374;2677;;"Ramphomicron";"Bonaparte, 1850";;
+2374;2684;;"Chalcostigma";"Reichenbach, 1854";;
+2374;2697;;"Oxypogon";"Gould, 1848";;
+2374;2702;;"Oreonympha";"Gould, 1869";;
+2374;2706;;"Metallura";"Gould, 1847";;
+2374;2731;;"Haplophaedia";"Simon, 1918";;
+2374;2743;;"Eriocnemis";"Reichenbach, 1849";;
+2374;2766;;"Loddigesia";"Bonaparte, 1850";;
+2374;2768;;"Aglaeactis";"Gould, 1848";;
+2374;2777;;"Coeligena";"Lesson, R, 1833";;
+2374;2820;;"Lafresnaya";"Bonaparte, 1850";;
+2374;2829;;"Ensifera";"Lesson, R, 1843";;
+2374;2831;;"Pterophanes";"Gould, 1849";;
+2374;2836;;"Boissonneaua";"Reichenbach, 1854";;
+2374;2842;;"Ocreatus";"Gould, 1846";;
+2374;2853;;"Urochroa";"Gould, 1856";;
+2374;2856;;"Urosticte";"Gould, 1853";;
+2374;2859;;"Heliodoxa";"Gould, 1850";;
+2374;2883;;"Clytolaema";"Gould, 1853";;
+2374;2885;;"Patagona";"Gray, GR, 1840";;
+2374;2889;;"Sternoclyta";"Gould, 1858";;
+2374;2891;;"Hylonympha";"Gould, 1873";;
+2374;2893;;"Eugenes";"Gould, 1856";;
+2374;2896;;"Panterpe";"Cabanis & Heine, 1860";;
+2374;2900;;"Heliomaster";"Bonaparte, 1850";;
+2374;2911;;"Lampornis";"Swainson, 1827";"SEQ";"Linear sequence of Lampornis follows the phylogenies of Garcia-Moreno et al. (2006) and McGuire et al. (2014). Proposal needed to update NACC sequence of Lampornis. 
+
+"
+2374;2935;;"Lamprolaima";"Reichenbach, 1854";;
+2374;2937;;"Calliphlox";"Boie, F, 1831";"TAX";"Calliphlox,as treated here,is paraphyletic (McGuire et al. 2014; Licona-Vera & Ornelas 2017). Calliphlox amethystina is not sister to the C. bryantae and C. mitchellii clade (Licona-Vera & Ornelas 2017; NACC 2019-D-14). The latter two should probably be transferred to a separate genus, Philodice Mulsant, Verreaux, J & Verreaux, E, 1866; NACC and SACC need proposal."
+2374;2941;;"Myrtis";"Reichenbach, 1854";;
+2374;2945;;"Rhodopis";"Reichenbach, 1854";;
+2374;2950;;"Myrmia";"Mulsant, 1876";;
+2374;2952;;"Thaumastura";"Bonaparte, 1850";;
+2374;2954;;"Eulidia";"Mulsant, 1877";;
+2374;2956;;"Microstilbon";"Todd, 1913";;
+2374;2958;;"Chaetocercus";"Gray, GR, 1855";;
+2374;2970;;"Tilmatura";"Reichenbach, 1854";;
+2374;2972;;"Doricha";"Reichenbach, 1854";;
+2374;2975;;"Calothorax";"Gray, GR, 1840";;
+2374;2978;;"Archilochus";"Reichenbach, 1854";;
+2374;2981;;"Mellisuga";"Brisson, 1760";;
+2374;2986;;"Nesophlox";"Ridgway, 1910";"TAX, PHY";"Resurrect Nesophlox for two species (evelynae and lyrura) formerly assigned to Calliphlox to avoid polyphyly (McGuire et al. 2014; Licona-Vera & Ornelas 2017; NACC 2019-D-14)."
+2374;2989;;"Calypte";"Gould, 1856";;
+2374;2992;;"Selasphorus";"Swainson, 1832";;
+2374;3011;;"Phaeoptila";"Gould, 1861";;"Remove from Cynanthus and replace in monotypic Phaeoptila (McGuire et al. 2014; Stiles et al. 2017b; NACC 2020-A-02, 2020-A-03, 2020-D-01). Note gender."
+2374;3013;;"Riccordia";"Reichenbach, 1854";;"Greater Antillean emerald clade is removed from Chlorostilbon and placed in resurrected Riccordia to eliminate polyphyly  (NACC 2020-A-02, 2020-D-01)."
+2374;3020;;"Cynanthus";"Swainson, 1827";"TAX, PHY";"Generic limits of Cynanthus revised to include the canivetii group formerly included in Chlorostilbon (McGuire et al. 2014; Stiles et al. 2017b; NACC 2020-A-02, 2020-D-01)."
+2374;3033;;"Chlorostilbon";"Gould, 1853";"PHY";"Sequence of Chlorostilbon and Cynanthus is based on Hernández-Baños et al. (2020)."
+2374;3061;;"Basilinna";"Boie, F, 1831";;
+2374;3067;;"Pampa";"Reichenbach, 1854";"TAX, PHY";"Campylopterus s.l. is polyphyletic; removal of four northern Middle American species to Pampa resolves polyphyly (McGuire et al. 2014; NACC 2020-A-02, 2020-D-01). Note gender."
+2374;3072;;"Abeillia";"Bonaparte, 1850";;
+2374;3076;;"Klais";"Reichenbach, 1854";;
+2374;3081;;"Orthorhyncus";"Lacépède, 1799";;
+2374;3087;;"Anthocephala";"Cabanis & Heine, 1860";;
+2374;3090;;"Stephanoxis";"Simon, 1897";;
+2374;3093;;"Campylopterus";"Swainson, 1827";"TAX, PHY";"Campylopterus s.l. is polyphyletic; removal of four northern Middle American species to Pampa resolves polyphyly (NACC 2020-A-02, 2020-D-01). Those species not included in McGuire et al. (2014). "
+2374;3111;;"Chalybura";"Reichenbach, 1854";;
+2374;3122;;"Thalurania";"Gould, 1848";;
+2374;3148;;"Microchera";"Gould, 1858";"TAX, PHY";"The two species of Elvira are now subsumed within formerly monotypic Microchera due to short branch lengths (McGuire et al. 2014; NACC-2020-A-02, 2020-D-01)."
+2374;3154;;"Goldmania";"Nelson, 1911";"TAX, PHY";"Monotypic Goethalsia is merged into formerly monotypic Goldmania due to rather short branch length and overall similarity (McGuire et al. 2014; NACC-2020-A-02, 2020-D-01)."
+2374;3157;;"Eupherusa";"Gould, 1857";;
+2374;3166;;"Phaeochroa";"Gould, 1861";;
+2374;3174;;"Leucippus";"Bonaparte, 1850";"PHY, TAX";"Recent molecular studies show that Leucippus, as previously treated, is polyphyletic. Revise classification of Leucippus to a monotypic genus with split of Thaumasius and Talaphorus (McGuire et al. 2014; Stiles et al. 2017b; SACC 781)."
+2374;3176;;"Thaumasius";"Sclater, PL, 1879";"PHY, TAX";"To resolve polyphyly in Leucippus, resurrect Thaumasius for baeri and taczanowskii (McGuire et al. 2014; Stiles et al. 2017b; SACC 781)."
+2374;3179;;"Taphrospilus";"Simon, 1910";;
+2374;3181;;"Eupetomena";"Gould, 1853";"PHY, TAX";"Aphantochroa cirrochloris is merged into Eupetomena based on genetic relationships, shared sabre-winged structure, and similar biogeography (McGuire et al. 2014; Stiles et al. 2017b; SACC 781; NACC 2020-A-02, 2020-D-01)."
+2374;3189;;"Talaphorus";"Mulsant & Verreaux, 1874";"PHY, TAX";"Monotypic Talaphorus resurrected for chlorocercus, a phylogenetic  outlier, to avoid a polyphyletic Leucippus (McGuire et al. 2014; Stiles et al. 2017b; SACC 781)."
+2374;3191;;"Trochilus";"Linnaeus, 1758";;
+2374;3194;;"Leucolia";"Mulsant, Verreaux, J & Verreaux, E, 1866";"PHY, TAX";"Leucolia resurrected for these three Mexican species to avoid an overly broad Amazilia (McGuire et al. 2014; NACC 2020-A-03, 2020-D-01)."
+2374;3202;;"Saucerottia";"Bonaparte, 1850";"PHY, TAX";"Saucerottia is one of several genera split from a broad, polyphyletic Amazilia (McGuire et al. 2014; Stiles et al. 2017b; SACC 781; NACC 2020-A-03, 2020-D-01)."
+2374;3243;;"Amazilia";"Lesson, R, 1843";;
+2374;3261;;"Amazilis";"Gray, 1855";"TAX, PHY";"An outlier on the phylogeny of Amazilia (McGuire et al. 2014), hence earlier generic name Amazilis restored as a monotypic genus (Stiles et al. 2017b; SACC 781; NACC 2020-A-03)."
+2374;3269;;"Uranomitra";"Reichenbach, 1854";"TAX, PHY";"An outlier to the phylogeny of Amazilia (McGuire et al. 2014), as well as being the only montane form and the only sexually dichromatic form, thus restored to monotypic genus Uranomitra (Stiles et al. 2017b; SACC 781)."
+2374;3274;;"Chrysuronia";"Bonaparte, 1850";"TAX, PHY";"Chrysuronia is broadened to include all the Lepidopyga species and a few Amazilia and Hylocharis species on the basis of phylogeny (McGuire et al. 2014; Stiles et al. 2017b; SACC 781; NACC 2020-A-03, 2020-D-01)."
+2374;3304;;"Leucochloris";"Reichenbach, 1854";;
+2374;3306;;"Chionomesa";"Simon, 1921";"TAX, PHY";"Glittering-throated Emerald and Sapphire-spangled Emerald are not closely related to Amazilia, hence available generic name Chionomesa resurrected (McGuire et al. 2014; Stiles et al. 2017b; SACC 781; NACC 2020-A-03)."
+2374;3319;;"Hylocharis";"Boie, F, 1831";;
+2374;3322;;"Elliotomyia";"Stiles & Remsen, 2019";"TAX, PHY";"New genus Elliotomyia (replacing preoccupied Elliotia) for montane representatives formerly in Amazilia (sometimes Leucippus) (McGuire et al. 2014; Stiles et al. 2017b; SACC 781)."
+2374;3327;;"Polyerata";"Heine, 1863";"TAX, PHY";"Polyerata resurrected for three species forming a distinct clade outside of core Amazilia (McGuire et al. 2014; Stiles et al. 2017b; SACC 781; NACC 2020-A-03, 2020-D-01)."
+2374;3331;;"Chlorestes";"Reichenbach, 1854";"TAX, PHY";"Chlorestes expanded to include species from Amazilia, Hylocharis and Juliamyia which form a distinct clade outside of core Amazilia (McGuire et al. 2014; Stiles et al. 2017b; SACC 781; NACC 2020-A-03, 2020-D-01)."
+3355;3356;;"Corythaeola";"Heine, 1860";;
+3355;3358;;"Tauraco";"Kluk, 1779";;
+3355;3390;;"Ruwenzorornis";"Neumann, 1903";;
+3355;3395;;"Musophaga";"Isert, 1788";;
+3355;3398;;"Corythaixoides";"Smith, A, 1833";;
+3355;3408;;"Crinifer";"Jarocki, 1821";;
+3413;3414;;"Otis";"Linnaeus, 1758";;
+3413;3418;;"Ardeotis";"Le Maout, 1853";;
+3413;3429;;"Chlamydotis";"Lesson, R, 1839";;
+3413;3434;;"Neotis";"Sharpe, 1893";;
+3413;3442;;"Eupodotis";"Lesson, R, 1839";"PHY";"Eupodotis is biphyletic, with rueppellii, humilis and vigorsii forming a deep branch and the three other species grouped with Afrotis (Pitra et al. 2002; Fjeldså pers. comm.)."
+3413;3457;;"Lophotis";"Reichenbach, 1848";;
+3413;3461;;"Afrotis";"Gray, GR, 1855";;
+3413;3467;;"Lissotis";"Reichenbach, 1848";;
+3413;3472;;"Houbaropsis";"Sharpe, 1893";;
+3413;3476;;"Sypheotides";"Lesson, R, 1839";;
+3413;3478;;"Tetrax";"Forster, T, 1817";;
+3482;3483;;"Guira";"Lesson, R, 1830";;
+3482;3485;;"Crotophaga";"Linnaeus, 1758";;
+3482;3489;;"Tapera";"Thunberg, 1819";;
+3482;3491;;"Dromococcyx";"Wied-Neuwied, 1832";;
+3482;3494;;"Morococcyx";"Sclater, PL, 1862";;
+3482;3498;;"Geococcyx";"Wagler, 1831";;
+3482;3501;;"Neomorphus";"Gloger, 1827";;
+3482;3515;;"Centropus";"Illiger, 1811";;
+3482;3591;;"Carpococcyx";"Gray, GR, 1840";;
+3482;3595;;"Coua";"Schinz, 1821";;
+3482;3612;;"Rhinortha";"Vigors, 1830";;
+3482;3614;;"Ceuthmochares";"Cabanis & Heine, 1863";;
+3482;3619;;"Taccocua";"Lesson, R, 1830";;
+3482;3624;;"Zanclostomus";"Swainson, 1837";;
+3482;3628;;"Rhamphococcyx";"Cabanis & Heine, 1863";;
+3482;3633;;"Phaenicophaeus";"Stephens, 1815";;
+3482;3650;;"Dasylophus";"Swainson, 1837";;
+3482;3655;;"Clamator";"Kaup, 1829";;
+3482;3663;;"Coccycua";"Lesson, R, 1830";;
+3482;3669;;"Piaya";"Lesson, R, 1830";;
+3482;3686;;"Coccyzus";"Vieillot, 1816";;
+3482;3706;;"Pachycoccyx";"Cabanis, 1882";;
+3482;3711;;"Microdynamis";"Salvadori, 1878";;
+3482;3715;;"Eudynamys";"Vigors & Horsfield, 1827";;
+3482;3732;;"Urodynamis";"Salvadori, 1880";;
+3482;3734;;"Scythrops";"Latham, 1790";;
+3482;3739;;"Chrysococcyx";"Boie, F, 1826";;
+3482;3771;;"Cacomantis";"Müller, S, 1843";;
+3482;3809;;"Cercococcyx";"Cabanis, 1882";;
+3482;3815;;"Surniculus";"Lesson, R, 1830";;
+3482;3828;;"Hierococcyx";"Müller, S, 1845";;
+3482;3839;;"Cuculus";"Linnaeus, 1758";;
+3482;3859;"2";"Nannococcyx";"Olson, 1975";;
+3863;3864;;"Mesitornis";"Bonaparte, 1855";;
+3863;3867;;"Monias";"Oustalet & Grandidier, G, 1903";;
+3871;3872;;"Syrrhaptes";"Illiger, 1811";;
+3871;3875;;"Pterocles";"Temminck, 1815";;
+3920;3921;;"Columba";"Linnaeus, 1758";;
+3920;4000;;"Patagioenas";"Reichenbach, 1853";;
+3920;4054;;"Nesoenas";"Salvadori, 1893";"TAX";"Neosenas must be treated as masculine (David & Gregory 2008)."
+3920;4065;;"Streptopelia";"Bonaparte, 1855";;
+3920;4108;;"Spilopelia";"Sundevall, 1873";"TAX";"Separate Spotted Dove and Laughing Dove from Streptopelia to Spilopelia, not Stigmatopelia (Schodde 1997; Penhallurick correspondence; cf. Cheke 2005; BLI)."
+3920;4121;;"Macropygia";"Swainson, 1837";"PHY, TAX, ENG";"6.2 Revisions of Macropygia species taxonomy follow Ng et al. (2016)."
+3920;4182;;"Reinwardtoena";"Bonaparte, 1854";;
+3920;4189;;"Turacoena";"Bonaparte, 1854";;
+3920;4193;;"Turtur";"Boddaert, 1783";;
+3920;4201;;"Oena";"Swainson, 1837";;
+3920;4205;;"Chalcophaps";"Gould, 1843";;
+3920;4222;;"Henicophaps";"Gray, GR, 1862";;
+3920;4227;;"Phaps";"Selby, 1835";;
+3920;4233;;"Ocyphaps";"Gray, GR, 1842";;
+3920;4237;;"Geophaps";"Gray, GR, 1842";;
+3920;4248;;"Trugon";"Gray, GR, 1849";;
+3920;4253;;"Leucosarcia";"Gould, 1843";;
+3920;4255;;"Petrophassa";"Gould, 1841";;
+3920;4260;;"Geopelia";"Swainson, 1837";;
+3920;4272;;"Columbina";"Spix, 1825";;
+3920;4314;;"Claravis";"Oberholser, 1899";;
+3920;4316;;"Paraclaravis";"Sangster, Sweet & Johnson, KP, 2018";"TAX, PHY";"Paraclaravis is a new genus: Sangster, Sweet & Johnson, 2018, described to resolve the polyphyly of Claravis shown in recent phylogenetic studies (Sweet et al. 2017)."
+3920;4319;;"Metriopelia";"Bonaparte, 1855";;
+3920;4329;;"Uropelia";"Bonaparte, 1855";;
+3920;4331;;"Starnoenas";"Bonaparte, 1838";;
+3920;4333;;"Geotrygon";"Gosse, 1847";"PHY, TAX";"Former Geotrygon is paraphyletic. Classification below including Leptotrygon and Zentrygon follows Johnson & Weckstein (2011); Banks et al. (2013); NACC 2014-C-3; SACC 640."
+3920;4349;;"Leptotrygon";"Banks, Weckstein, Remsen & Johnson, KP, 2013";"TAX";"Leptotrygon is a new genus required for veraguensis because of its close phylogenetic association with Leptotila (Banks et al. 2013)."
+3920;4351;;"Leptotila";"Swainson, 1837";;
+3920;4393;;"Zentrygon";"Banks, Weckstein, Remsen & Johnson, KP, 2013";"TAX";"Zentrygon is a new genus for the clade of quail-dove species that are related to Zenaida doves (Banks et al. 2013)."
+3920;4410;"1";"Ectopistes";"Swainson, 1827";"PHY, SEQ";"Resequence Ectopistes to follow Zentrygon (Johnson & Weckstein 2011; Banks et al. 2013)."
+3920;4412;;"Zenaida";"Bonaparte, 1838";"PHY, SEQ";"Resequence Zenaida to follow Zentrygon/Ectopistes (Johnson & Weckstein 2011; Banks et al. 2013)."
+3920;4444;;"Caloenas";"Gray, GR, 1840";;
+3920;4449;;"Gallicolumba";"Heck, 1849";"PHY";"Gallicolumba is biphyletic, with a Philippine radiation and a Pacific radiation related to Leucosarcia, Geopelia and the Australian bronze pigeons; restore Alopecoenas for members of the Pacific radiation (Jønsson et al. 2011; Moyle et al. 2013)."
+3920;4469;;"Pampusana";"Bonaparte, 1855";"TAX";"Pampusana Bonaparte, 1855 has priority over Alopecoenas Sharpe, 1899. Note difference in gender (Bruce et al. 2016)."
+3920;4494;"1";"Microgoura";"Rothschild, 1904";;
+3920;4496;;"Otidiphaps";"Gould, 1870";;
+3920;4502;;"Goura";"Stephens, 1819";;
+3920;4509;"1";"Raphus";"Brisson, 1760";;
+3920;4511;"1";"Pezophaps";"Strickland, 1848";;
+3920;4513;;"Didunculus";"Peale, 1849";;
+3920;4515;;"Phapitreron";"Bonaparte, 1854";;
+3920;4528;;"Treron";"Vieillot, 1816";;
+3920;4628;;"Ptilinopus";"Swainson, 1825";;
+3920;4773;;"Drepanoptila";"Bonaparte, 1855";;
+3920;4775;;"Alectroenas";"Gray, GR, 1840";;
+3920;4782;;"Ducula";"Hodgson, 1836";;
+3920;4870;;"Lopholaimus";"Gould, 1841";;
+3920;4872;;"Hemiphaga";"Bonaparte, 1854";;
+3920;4877;;"Cryptophaps";"Salvadori, 1893";;
+3920;4879;;"Gymnophaps";"Salvadori, 1874";;
+4888;4889;;"Podica";"Lesson, R, 1831";;
+4888;4895;;"Heliopais";"Sharpe, 1893";;
+4888;4897;;"Heliornis";"Bonnaterre, 1791";;
+4900;4901;;"Mentocrex";"Peters, 1932";"PHY, TAX";"Move (9.2) Madagascan Woodrails from unrelated Canirallus to Mentocrex (Boast et al. 2019)."
+4900;4906;;"Sarothrura";"Heine, 1890";;
+4900;4929;;"Rallicula";"Schlegel, 1871";"TAX, PHY";"MOVE the following four species from Rallina to Rallicula (Christidis & Boles 2008); Rallicula rails form a clade with flufftails and Mentocrex rails in the Sarothruridae (Livezey 1998; Garcia-R et al. 2020)."
+4941;4942;;"Canirallus";"Bonaparte, 1856";;
+4941;4944;;"Mustelirallus";"Bonaparte, 1856";"TAX, PHY";"Mustelirallus is resurrected for Ash-throated Crake, formerly included in Porzana, but which is closest to Neocrex and other members of the Aramides clade (Garcia-R et al. 2014; SACC 650). Treat as monotypic, contra SACC, which merges Neocrex in this genus."
+4941;4948;;"Neocrex";"Sclater, PL & Salvin, 1869";;
+4941;4955;;"Cyanolimnas";"Barbour & Peters, JL, 1927";;
+4941;4957;;"Pardirallus";"Bonaparte, 1856";;
+4941;4971;;"Amaurolimnas";"Sharpe, 1893";;
+4941;4976;;"Aramides";"Pucheran, 1845";;
+4941;4992;;"Rallus";"Linnaeus, 1758";;
+4941;5038;;"Crecopsis";"Sharpe, 1893";;
+4941;5040;;"Rougetius";"Bonaparte, 1856";;
+4941;5042;;"Dryolimnas";"Sharpe, 1893";;
+4941;5048;;"Crex";"Bechstein, 1803";;
+4941;5050;;"Aramidopsis";"Sharpe, 1893";;
+4941;5052;;"Lewinia";"Gray, GR, 1855";;
+4941;5069;"2";"Diaphorapteryx";"Forbes, HO, 1893";;
+4941;5071;;"Habroptila";"Gray, GR, 1861";;
+4941;5073;;"Gallirallus";"Lafresnaye, 1841";;
+4941;5080;;"Eulabeornis";"Gould, 1844";;
+4941;5084;;"Cabalus";"Hutton, FW, 1874";"TAX, PHY";"Recognition of this genus and its order in the sequence follows Kirchman (2012) and Dickinson & Remsen (2013). May be embedded within Hypotaenidia (Boast et al. 2019)."
+4941;5087;;"Hypotaenidia";"Reichenbach, 1853";"TAX, PHY";"The species in Hypotaenidia are often included in Gallirallus s.l., but the sequence in Kirchman (2012) shows them to be paraphyletic to Gallirallus s.s. Recognition follows Dickinson & Remsen (2013). Includes Nesoclopeus."
+4941;5128;;"Porphyriops";"Pucheran, 1845";;
+4941;5133;;"Porzana";"Vieillot, 1816";"PHY, TAX";"Revisions of Porzana crakes include separation of twelve species to Zapornia, and others to Mustelirallus, Laterallus and Poliolimnas (Slikas et al. 2002; H&M 4; Garcia-R et al. 2014, 2020; Boast et al. 2019; Stervander et al. 2019; SACC 650)."
+4941;5137;;"Tribonyx";"Du Bus de Gisignies, 1840";"TAX";"Two species of nativehen are moved from Gallinula to Tribonyx (Livezey 1998; Christidis & Boles 2008)."
+4941;5140;;"Paragallinula";"Sangster, Garcia-R & Trewick, 2015";"TAX";"Move Lesser Moorhen from Gallinula to monotypic Paragallinula (García-R et al. 2014; Sangster et al. 2015)."
+4941;5142;;"Gallinula";"Brisson, 1760";;
+4941;5165;;"Fulica";"Linnaeus, 1758";;
+4941;5185;;"Porphyrio";"Brisson, 1760";;
+4941;5206;;"Micropygia";"Bonaparte, 1856";;
+4941;5210;;"Rufirallus";"Bonaparte, 1856";"TAX, PHY";"The genus Rufirallus Bonaparte, 1856 has priority over Anurolimnas Sharpe, 1893 when Chestnut-headed Crake and Russet-crowned Crake are treated as congeneric (Dickinson & Remsen 2013; HBW; Garcia-R et al. 2020)."
+4941;5217;;"Coturnicops";"Gray, GR, 1855";;
+4941;5223;;"Laterallus";"Gray, GR, 1855";;"Recent phylogenies show that Laterallus is paraphyletic relative to Yellow-breasted Crake (Garcia-R et al. 2014; Stervander et al. 2019). One solution is to treat Yellow-breasted Crake in its own monotypic genus Hapalocrex Ridgway, 1920 and separate out the ""American Black"" clade of Laterallus (which includes jamaicensis, spilonota, spiloptera, and rogersi) as Creciscus Cabanis, 1857 (Stervander et al. 2019)."
+4941;5252;"2";"Mundia";"Bourne, Ashmole & Simmons, 2003";;
+4941;5254;"2";"Aphanocrex";"Wetmore, 1963";"EXT, TAX";"Aphanocrex is included in Zapornia by HBW."
+4941;5256;;"Zapornia";"Leach, 1816";"TAX, PHY";"Zapornia includes species formerly assigned to Porzana and Amaurornis (Slikas et al. 2002; Dickinson & Remsen 2013;  Stervander et al. 2019, Garcia-R et al. 2014; Boast et al. 2019)."
+4941;5284;;"Rallina";"Gray, GR, 1846";;
+4941;5296;;"Gymnocrex";"Salvadori, 1875";;
+4941;5302;;"Himantornis";"Hartlaub, 1855";;
+4941;5304;;"Megacrex";"D'Albertis & Salvadori, 1879";;
+4941;5308;;"Poliolimnas";"Sharpe, 1893";;
+4941;5310;;"Aenigmatolimnas";"Peters, JL, 1932";;
+4941;5312;;"Gallicrex";"Blyth, 1852";"PHY";"Sequence between Aenigmatolimnas and Amaurornis is consistent with recent phylogenetic studies (Garcia-R et al. 2020)."
+4941;5314;;"Amaurornis";"Reichenbach, 1853";"PHY, TAX";"Proposed revision of three species of Amaurornis (akool, flavirostra, olivieri) to Zapornia (Slikas et al. 2002; H&M 4; Stervander et al. 2019)."
+4941;5327;"2";"Aphanapteryx";"von Frauenfeld, 1868";;
+4941;5329;"2";"Erythromachus";"Milne-Edwards, 1873";;
+5332;5333;;"Psophia";"Linnaeus, 1758";;
+5344;5345;;"Balearica";"Brisson, 1760";;
+5344;5352;;"Leucogeranus";"Bonaparte, 1855";"PHY, TAX";"Move Siberian Crane from Grus to Leucogeranus (Krajewski et al. 2010)."
+5344;5354;;"Antigone";"Reichenbach, 1853";"PHY, TAX";"Move canadensis clade of Grus cranes to genus Antigone (Krajewski et al. 2010; NACC 2016-C-4)."
+5344;5367;;"Grus";"Brisson, 1760";"PHY, TAX, SEQ";"Grus includes embedded genera Anthropoides (paradiseus, virgo) and Bugeranus (carunculatus) following H&M 4; but see Krajewski et al. (2010)."
+5377;5378;;"Aramus";"Vieillot, 1816";;
+5386;5387;;"Tachybaptus";"Reichenbach, 1853";;
+5386;5415;;"Podilymbus";"Lesson, R, 1831";;
+5386;5421;;"Rollandia";"Bonaparte, 1856";;
+5386;5427;;"Poliocephalus";"Selby, 1840";;
+5386;5430;;"Podiceps";"Latham, 1787";;
+5386;5454;;"Aechmophorus";"Coues, 1862";;
+5463;5464;;"Phoenicopterus";"Linnaeus, 1758";;
+5463;5468;;"Phoeniconaias";"Gray, GR, 1869";;
+5463;5470;;"Phoenicoparrus";"Bonaparte, 1856";;
+5475;5476;;"Turnix";"Bonnaterre, 1791";;
+5475;5539;;"Ortyxelos";"Vieillot, 1825";;
+5542;5543;;"Burhinus";"Illiger, 1811";;
+5542;5567;;"Esacus";"Lesson, R, 1831";;
+5571;5572;;"Chionis";"Forster, JR, 1788";;
+5580;5581;;"Pluvianellus";"Gray, GR, 1846";;
+5584;5585;;"Haematopus";"Linnaeus, 1758";;
+5607;5608;;"Ibidorhyncha";"Vigors, 1832";;
+5611;5612;;"Himantopus";"Brisson, 1760";"PL";"Species taxonomy of Himantopus controversial; some authors recognize one species (H. himantopus) with 4-5 ssp. (H&M 4; HBW Alive)."
+5611;5620;;"Cladorhynchus";"Gray, GR, 1840";;
+5611;5622;;"Recurvirostra";"Linnaeus, 1758";;
+5628;5629;;"Vanellus";"Brisson, 1760";;
+5628;5674;;"Erythrogonys";"Gould, 1838";;
+5628;5676;;"Peltohyas";"Sharpe, 1896";;
+5628;5678;;"Anarhynchus";"Quoy & Gaimard, 1832";;
+5628;5680;;"Pluvialis";"Brisson, 1760";"PHY";"The Pluvialis plovers are members of the traditional plover family Charadriidae (Baker et al. 2012; cf. Baker et al. 2007)."
+5628;5688;;"Charadrius";"Linnaeus, 1758";;
+5628;5761;;"Thinornis";"Gray, GR, 1844";;
+5628;5764;;"Elseyornis";"Mathews, 1914";;
+5628;5766;;"Oreopholus";"Jardine & Selby, 1835";;
+5628;5770;;"Phegornis";"Gray, GR, 1847";;
+5628;5772;;"Hoploxypterus";"Bonaparte, 1856";;
+5775;5776;;"Pluvianus";"Vieillot, 1816";;
+5779;5780;;"Rostratula";"Vieillot, 1816";;
+5779;5783;;"Nycticryphes";"Wetmore & Peters, JL, 1923";;
+5786;5787;;"Microparra";"Cabanis, 1877";;
+5786;5789;;"Actophilornis";"Oberholser, 1925";;
+5786;5792;;"Irediparra";"Mathews, 1911";;
+5786;5794;;"Hydrophasianus";"Wagler, 1832";;
+5786;5796;;"Metopidius";"Wagler, 1832";;
+5786;5798;;"Jacana";"Brisson, 1760";;
+5808;5809;;"Pedionomus";"Gould, 1840";;
+5812;5813;;"Attagis";"Geoffroy Saint-Hilaire, I & Lesson, R, 1831";;
+5812;5819;;"Thinocorus";"Eschscholtz, 1829";;
+5828;5829;;"Bartramia";"Lesson, R, 1831";;
+5828;5831;;"Numenius";"Brisson, 1760";;
+5828;5851;;"Limosa";"Brisson, 1760";;
+5828;5865;;"Arenaria";"Brisson, 1760";"TAX, SEQ";"Classification of Scolopaci follows Gibson & Baker (2012); Banks (2012)."
+5828;5870;;"Prosobonia";"Bonaparte, 1850";"TAX";"Aechmorhynchus is synonymized with Prosobonia (Cibois et al. 2012)."
+5828;5875;;"Calidris";"Merrem, 1804";;
+5828;5924;;"Limnodromus";"Wied-Neuwied, 1833";;
+5828;5931;;"Scolopax";"Linnaeus, 1758";;
+5828;5942;;"Coenocorypha";"Gray, GR, 1855";;
+5828;5951;;"Lymnocryptes";"Boie, F, 1826";;
+5828;5953;;"Gallinago";"Brisson, 1760";;
+5828;5984;;"Xenus";"Kaup, 1829";;
+5828;5986;;"Phalaropus";"Brisson, 1760";;
+5828;5990;;"Actitis";"Illiger, 1811";;
+5828;5993;;"Tringa";"Linnaeus, 1758";;
+6018;6019;;"Dromas";"Paykull, 1805";"PHY, SEQ";"Molecular data place Crab-plover as relative of coursers and pratincoles (Glareolidae) (Pereira & Baker 2010)."
+6022;6023;;"Cursorius";"Latham, 1790";;
+6022;6037;;"Rhinoptilus";"Strickland, 1852";;
+6022;6055;;"Stiltia";"Gray, GR, 1855";;
+6022;6057;;"Glareola";"Brisson, 1760";;
+6070;6071;;"Anous";"Stephens, 1826";;
+6070;6098;;"Gygis";"Wagler, 1832";;
+6070;6104;;"Rynchops";"Linnaeus, 1758";;
+6070;6111;;"Creagrus";"Bonaparte, 1854";;
+6070;6113;;"Rissa";"Stephens, 1826";;
+6070;6118;;"Pagophila";"Kaup, 1829";;
+6070;6120;;"Xema";"Leach, 1819";;
+6070;6122;;"Chroicocephalus";"Eyton, 1836";;
+6070;6139;;"Hydrocoloeus";"Kaup, 1829";;
+6070;6141;;"Rhodostethia";"MacGillivray, W, 1842";;
+6070;6143;;"Leucophaeus";"Bruch, 1855";;
+6070;6151;;"Ichthyaetus";"Kaup, 1829";;
+6070;6158;;"Larus";"Linnaeus, 1758";;
+6070;6215;;"Gelochelidon";"Brehm, CL, 1830";;
+6070;6223;;"Hydroprogne";"Kaup, 1829";;
+6070;6225;;"Thalasseus";"Boie, F, 1822";;
+6070;6243;;"Sternula";"Boie, F, 1822";"TAX";"See Bridge et al. (2005) for revision of tern genera."
+6070;6260;;"Onychoprion";"Wagler, 1832";;
+6070;6275;;"Sterna";"Linnaeus, 1758";;
+6070;6308;;"Chlidonias";"Rafinesque, 1822";;
+6070;6318;;"Phaetusa";"Wagler, 1832";;
+6070;6320;;"Larosterna";"Blyth, 1852";;
+6323;6324;;"Stercorarius";"Brisson, 1760";"PHY, TAX";"Merge Catharacta skuas into Stercorarius (AOU 2000; BOU/Sangster et al. 2004; Chu et al. 2009)."
+6338;6339;;"Alle";"Link, 1806";;
+6338;6343;;"Uria";"Brisson, 1760";;
+6338;6355;;"Alca";"Linnaeus, 1758";;
+6338;6359;"1";"Pinguinus";"Bonnaterre, 1791";;
+6338;6361;;"Cepphus";"Pallas, 1769";;
+6338;6375;;"Brachyramphus";"Brandt, JF, 1837";;
+6338;6379;;"Synthliboramphus";"Brandt, JF, 1837";;
+6338;6387;;"Ptychoramphus";"Brandt, JF, 1837";;
+6338;6391;;"Aethia";"Merrem, 1788";;
+6338;6396;;"Cerorhinca";"Bonaparte, 1828";;
+6338;6398;;"Fratercula";"Brisson, 1760";;
+6404;6405;;"Rhynochetos";"Verreaux, J & Des Murs, 1860";;
+6408;6409;;"Eurypyga";"Illiger, 1811";;
+6416;6417;;"Phaethon";"Linnaeus, 1758";;
+6436;6437;;"Gavia";"Forster, JR, 1788";;
+6447;6448;;"Aptenodytes";"Miller, JF, 1778";;
+6447;6451;;"Pygoscelis";"Wagler, 1832";;
+6447;6457;;"Eudyptes";"Vieillot, 1816";;
+6447;6467;;"Megadyptes";"Milne-Edwards, 1880";;
+6447;6469;;"Eudyptula";"Bonaparte, 1856";;
+6447;6477;;"Spheniscus";"Brisson, 1760";;
+6484;6485;;"Oceanites";"Keyserling & Blasius, JH, 1840";;
+6484;6494;;"Garrodia";"Forbes, WA, 1881";;
+6484;6496;;"Pelagodroma";"Reichenbach, 1853";;
+6484;6504;;"Fregetta";"Bonaparte, 1855";;
+6484;6514;;"Nesofregetta";"Mathews, 1912";;
+6517;6518;;"Phoebastria";"Reichenbach, 1853";;
+6517;6523;;"Diomedea";"Linnaeus, 1758";;
+6517;6532;;"Phoebetria";"Reichenbach, 1853";;
+6517;6535;;"Thalassarche";"Reichenbach, 1853";;
+6550;6551;;"Hydrobates";"Boie, F, 1822";;
+6550;6555;;"Oceanodroma";"Reichenbach, 1853";"PHY, TAX";"Oceanodroma is paraphyletic with inclusion of Hydrobates, which would have priority for these species if confirmed (Robertson et al. 2011; H&M 4)."
+6580;6581;;"Macronectes";"Richmond, 1905";;
+6580;6584;;"Fulmarus";"Stephens, 1826";;
+6580;6590;;"Thalassoica";"Reichenbach, 1853";;
+6580;6592;;"Daption";"Stephens, 1826";;
+6580;6596;;"Pagodroma";"Bonaparte, 1856";;
+6580;6600;;"Halobaena";"Bonaparte, 1856";;
+6580;6602;;"Pachyptila";"Illiger, 1811";;
+6580;6616;;"Aphrodroma";"Olson, 2000";"TAX";"According to Bourne (2001), Mathews (1942) specifically bestowed Lugensa as the generic name for the species; it should stand rather than Aphrodroma, contra Olson (2000)."
+6580;6618;;"Pterodroma";"Bonaparte, 1856";;
+6580;6658;;"Pseudobulweria";"Mathews, 1936";;
+6580;6666;;"Procellaria";"Linnaeus, 1758";;
+6580;6672;;"Calonectris";"Mathews & Iredale, 1915";;
+6580;6677;;"Ardenna";"Reichenbach, 1853";"PHY, TAX";"The genus Puffinus is polyphyletic; separate pacificus, bulleri, griseus, tenuirostris, creatopus, carneipes and gravis to Ardenna (Penhallurick & Wink 2004; Christidis & Boles 2008; H&M 4; SACC)."
+6580;6685;;"Puffinus";"Brisson, 1760";;
+6580;6720;;"Pelecanoides";"Lacépède, 1799";"PHY, TAX";"Diving petrels are nested within Procellariidae. Sequence genus provisionally after Puffinus (Christidis & Boles 2008; Cracraft 2013; Prum et al. 2015; SACC 687)."
+6580;6733;;"Bulweria";"Bonaparte, 1843";;
+6739;6740;;"Mycteria";"Linnaeus, 1758";;
+6739;6745;;"Anastomus";"Bonnaterre, 1791";;
+6739;6750;;"Ciconia";"Brisson, 1760";;
+6739;6763;;"Ephippiorhynchus";"Bonaparte, 1855";;
+6739;6768;;"Jabiru";"Hellmayr, 1906";;
+6739;6770;;"Leptoptilos";"Lesson, R, 1831";;
+6776;6777;;"Fregata";"Lacépède, 1799";;
+6792;6793;;"Morus";"Vieillot, 1816";;
+6792;6797;;"Papasula";"Olson & Warheit, 1988";;
+6792;6799;;"Sula";"Brisson, 1760";;
+6820;6821;;"Anhinga";"Brisson, 1760";;
+6834;6835;;"Microcarbo";"Bonaparte, 1856";"TAX";"Microcarbo is split from Phalacrocorax (Siegel-Causey 1988; Kennedy et al. 2000, 2019; Christidis & Boles 2008)."
+6834;6846;;"Phalacrocorax";"Brisson, 1760";;
+6834;6890;;"Leucocarbo";"Bonaparte, 1856";"TAX";"Genus Leucocarbo includes at least 10 core species (Kennedy et al. 2000; Christidis & Boles 2008)"
+6910;6911;;"Threskiornis";"Gray, GR, 1842";;
+6910;6922;;"Pseudibis";"Hodgson, 1844";;
+6910;6926;;"Geronticus";"Wagler, 1832";;
+6910;6929;;"Nipponia";"Reichenbach, 1853";;
+6910;6931;;"Bostrychia";"Gray, GR, 1847";;
+6910;6944;;"Theristicus";"Wagler, 1832";;
+6910;6951;;"Cercibis";"Wagler, 1832";;
+6910;6953;;"Mesembrinibis";"Peters, JL, 1930";;
+6910;6955;;"Phimosus";"Wagler, 1832";;
+6910;6960;;"Eudocimus";"Wagler, 1832";;
+6910;6965;;"Plegadis";"Kaup, 1829";;
+6910;6969;;"Lophotibis";"Reichenbach, 1853";;
+6910;6973;;"Platalea";"Linnaeus, 1758";;
+6984;6985;;"Zonerodius";"Salvadori, 1882";;
+6984;6987;;"Tigriornis";"Sharpe, 1895";;
+6984;6989;;"Tigrisoma";"Swainson, 1827";;
+6984;6998;;"Agamia";"Reichenbach, 1853";;
+6984;7000;;"Cochlearius";"Brisson, 1760";;
+6984;7007;;"Zebrilus";"Bonaparte, 1855";;
+6984;7009;;"Botaurus";"Stephens, 1819";;
+6984;7018;;"Ixobrychus";"Billberg, 1828";;
+6984;7041;;"Gorsachius";"Bonaparte, 1855";;
+6984;7046;;"Nycticorax";"Forster, T, 1817";;
+6984;7063;;"Nyctanassa";"Stejneger, 1887";;
+6984;7071;;"Butorides";"Blyth, 1852";;
+6984;7100;;"Ardeola";"Boie, F, 1822";;
+6984;7109;;"Bubulcus";"Bonaparte, 1855";;
+6984;7112;;"Ardea";"Linnaeus, 1758";;
+6984;7145;;"Pilherodius";"Reichenbach, 1853";;
+6984;7147;;"Syrigma";"Ridgway, 1878";;
+6984;7151;;"Egretta";"Forster, T, 1817";;
+7178;7179;;"Scopus";"Brisson, 1760";;
+7184;7185;;"Balaeniceps";"Gould, 1850";;
+7188;7189;;"Pelecanus";"Linnaeus, 1758";;
+7205;7206;;"Opisthocomus";"Illiger, 1811";;
+7210;7211;;"Gymnogyps";"Lesson, R, 1842";;
+7210;7213;;"Sarcoramphus";"Duméril, 1805";;
+7210;7215;;"Vultur";"Linnaeus, 1758";;
+7210;7217;;"Coragyps";"Le Maout, 1853";;
+7210;7219;;"Cathartes";"Illiger, 1811";;
+7232;7233;;"Sagittarius";"Hermann, 1783";;
+7236;7237;;"Pandion";"Savigny, 1809";;
+7244;7245;;"Elanus";"Savigny, 1809";;
+7244;7255;;"Gampsonyx";"Vigors, 1825";"PHY";"Gampsonyx is sister to Elanus. Both genera are basal to all other Accipitridae (Griffiths et al. 2004; Wink & Sauer-Gürth 2004)."
+7244;7260;;"Chelictinia";"Lesson, R, 1843";"SEQ";"Position of Scissor-tailed Kite provisional in absence of molecular data."
+7244;7262;;"Polyboroides";"Smith, A, 1829";"PHY";"Polyboroides is a basal taxon within Accipitridae, sister to Gypohierax, Pernis and related taxa (Wink & Sauer-Gürth 2004; Lerner & Mindell 2005)."
+7244;7267;;"Gypohierax";"Rüppell, 1836";"PHY";"Gypohierax, Gypaetus and Neophron are not related to the other Old World vultures but cluster with Pernis and Aviceda and related taxa at the base of the Accipitridae (Wink & Sauer-Gürth 2004; Lerner & Mindell 2005)."
+7244;7269;;"Gypaetus";"Storr, 1784";;
+7244;7273;;"Neophron";"Savigny, 1809";;
+7244;7278;;"Eutriorchis";"Sharpe, 1875";;
+7244;7280;;"Leptodon";"Sundevall, 1836";;
+7244;7285;;"Chondrohierax";"Lesson, R, 1843";;
+7244;7290;;"Pernis";"Cuvier, 1816";;
+7244;7303;;"Elanoides";"Vieillot, 1818";;
+7244;7307;;"Lophoictinia";"Kaup, 1847";;
+7244;7309;;"Hamirostra";"Brown, T, 1846";;
+7244;7311;;"Aviceda";"Swainson, 1836";;
+7244;7341;;"Henicopernis";"Gray, GR, 1859";"PHY";"The taxonomic position of Henicopernis is unsettled. It is only distantly related to Pernis (Gamauf & Haring 2004)."
+7244;7344;;"Necrosyrtes";"Gloger, 1841";;
+7244;7346;;"Gyps";"Savigny, 1809";;
+7244;7359;;"Sarcogyps";"Lesson, R, 1842";;
+7244;7361;;"Trigonoceps";"Lesson, R, 1842";"TAX";"Move White-headed Vulture from Aegypius to Trigonoceps (Dickinson 2003; BLI)."
+7244;7363;;"Aegypius";"Savigny, 1809";;
+7244;7365;;"Torgos";"Kaup, 1828";"TAX";"Move Lappet-faced Vulture from Aegypius to Torgos (Dickinson 2003; BLI)."
+7244;7369;;"Spilornis";"Gray, GR, 1840";;
+7244;7399;;"Pithecophaga";"Ogilvie-Grant, 1896";;
+7244;7401;;"Circaetus";"Vieillot, 1816";;
+7244;7413;;"Terathopius";"Lesson, R, 1830";;
+7244;7415;;"Macheiramphus";"Bonaparte, 1850";"PHY";"Macheiramphus is placed with the harpy eagles after Griffiths et al. (2007)."
+7244;7420;;"Harpyopsis";"Salvadori, 1875";;
+7244;7422;;"Morphnus";"Dumont, 1816";;
+7244;7424;;"Harpia";"Vieillot, 1816";;
+7244;7426;;"Nisaetus";"Hodgson, 1836";"TAX";"Separate Old World species of Spizaetus into Nisaetus (Helbig et al. 2005; Haring et al. 2007)."
+7244;7446;;"Spizaetus";"Vieillot, 1816";;
+7244;7455;;"Stephanoaetus";"Sclater, WL, 1922";;
+7244;7457;;"Lophotriorchis";"Sharpe, 1874";"TAX";"Separate Rufous-bellied Eagle from Hieraaetus into its own genus Lophotriorchis (Haring et al. 2007)."
+7244;7461;;"Polemaetus";"Heine, 1890";;
+7244;7463;;"Lophaetus";"Kaup, 1847";;
+7244;7465;;"Ictinaetus";"Blyth, 1843";;
+7244;7469;;"Clanga";"Adamowicz, 1854";"TAX";"The three spotted eagles (formerly in Aquila) form a clade sister to Lophaetus and to Ictinaetus. Wells & Inskipp (2012) treated them as a new genus Aquiloides, but Clanga has priority (Gregory & Dickinson 2012a)."
+7244;7473;;"Hieraaetus";"Kaup, 1844";;
+7244;7479;;"Aquila";"Brisson, 1760";;
+7244;7506;;"Harpagus";"Vigors, 1824";"PHY";"The taxonomic position of Harpagus is unsettled. Griffiths et al. (2007) place it basal to the accipitrines and buteonines."
+7244;7511;;"Kaupifalco";"Bonaparte, 1854";;
+7244;7515;;"Micronisus";"Gray, GR, 1840";;
+7244;7520;;"Melierax";"Gray, GR, 1840";;
+7244;7530;;"Urotriorchis";"Sharpe, 1874";;
+7244;7532;;"Erythrotriorchis";"Sharpe, 1875";"PHY";"Relationships of Erythrotriorchis goshawks uncertain."
+7244;7535;;"Megatriorchis";"Salvadori & D'Albertis, 1875";;
+7244;7537;;"Accipiter";"Brisson, 1760";"PHY";"The genus Accipiter needs revision."
+7244;7721;;"Circus";"Lacépède, 1799";"PHY";"Species compositions of Circus vs. Accipiter need revision (Lerner et al. 2008)."
+7244;7740;;"Milvus";"Lacépède, 1799";"PHY";"Milvus and Haliastur are closely related to sea eagles and buteonines (Wink & Sauer-Gürth 2004; Lerner & Mindell 2005; Griffiths et al. 2007)."
+7244;7753;;"Haliastur";"Selby, 1840";;
+7244;7760;;"Haliaeetus";"Savigny, 1809";;
+7244;7777;;"Butastur";"Hodgson, 1843";;
+7244;7782;;"Ictinia";"Vieillot, 1816";;
+7244;7785;;"Busarellus";"Lesson, R, 1843";;
+7244;7789;;"Rostrhamus";"Lesson, R, 1830";;
+7244;7795;;"Helicolestes";"Bangs & Penard, TE, 1918";;
+7244;7797;;"Geranospiza";"Kaup, 1847";;
+7244;7805;;"Cryptoleucopteryx";"Raposo do Amaral et al., 2009";"TAX";"Generic reassignments of the South American buteonines follow SACC proposals 460 and 492."
+7244;7807;;"Buteogallus";"Lesson, R, 1830";;
+7244;7826;;"Morphnarchus";"Ridgway, 1920";;
+7244;7828;;"Rupornis";"Kaup, 1844";;
+7244;7842;;"Parabuteo";"Ridgway, 1874";;
+7244;7847;;"Geranoaetus";"Kaup, 1844";"PHY, TAX";"Expand Geranoaetus to include Buteo polyosoma and B. albicaudatus (SACC 460)."
+7244;7860;;"Pseudastur";"Gray, GR, 1849";;
+7244;7868;;"Leucopternis";"Kaup, 1847";;
+7244;7872;;"Bermuteo";"Olson, 2008";;
+7244;7874;;"Buteo";"Lacépède, 1799";;
+7949;7950;;"Tyto";"Billberg, 1828";;
+7949;8015;;"Phodilus";"Geoffroy Saint-Hilaire, I, 1830";;
+8026;8027;;"Otus";"Pennant, 1769";;
+8026;8147;"2";"Mascarenotus";"Mourer-Chauviré, Bour, Moutou & Ribes, 1994";;
+8026;8151;;"Psiloscops";"Coues, 1899";;
+8026;8153;;"Gymnasio";"Bonaparte, 1854";"PHY, TAX";"Forms a deeply diverged clade with Psiloscops that is sister to Megascops; resurrect monotypic genus Gymnasio (Dantas et al. 2016; Salter et al. 2020; Chesser et al. 2020; NACC 2020-B-9, 2020-C-14)."
+8026;8157;;"Megascops";"Kaup, 1848";"PHY, SEQ";"Change sequence of Megascops to follow phylogeny of Dantas et al. (2016); Chesser et al. (2020), NACC 2020-B-9."
+8026;8231;;"Pyrroglaux";"Yamashina, 1938";;
+8026;8233;;"Margarobyas";"Olson & Suárez, 2008";"TAX";"New genus name required for Gymnoglaux, which is a junior synonym of Gymnasio, which is referable to Megascops nudipes (AOU 54th supplement)."
+8026;8235;;"Ptilopsis";"Kaup, 1848";;
+8026;8238;;"Bubo";"Duméril, 1805";"PHY";"Bubo is biphyletic, with lacteus, shelleyi, sumatranus, nipalensis, philippensis and blakistoni grouped with Ketupa (Fjeldså pers. comm., Wink et al. 2011)."
+8026;8305;;"Ketupa";"Lesson, R, 1830";;
+8026;8315;;"Scotopelia";"Bonaparte, 1850";;
+8026;8319;;"Strix";"Linnaeus, 1758";"TAX";"Includes Ciccaba. SACC needs proposal."
+8026;8407;;"Jubula";"Bates, 1929";;
+8026;8409;;"Lophostrix";"Lesson, R, 1836";;
+8026;8414;;"Pulsatrix";"Kaup, 1848";;
+8026;8426;;"Surnia";"Duméril, 1805";;
+8026;8431;;"Glaucidium";"Boie, F, 1826";;
+8026;8509;;"Xenoglaux";"O'Neill & Graves, GR, 1977";;
+8026;8511;;"Micrathene";"Coues, 1866";;
+8026;8517;;"Athene";"Boie, F, 1822";;
+8026;8559;;"Aegolius";"Kaup, 1829";;
+8026;8577;;"Ninox";"Hodgson, 1837";;
+8026;8663;;"Uroglaux";"Mayr, 1937";;
+8026;8665;"1";"Sceloglaux";"Kaup, 1848";;
+8026;8669;;"Pseudoscops";"Kaup, 1848";;
+8026;8676;;"Nesasio";"Peters, JL, 1937";;
+8026;8678;;"Asio";"Brisson, 1760";;
+8713;8714;;"Colius";"Brisson, 1760";;
+8713;8740;;"Urocolius";"Bonaparte, 1854";;
+8756;8757;;"Leptosomus";"Vieillot, 1816";;
+8764;8765;;"Euptilotis";"Gould, 1858";;
+8764;8767;;"Pharomachrus";"La Llave, 1832";;
+8764;8779;;"Priotelus";"Gray, GR, 1840";;
+8764;8784;;"Trogon";"Brisson, 1760";;
+8764;8855;;"Apaloderma";"Swainson, 1833";;
+8764;8863;;"Apalharpactes";"Bonaparte, 1854";;
+8764;8866;;"Harpactes";"Swainson, 1833";;
+8907;8908;;"Upupa";"Linnaeus, 1758";;
+8920;8921;;"Phoeniculus";"Jarocki, 1821";;
+8920;8942;;"Rhinopomastus";"Jardine, 1828";;
+8955;8956;;"Bucorvus";"Lesson, R, 1830";;
+8960;8961;;"Tockus";"Lesson, R, 1830";;
+8960;8974;;"Lophoceros";"Hemprich & Ehrenberg, 1833";"PHY, TAX";"The whistling species of Tockus are separated to Lophoceros (Gonzalez et al. 2013a,b)."
+8960;8988;;"Bycanistes";"Cabanis & Heine, 1860";;
+8960;9000;;"Ceratogymna";"Bonaparte, 1854";;
+8960;9003;;"Horizocerus";"Oberholser, 1899";"TAX";"Horizocerus Oberholser,1899 has priority over Tropicranus Sclater, WL,1922 when Black Dwarf Hornbill and White-crested Hornbill are treated as congeneric (Gonzales et al. 2013b)."
+8960;9011;;"Berenicornis";"Bonaparte, 1850";;
+8960;9013;;"Buceros";"Linnaeus, 1758";;
+8960;9023;;"Rhinoplax";"Gloger, 1841";;
+8960;9025;;"Anthracoceros";"Reichenbach, 1849";;
+8960;9033;;"Ocyceros";"Hume, 1873";;
+8960;9037;;"Anorrhinus";"Reichenbach, 1849";;
+8960;9041;;"Aceros";"Hodgson, 1844";;
+8960;9043;;"Rhyticeros";"Reichenbach, 1849";;
+8960;9050;;"Rhabdotorrhinus";"Meyer, AB & Wiglesworth, 1895";"PHY, TAX";"The ""wrinkled"" species of Aceros are separated to the genus Rhabdotorrhinus (Gonzalez et al. 2013a,b)."
+8960;9059;;"Penelopides";"Reichenbach, 1849";;
+9073;9074;;"Coracias";"Linnaeus, 1758";;
+9073;9092;;"Eurystomus";"Vieillot, 1816";;
+9114;9115;;"Brachypteracias";"Lafresnaye, 1834";;
+9114;9117;;"Geobiastes";"Sharpe, 1871";;
+9114;9119;;"Atelornis";"Pucheran, 1846";;
+9114;9122;;"Uratelornis";"Rothschild, 1895";;
+9125;9126;;"Actenoides";"Bonaparte, 1850";;
+9125;9145;;"Melidora";"Lesson, R, 1830";;
+9125;9150;;"Lacedo";"Reichenbach, 1851";;
+9125;9155;;"Tanysiptera";"Vigors, 1825";;
+9125;9184;;"Cittura";"Kaup, 1848";;
+9125;9188;;"Clytoceyx";"Sharpe, 1880";;
+9125;9190;;"Dacelo";"Leach, 1815";;
+9125;9204;;"Caridonax";"Cabanis & Heine, 1860";;
+9125;9206;;"Pelargopsis";"Gloger, 1841";;
+9125;9226;;"Halcyon";"Swainson, 1821";;
+9125;9272;;"Todiramphus";"Lesson, R, 1827";;
+9125;9381;;"Syma";"Lesson, R, 1827";;
+9125;9389;;"Ispidina";"Kaup, 1848";;
+9125;9397;;"Corythornis";"Kaup, 1848";"PHY, TAX";"Corythornis kingfishers are sister to Ispidina (lecontei + picta); separate this clade from Alcedo (Moyle et al. 2007; Fjeldså pers. comm.)."
+9125;9414;;"Alcedo";"Linnaeus, 1758";;
+9125;9438;;"Ceyx";"Lacépède, 1799";;
+9125;9490;;"Chloroceryle";"Kaup, 1848";"SEQ";"Sequence follows Moyle (2006); Chesser et al. (2020); NACC 2020-A-13."
+9125;9504;;"Megaceryle";"Kaup, 1848";;
+9125;9518;;"Ceryle";"Boie, F, 1828";;
+9526;9527;;"Todus";"Brisson, 1760";;
+9534;9535;;"Hylomanes";"Lichtenstein, MHK, 1839";;
+9534;9540;;"Aspatha";"Sharpe, 1892";;
+9534;9542;;"Momotus";"Brisson, 1760";;
+9534;9572;;"Baryphthengus";"Cabanis & Heine, 1860";;
+9534;9577;;"Electron";"Gistel, 1848";;
+9534;9586;;"Eumomota";"Sclater, PL, 1858";;
+9596;9597;;"Nyctyornis";"Jardine & Selby, 1830";;
+9596;9602;;"Meropogon";"Bonaparte, 1850";;
+9596;9604;;"Merops";"Linnaeus, 1758";;
+9665;9666;;"Galbalcyrhynchus";"Des Murs, 1845";;
+9665;9669;;"Brachygalba";"Bonaparte, 1854";;
+9665;9681;;"Jacamaralcyon";"Lesson, R, 1830";;
+9665;9683;;"Galbula";"Brisson, 1760";;
+9665;9708;;"Jacamerops";"Lesson, R, 1830";;
+9715;9716;;"Notharchus";"Cabanis & Heine, 1863";;
+9715;9728;;"Bucco";"Brisson, 1760";;
+9715;9736;;"Nystalus";"Cabanis & Heine, 1863";;
+9715;9747;;"Hypnelus";"Cabanis & Heine, 1863";;
+9715;9756;;"Malacoptila";"Gray, GR, 1841";;
+9715;9772;;"Micromonacha";"Sclater, PL, 1881";;
+9715;9774;;"Nonnula";"Sclater, PL, 1854";;
+9715;9795;;"Hapaloptila";"Sclater, PL, 1881";;
+9715;9797;;"Monasa";"Vieillot, 1816";;
+9715;9811;;"Chelidoptera";"Gould, 1837";;
+9817;9818;;"Capito";"Vieillot, 1816";;
+9817;9843;;"Eubucco";"Bonaparte, 1850";;
+9862;9863;;"Semnornis";"Richmond, 1900";"PHY";"Semnornis barbets are treated as separate family Semnornithidae to reflect phylogeny (SACC 7; NACC 2010)."
+9869;9870;;"Aulacorhynchus";"Gould, 1835";;
+9869;9903;;"Pteroglossus";"Illiger, 1811";;
+9869;9933;;"Selenidera";"Gould, 1837";;
+9869;9942;;"Andigena";"Gould, 1851";;
+9869;9952;;"Ramphastos";"Linnaeus, 1758";;
+9975;9976;;"Psilopogon";"Müller, S, 1836";"PHY, TAX";"Genus Psilopogon takes precedence over Megalaima and is therefore used, given that Fire-tufted Barbet is embedded in the latter as sister to Great Barbet (Moyle et al. 2004; H&M 4)."
+9975;10061;;"Caloramphus";"Lesson, R, 1839";"TAX";"Correction: Genus of Brown Barbet is Caloramphus, not Calorhamphus (H&M 3rd corrigenda 6)."
+10067;10068;;"Gymnobucco";"Bonaparte, 1850";;
+10067;10078;;"Stactolaema";"Marshall, CHT & Marshall, GFL, 1870";;
+10067;10100;;"Pogoniulus";"Lafresnaye, 1842";;
+10067;10132;;"Buccanodon";"Gray, GR, 1855";;
+10067;10134;;"Tricholaema";"Verreaux, J & Verreaux, E, 1855";;
+10067;10156;;"Lybius";"Hermann, 1783";;
+10067;10193;;"Trachyphonus";"Ranzani, 1821";;
+10215;10216;;"Prodotiscus";"Sundevall, 1850";;
+10215;10227;;"Melignomon";"Reichenow, 1898";;
+10215;10230;;"Indicator";"Stephens, 1815";;
+10215;10260;;"Melichneutes";"Reichenow, 1910";;
+10263;10264;;"Jynx";"Linnaeus, 1758";;
+10263;10276;;"Picumnus";"Temminck, 1825";;
+10263;10359;;"Sasia";"Hodgson, 1837";;
+10263;10368;;"Nesoctites";"Hargitt, 1890";;
+10263;10372;;"Hemicircus";"Swainson, 1837";"PHY";"Hemicircus follows Nesoctites early in sequence as a basal branch of woodpeckers (Fuchs et al. 2007)."
+10263;10377;;"Melanerpes";"Swainson, 1832";;
+10263;10437;;"Sphyrapicus";"Baird, SF, 1858";;
+10263;10446;;"Xiphidiopicus";"Bonaparte, 1854";;
+10263;10450;;"Pardipicus";"Bonaparte, 1854";"TAX, PHY, SEQ";"Genus Pardipicus resurrected for Campethera nivosa and C. caroli, which form a sister clade to Campethera + Geocolaptes (Fuchs et al. 2017; Dowsett & Gregory 2018). Sequence of Pardipicus wiithin Picidae modified to follow Fuchs et al. (2017). Note gender ending."
+10263;10458;;"Geocolaptes";"Swainson, 1832";"SEQ";"Sequence of genus Geocolaptes wiithin Picidae modified to follow Fuchs et al. (2017)."
+10263;10460;;"Campethera";"Gray, GR, 1841";;
+10263;10490;;"Yungipicus";"Bonaparte, 1854";"PHY, TAX";"Classification of pied woodpecker assemblage (Dendropicini) follows Fuchs & Pons (2015). Yungipicus includes species previously in Dendrocopos (Fuchs & Pons 2015)."
+10263;10528;;"Picoides";"Lacépède, 1799";;
+10263;10543;;"Dendrocoptes";"Cabanis & Heine, 1863";"PHY, TAX";"Dendrocoptes includes species previously in Dendrocopos (Fuchs & Pons 2015)."
+10263;10551;;"Leiopicus";"Bonaparte, 1854";"PHY, TAX";"Yellow-crowned Woodpecker relationships uncertain. Treated here tentatively as monotypic genus Leiopicus, possibly related to Dendropicos pyrrhogaster (Fuchs & Pons 2015)."
+10263;10555;;"Chloropicus";"Malherbe, 1845";"PHY, TAX";"Chloropicus has priority over Dendropicos for these three species (H&M 4; Fuchs & Pons 2015)."
+10263;10562;;"Dendropicos";"Malherbe, 1849";;
+10263;10602;;"Dryobates";"Boie, F, 1826";"PHY, TAX";"Dryobates includes species previously assigned to Dendrocopos (minor) and Picoides (Fuchs & Pons 2015)."
+10263;10643;;"Veniliornis";"Bonaparte, 1854";;
+10263;10688;;"Leuconotopicus";"Malherbe, 1845";"PHY, TAX";"Leuconotopicus includes species previously assigned to Picoides (Fuchs & Pons 2015)."
+10263;10721;;"Dendrocopos";"Koch, 1816";"PHY, TAX";"Genus Dendrocopos was polyphyletic; revised following Fuchs et al. (2015)."
+10263;10788;;"Piculus";"Spix, 1824";;
+10263;10805;;"Colaptes";"Vigors, 1825";;
+10263;10876;;"Celeus";"Boie, F, 1831";"PHY";"See Benz & Robbins (2011) for phylogeny of Celeus species."
+10263;10918;;"Dryocopus";"Boie, F, 1826";;
+10263;10949;;"Campephilus";"Gray, GR, 1840";;
+10263;10976;;"Chrysophlegma";"Gould, 1850";"TAX";"Move Banded Woodpecker, Checker-throated Woodpecker, and Greater Yellownape from Picus to Chrysophlegma (Fuchs et al. 2008)."
+10263;10994;;"Picus";"Linnaeus, 1758";;
+10263;11041;;"Dinopium";"Rafinesque, 1814";;
+10263;11059;;"Chrysocolaptes";"Blyth, 1843";;
+10263;11080;;"Gecinulus";"Blyth, 1845";;
+10263;11091;;"Blythipicus";"Bonaparte, 1854";;
+10263;11099;;"Reinwardtipicus";"Bonaparte, 1854";;
+10263;11103;;"Micropternus";"Blyth, 1845";;
+10263;11115;;"Meiglyptes";"Swainson, 1837";;
+10263;11126;;"Mulleripicus";"Bonaparte, 1854";;
+11139;11140;;"Cariama";"Brisson, 1760";;
+11139;11142;;"Chunga";"Hartlaub, 1860";;
+11146;11147;;"Daptrius";"Vieillot, 1816";;
+11146;11149;;"Ibycter";"Vieillot, 1816";;
+11146;11151;;"Phalcoboenus";"d'Orbigny, 1834";;
+11146;11156;;"Caracara";"Merrem, 1826";;
+11146;11160;;"Milvago";"Spix, 1824";;
+11146;11167;;"Herpetotheres";"Vieillot, 1817";;
+11146;11171;;"Micrastur";"Gray, GR, 1841";;
+11146;11187;;"Spiziapteryx";"Kaup, 1852";;
+11146;11189;;"Polihierax";"Kaup, 1847";;
+11146;11197;;"Microhierax";"Sharpe, 1874";;
+11146;11207;;"Falco";"Linnaeus, 1758";;
+11338;11339;;"Strigops";"Gray, GR, 1845";;
+11338;11341;;"Nestor";"Lesson, R, 1830";"PHY, TAX";"Joseph et al. (2012) proposed recognition of family Nestoridae."
+11348;11349;;"Nymphicus";"Wagler, 1832";;
+11348;11351;;"Calyptorhynchus";"Desmarest, 1826";;
+11348;11362;;"Zanda";"Mathews, 1913";"TAX, PHY";"Genetic divergence from other species within Calyptorhynchus supports generic recognition of Zanda for funerea, baudinii and latirostris (White et al. 2011)."
+11348;11369;;"Probosciger";"Kuhl, 1820";;
+11348;11375;;"Callocephalon";"Lesson, R, 1837";;
+11348;11377;;"Eolophus";"Bonaparte, 1854";;
+11348;11382;;"Lophochroa";"Bonaparte, 1857";"TAX";"Separate Major Mitchell's Cockatoo from Cacatua to Lophochroa (Brown & Toft 1999; Christidis & Boles 2008; Joseph et al. 2012)."
+11348;11386;;"Cacatua";"Vieillot, 1817";;
+11414;11415;;"Psittacus";"Linnaeus, 1758";;
+11414;11420;;"Poicephalus";"Swainson, 1837";;
+11414;11448;;"Touit";"Gray, GR, 1855";;
+11414;11459;;"Psilopsiagon";"Ridgway, 1912";;
+11414;11466;;"Bolborhynchus";"Bonaparte, 1857";;
+11414;11472;;"Nannopsittaca";"Ridgway, 1912";;
+11414;11475;;"Myiopsitta";"Bonaparte, 1854";;
+11414;11481;;"Brotogeris";"Vigors, 1825";;
+11414;11504;;"Pionopsitta";"Bonaparte, 1854";;
+11414;11506;;"Triclaria";"Wagler, 1832";;
+11414;11508;;"Pyrilia";"Bonaparte, 1856";;
+11414;11520;;"Hapalopsittaca";"Ridgway, 1912";;
+11414;11530;;"Pionus";"Wagler, 1832";;
+11414;11552;;"Graydidascalus";"Bonaparte, 1854";;
+11414;11554;;"Alipiopsitta";"Caparroz & Pacheco, 2006";;
+11414;11556;;"Amazona";"Lesson, R, 1830";;
+11414;11620;;"Forpus";"Boie, F, 1858";"SEQ";"Sequence follows Smith et al. (2013); Chesser et al. (2020), NACC 2020-A-13."
+11414;11645;;"Pionites";"Heine, 1890";;
+11414;11653;;"Deroptyus";"Wagler, 1832";;
+11414;11657;;"Pyrrhura";"Bonaparte, 1856";;
+11414;11717;;"Enicognathus";"Gray, GR, 1840";;
+11414;11722;;"Cyanoliseus";"Bonaparte, 1854";;
+11414;11728;;"Anodorhynchus";"Spix, 1824";;
+11414;11732;;"Rhynchopsitta";"Bonaparte, 1854";;
+11414;11735;;"Eupsittula";"Bonaparte, 1853";"PHY";"Separation of Eupsittula from Aratinga follows Remsen et al. (2013)."
+11414;11763;"1";"Conuropsis";"Salvadori, 1891";"PHY, SEQ";"Carolina Parakeet treated as sister to Aratinga parakeets (Kirchman et al. 2012; H&M 4). Joseph et al. (2012) treat as incertae sedis."
+11414;11767;;"Aratinga";"Spix, 1824";"PHY, TAX";"Revise traditional Aratinga into 4 genera following Remsen et al. (2013); sequence provisional pending revised classification of Psittacidae."
+11414;11776;;"Cyanopsitta";"Bonaparte, 1854";;
+11414;11778;;"Orthopsittaca";"Ridgway, 1912";;
+11414;11780;;"Primolius";"Bonaparte, 1857";;
+11414;11784;;"Ara";"Lacépède, 1799";"SEQ";"Sequence follows Johansson et al. (2018); Chesser et al. (2020), NACC 2020-B-06."
+11414;11801;;"Leptosittaca";"Berlepsch & Stolzmann, 1894";;
+11414;11803;;"Ognorhynchus";"Bonaparte, 1857";;
+11414;11805;;"Guaruba";"Lesson, R, 1830";"TAX";"Correct Guarouba to Guaruba (H&M 3rd corrigenda 8)."
+11414;11807;;"Diopsittaca";"Ridgway, 1912";;
+11414;11812;;"Thectocercus";"Ridgway, 1912";"PHY, TAX";"Separation of Blue-crowned Parakeet from Aratinga to Thectocercus follows Remsen et al. (2013); SACC 578; see also Urantowka et al. (2012). H&M 4 include in Psittacara."
+11414;11819;;"Psittacara";"Vigors, 1825";"PHY, TAX";"Separation of Psittacara from Aratinga follows Remsen et al. (2013)."
+11846;11847;;"Psittrichas";"Lesson, R, 1831";;
+11846;11849;"1";"Mascarinus";"Lesson, R, 1830";"TAX";"Kundu et al. (2012) merge Mascarinus with Coracopsis, but see Joseph et al. (2012); Podsiadlowski et al. (2016). Related to Psittacula."
+11846;11851;;"Coracopsis";"Wagler, 1832";;
+11846;11861;;"Micropsitta";"Lesson, R, 1831";;
+11846;11888;;"Polytelis";"Wagler, 1832";;
+11846;11894;;"Alisterus";"Mathews, 1911";;
+11846;11909;;"Aprosmictus";"Gould, 1842";;
+11846;11916;;"Prioniturus";"Wagler, 1832";;
+11846;11934;;"Eclectus";"Wagler, 1832";;
+11846;11944;;"Geoffroyus";"Bonaparte, 1850";;
+11846;11967;;"Psittinus";"Blyth, 1842";;
+11846;11972;;"Tanygnathus";"Wagler, 1832";;
+11846;11991;;"Psittacula";"Cuvier, 1800";"PHY, TAX";"Psittacula may be paraphyletic relative to Tanygnathus and Psittinus. See Braun et al. (2016) for a phylogeny of Psittacula and allies."
+11846;12034;;"Psittacella";"Schlegel, 1871";;
+11846;12050;;"Psephotus";"Gould, 1845";;
+11846;12054;;"Northiella";"Mathews, 1912";;
+11846;12060;;"Psephotellus";"Mathews, 1913";"PHY, TAX";"Separate Mulga Parrot and allies from Psephotus to Psephotellus (Joseph et al. 2012)."
+11846;12065;;"Purpureicephalus";"Bonaparte, 1854";;
+11846;12067;;"Platycercus";"Vigors, 1825";;
+11846;12092;;"Barnardius";"Bonaparte, 1854";;
+11846;12099;;"Lathamus";"Lesson, R, 1830";;
+11846;12101;;"Prosopeia";"Bonaparte, 1854";"TAX";"Conserve Prosopeia Bonaparte, 1854 for the Fijian shining parrots which at times is replaced by Pyrrhulopsis Reichenbach, 1850 (Schodde et al. ICZN case 3640, 2013)."
+11846;12107;;"Eunymphicus";"Peters, JL, 1937";;
+11846;12110;;"Cyanoramphus";"Bonaparte, 1854";;
+11846;12126;;"Pezoporus";"Illiger, 1811";;
+11846;12132;;"Neopsephotus";"Mathews, 1912";;
+11846;12134;;"Neophema";"Salvadori, 1891";;
+11846;12145;;"Oreopsittacus";"Salvadori, 1877";;
+11846;12150;;"Charmosyna";"Wagler, 1832";;
+11846;12181;;"Vini";"Lesson, R, 1833";;
+11846;12187;;"Phigys";"Gray, GR, 1870";;
+11846;12189;;"Neopsittacus";"Salvadori, 1875";;
+11846;12192;;"Parvipsitta";"Mathews, 1916";"PHY, TAX";"Little Lorikeet and Purple-crowned Lorikeet are separated from Glossopsitta to Parvipsitta following Schweizer et al. (2015)."
+11846;12195;;"Lorius";"Vigors, 1825";;
+11846;12215;;"Chalcopsitta";"Bonaparte, 1850";;
+11846;12225;;"Pseudeos";"Peters, JL, 1935";;
+11846;12228;;"Psitteuteles";"Bonaparte, 1854";;
+11846;12234;;"Eos";"Wagler, 1832";;
+11846;12249;;"Trichoglossus";"Stephens, 1826";;
+11846;12280;;"Glossopsitta";"Bonaparte, 1854";"PHY, SEQ";"Sister to Trichoglossus assemblage (Joseph et al. 2012)."
+11846;12284;;"Melopsittacus";"Gould, 1840";;
+11846;12286;;"Psittaculirostris";"Gray, JE & Gray, GR, 1859";;
+11846;12295;;"Cyclopsitta";"Reichenbach, 1850";;
+11846;12311;;"Bolbopsittacus";"Salvadori, 1891";;
+11846;12317;;"Loriculus";"Blyth, 1849";;
+11846;12351;;"Agapornis";"Selby, 1836";;
+11846;12370;"2";"Lophopsittacus";"Newton, A, 1875";"PHY";"Relationships uncertain (Joseph et al. 2012)."
+11846;12372;"2";"Necropsittacus";"Milne-Edwards, 1873";"PHY";"Relationships uncertain (Joseph et al. 2012)."
+12376;12377;;"Acanthisitta";"Lafresnaye, 1842";;
+12376;12381;;"Xenicus";"Gray, GR, 1855";;
+12376;12387;"1";"Traversia";"Rothschild, 1894";"TAX";"Genus Traversia is basal to the other members of Acanthisittidae (Mitchell et al. 2016)."
+12390;12391;;"Sapayoa";"Hartert, 1903";;
+12394;12395;;"Philepitta";"Geoffroy Saint-Hilaire, I, 1838";;
+12394;12398;;"Neodrepanis";"Sharpe, 1875";;
+12402;12403;;"Pseudocalyptomena";"Rothschild, 1909";;
+12402;12405;;"Psarisomus";"Swainson, 1837";;
+12402;12412;;"Corydon";"Lesson, R, 1828";;
+12402;12417;;"Sarcophanops";"Gould, 1877";"TAX";"MOVE Eurylaimus steerii and E. samarensis to Sarcophanops (Dekker & Dickinson 2000; Irestedt et al. 2006)."
+12402;12420;;"Serilophus";"Swainson, 1837";;
+12402;12430;;"Cymbirhynchus";"Vigors, 1830";;
+12402;12436;;"Eurylaimus";"Horsfield, 1821";;
+12444;12445;;"Smithornis";"Bonaparte, 1850";;
+12444;12463;;"Calyptomena";"Horsfield, 1822";;
+12471;12472;;"Hydrornis";"Blyth, 1843";"TAX";"Adoption of Hydrornis follows Irestedt et al. (2006)."
+12471;12502;;"Erythropitta";"Bonaparte, 1854";"TAX";"Adoption of Erythropitta follows Irestedt et al. (2006)."
+12471;12538;;"Pitta";"Vieillot, 1816";;
+12587;12588;;"Sclerurus";"Swainson, 1827";;
+12587;12625;;"Geositta";"Swainson, 1837";;
+12587;12659;;"Certhiasomus";"Derryberry et al., 2010";"TAX, PHY";"Certhiasomus, a new genus of woodcreeper, is described for D. stictolaema, which is not sister to Long-tailed Woodcreeper. Note gender agreement (Derryberry et al. 2010; SACC 435)."
+12587;12664;;"Sittasomus";"Swainson, 1827";;
+12587;12681;;"Deconychura";"Cherrie, 1891";;
+12587;12690;;"Dendrocincla";"Gray, GR, 1840";;
+12587;12726;;"Glyphorynchus";"Wied-Neuwied, 1831";;
+12587;12741;;"Dendrexetastes";"Eyton, 1851";;
+12587;12747;;"Nasica";"Lesson, R, 1830";;
+12587;12749;;"Dendrocolaptes";"Hermann, 1804";;
+12587;12778;;"Hylexetastes";"Sclater, PL, 1889";;
+12587;12786;;"Xiphocolaptes";"Lesson, R, 1840";;
+12587;12823;;"Xiphorhynchus";"Swainson, 1827";;
+12587;12895;;"Dendroplex";"Swainson, 1827";"PHY, TAX";"Move Straight-billed Woodcreeper and Zimmer's Woodcreeper from Xiphorhynchus to Dendroplex (Aleixo 2002; Aleixo et al. 2007; SACC 316)."
+12587;12911;;"Campylorhamphus";"Bertoni, AW, 1901";;
+12587;12939;;"Drymotoxeres";"Claramunt, Derryberry, Chesser, Aleixo & Brumfield, 2010";;
+12587;12941;;"Drymornis";"Eyton, 1852";;
+12587;12943;;"Lepidocolaptes";"Reichenbach, 1853";;
+12587;12987;;"Xenops";"Illiger, 1811";;
+12587;13015;;"Berlepschia";"Ridgway, 1887";;
+12587;13017;;"Microxenops";"Chapman, 1914";;
+12587;13019;;"Pygarrhichas";"Burmeister, 1837";;
+12587;13021;;"Ochetorhynchus";"Meyen, 1834";;
+12587;13031;;"Pseudocolaptes";"Reichenbach, 1853";;
+12587;13043;;"Premnornis";"Ridgway, 1909";;
+12587;13047;;"Tarphonomus";"Chesser & Brumfield, 2007";"PHY, TAX";"Move Bolivian Earthcreeper and Chaco Earthcreeper from Upucerthia to Tarphonomus (Chesser & Brumfield 2007; SACC 323)."
+12587;13053;;"Furnarius";"Vieillot, 1816";;
+12587;13074;;"Lochmias";"Swainson, 1827";;
+12587;13082;;"Phleocryptes";"Cabanis & Heine, 1860";;
+12587;13088;;"Limnornis";"Gould, 1839";;
+12587;13090;;"Geocerthia";"Chesser & Claramunt, 2009";;
+12587;13094;;"Upucerthia";"Geoffroy Saint-Hilaire, I, 1832";;
+12587;13105;;"Cinclodes";"Gray, GR, 1840";"PHY, SEQ";"Sequence of Cinclodes species aligns with genetic data (SACC 414)."
+12587;13142;;"Anabazenops";"Lafresnaye, 1840";;
+12587;13145;;"Megaxenops";"Reiser, 1905";;
+12587;13147;;"Cichlocolaptes";"Reichenbach, 1853";;
+12587;13152;;"Heliobletus";"Reichenbach, 1853";;
+12587;13156;;"Philydor";"Spix, 1824";;
+12587;13169;;"Anabacerthia";"Lafresnaye, 1840";;
+12587;13187;;"Syndactyla";"Reichenbach, 1853";;
+12587;13212;;"Ancistrops";"Sclater, PL, 1862";;
+12587;13214;;"Dendroma";"Swainson, 1837";"TAX, PHY";"Genus Dendroma resurrected for two deeply divergent species formerly in Philydor (Derryberry et al. 2011; SACC 819; Chesser et al. 2020, NACC 2020-B-1)."
+12587;13226;;"Clibanornis";"Sclater, PL & Salvin, 1873";;
+12587;13247;;"Thripadectes";"Sclater, PL, 1862";;
+12587;13268;;"Automolus";"Reichenbach, 1853";;
+12587;13299;;"Premnoplex";"Cherrie, 1891";;
+12587;13310;;"Margarornis";"Reichenbach, 1853";;
+12587;13320;;"Aphrastura";"Oberholser, 1899";;
+12587;13326;;"Sylviorthorhynchus";"Gay, 1845";;
+12587;13329;;"Leptasthenura";"Reichenbach, 1853";;
+12587;13356;;"Phacellodomus";"Reichenbach, 1853";;
+12587;13375;;"Hellmayrea";"Stolzmann, 1926";;
+12587;13381;;"Anumbius";"d'Orbigny & Lafresnaye, 1838";;
+12587;13383;;"Coryphistera";"Burmeister, 1860";;
+12587;13387;;"Asthenes";"Reichenbach, 1853";"PHY, TAX";"Includes Oreophylax and Schizoeaca (thistletails) as members of a broadly defined clade of Asthenes canasteros (SACC 434)."
+12587;13465;;"Acrobatornis";"Pacheco, Whitney & Pedreira Gonzaga, 1996";;
+12587;13467;;"Metopothrix";"Sclater, PL & Salvin, 1866";;
+12587;13469;;"Xenerpestes";"Berlepsch, 1886";;
+12587;13474;;"Siptornis";"Reichenbach, 1853";;
+12587;13478;;"Roraimia";"Chapman, 1929";;
+12587;13484;;"Thripophaga";"Cabanis, 1847";;
+12587;13493;;"Limnoctites";"Hellmayr, 1925";;
+12587;13496;;"Cranioleuca";"Reichenbach, 1853";;
+12587;13544;;"Pseudasthenes";"Derryberry et al., 2010";"PHY,TAX";"Four related species of Asthenes separated to Pseudasthenes (Derryberry et al. 2010; SACC 432)."
+12587;13552;;"Spartonoica";"Peters, JL, 1950";;
+12587;13554;;"Pseudoseisura";"Reichenbach, 1853";;
+12587;13563;;"Certhiaxis";"Lesson, R, 1844";;
+12587;13574;;"Mazaria";"Claramunt, 2014";"TAX, PHY";"Genus nov.: Claramunt, 2014. Molecular studies reveal that White-bellied Spinetail is sister to Schoeniophylax (Derryberry et al. 2011; Claramunt 2014; SACC 717)."
+12587;13576;;"Schoeniophylax";"Ridgway, 1909";;
+12587;13580;;"Synallaxis";"Vieillot, 1818";;
+13689;13690;;"Euchrepomis";"Bravo, Remsen, Whitney & Brumfield, 2012";"TAX, SEQ";"Gen. nov.: Bravo et al., 2012. Formerly in Terenura, the four species of Euchrepomis are sister to all other antbirds (Bravo et al. 2012; SACC 557). Resequence."
+13689;13702;;"Myrmornis";"Hermann, 1783";;
+13689;13706;;"Pygiptila";"Sclater, PL, 1858";;
+13689;13712;;"Thamnistes";"Sclater, PL & Salvin, 1860";;
+13689;13721;;"Microrhopias";"Sclater, PL, 1862";;
+13689;13733;;"Neoctantes";"Sclater, PL, 1869";;
+13689;13735;;"Clytoctantes";"Elliot, DG, 1870";"SEQ";"Placement of Clytoctantes in the sequence is provisional (Ohlson et al. 2013)."
+13689;13738;;"Epinecrophylla";"Isler, ML & Brumfield, 2006";"TAX, ENG";"Epinecrophylla includes eight species separated from Myrmotherula (Isler et al. 2006; SACC 275). Change English name for all the species in the genus fo ""Stipplethroat"" following SACC 696.1; SACC 696.2."
+13689;13765;;"Myrmorchilus";"Ridgway, 1909";;
+13689;13769;;"Aprositornis";"Isler, ML, Bravo & Brumfield, 2013";"PHY";"Genus nov., split from Myrmeciza: Isler et al., 2013."
+13689;13771;;"Ammonastes";"Isler, ML, Bravo & Brumfield, 2013";"PHY";"Genus nov., split from Myrmeciza: Isler et al., 2013."
+13689;13773;;"Myrmophylax";"Todd, 1927";"PHY";"Genus revived with revised classification of polyphyletic Myrmeciza."
+13689;13780;;"Myrmotherula";"Sclater, PL, 1858";;
+13689;13842;;"Terenura";"Cabanis & Heine, 1860";;
+13689;13845;;"Myrmochanes";"Allen, JA, 1889";;
+13689;13847;;"Formicivora";"Swainson, 1824";;
+13689;13872;;"Stymphalornis";"Bornschein, Reinert & Teixera, 1995";;
+13689;13876;;"Dichrozona";"Ridgway, 1888";;
+13689;13881;;"Rhopias";"Cabanis & Heine, 1860";;
+13689;13883;;"Isleria";"Bravo, Chesser & Brumfield, 2012";"TAX, PHY";"Separate two species of Myrmotherula antwrens to new genus Isleria (Bravo et al. 2012; SACC 518)."
+13689;13890;;"Thamnomanes";"Cabanis, 1847";;
+13689;13906;;"Megastictus";"Ridgway, 1909";;
+13689;13908;;"Herpsilochmus";"Cabanis, 1847";;
+13689;13936;;"Dysithamnus";"Cabanis, 1847";;
+13689;13967;;"Thamnophilus";"Vieillot, 1816";;
+13689;14077;;"Sakesphorus";"Chubb, C, 1918";;
+13689;14087;;"Biatas";"Cabanis & Heine, 1860";"SEQ";"Placement of Biatas here in the sequence is provisional (Ohlson et al. 2013)."
+13689;14089;;"Cymbilaimus";"Gray, GR, 1840";;
+13689;14095;;"Taraba";"Lesson, R, 1831";;
+13689;14107;;"Mackenziaena";"Chubb, C, 1918";;
+13689;14110;;"Frederickena";"Chubb, C, 1918";;
+13689;14117;;"Hypoedaleus";"Cabanis & Heine, 1860";;
+13689;14119;;"Batara";"Lesson, R, 1831";;
+13689;14124;;"Xenornis";"Chapman, 1924";"SEQ";"Placement of Xenornis here in the sequence is provisional (Ohlson et al. 2013)."
+13689;14126;;"Pithys";"Vieillot, 1818";;
+13689;14131;;"Phaenostictus";"Ridgway, 1909";;
+13689;14136;;"Gymnopithys";"Bonaparte, 1857";;
+13689;14152;;"Oneillornis";"Isler, ML, Bravo & Brumfield, 2014";"TAX, PHY";"Genus nov., split from Gymnopithys: Isler, Bravo & Brumfield, 2014."
+13689;14155;;"Rhegmatorhina";"Ridgway, 1888";;
+13689;14165;;"Phlegopsis";"Reichenbach, 1850";;
+13689;14175;;"Willisornis";"Agne & Pacheco, 2007";"TAX";"Separate Scale-backed Antbird from Hylophylax to new genus Willisornis (Brumfield et al. 2007; Agne & Pacheco 2007; SACC 495)."
+13689;14185;;"Drymophila";"Swainson, 1824";;
+13689;14201;;"Hypocnemis";"Cabanis, 1847";;
+13689;14221;;"Sciaphylax";"Isler, ML, Bravo & Brumfield, 2013";"PHY";"Genus nov., split from Myrmeciza: Isler et al., 2013."
+13689;14228;;"Cercomacroides";"Tello et al., 2014";"TAX";"Genus nov., split from Cercomacra: Tello et al., 2014."
+13689;14247;;"Cercomacra";"Sclater, PL, 1858";;
+13689;14259;;"Myrmoderus";"Ridgway, 1909";"PHY, TAX, SEQ";"Four species of Myrmeciza antbirds are assigned to Myrmodera (follows Isler et al. 2013; SACC 628, H&M 4; HBW Alive; Clements 2017). Note gender change."
+13689;14269;;"Hypocnemoides";"Bangs & Penard, TE, 1918";;
+13689;14275;;"Hylophylax";"Ridgway, 1909";;
+13689;14286;;"Sclateria";"Oberholser, 1899";;
+13689;14292;;"Myrmelastes";"Sclater, PL, 1858";"PHY, TAX";"Replace Schistocichla with Myrmelastes. Molecular studies indicate that Plumbeous Antbird (formerly included in Myrmeciza) is embedded within a clade that includes species formerly assigned to the genus Schistocichla. With the revision of the genus Myrmeciza, Myrmelastes Sclater, 1858 becomes the genus appropriately applied to the species formerly assigned to Schistocichla within this revised classification since it has precedence over Schistocichla Todd, 1927 (Isler et al. 2013; SACC 628; H&M 4; HBW Alive; Clements 2017). "
+13689;14309;;"Poliocrania";"Isler, ML, Bravo & Brumfield, 2013";"PHY";"Genus nov., split from Myrmeciza: Isler et al., 2013."
+13689;14316;;"Ampelornis";"Isler, ML, Bravo & Brumfield, 2013";"PHY";"Genus nov., split from Myrmeciza: Isler et al., 2013."
+13689;14318;;"Sipia";"Hellmayr, 1924";"PHY";"Genus revived with revised classification of polyphyletic Myrmeciza (Isler et al. 2013; Chesser et al. 2020, NACC 2020-C-11)."
+13689;14323;;"Myrmeciza";"Gray, GR, 1841";"PHY, TAX";"Revised classification of polyphyletic Myrmeciza antbirds assigns the species to 12 genera in 3 different tribes of subfamily Thamnophilinae (Isler et al. 2013; H&M 4; HBW Alive; Clements; Chesser et al. 2020, NACC 2020-C-11). Much reduced Myrmeciza is monotypic. "
+13689;14329;;"Myrmoborus";"Cabanis & Heine, 1860";;
+13689;14350;;"Gymnocichla";"Sclater, PL, 1858";;
+13689;14356;;"Pyriglena";"Cabanis, 1847";;
+13689;14371;;"Rhopornis";"Richmond, 1902";"SEQ";"Placement of Rhopornis here in the sequence is provisional (Ohlson et al. 2013)."
+13689;14373;;"Percnostola";"Cabanis & Heine, 1860";;
+13689;14380;;"Akletos";"Dunajewski, 1948";"PHY";"Genus revived with revised classification of polyphyletic Myrmeciza."
+13689;14383;;"Hafferia";"Isler, ML, Bravo & Brumfield, 2013";"PHY";"Genus nov.; split from Myrmeciza: Isler et al., 2013."
+14394;14395;;"Formicarius";"Boddaert, 1783";;
+14394;14426;;"Chamaeza";"Vigors, 1825";;
+14452;14453;;"Grallaria";"Vieillot, 1816";;
+14452;14546;;"Hylopezus";"Ridgway, 1909";;
+14452;14571;;"Myrmothera";"Vieillot, 1816";;
+14452;14584;;"Grallaricula";"Sclater, PL, 1858";;
+14616;14617;;"Conopophaga";"Vieillot, 1816";;
+14616;14644;;"Pittasoma";"Cassin, 1860";"PHY, TAX";"The two species of Pittasoma are sister to gnateaters Conopophaga and resequenced to be in this family (Rice 2005; SACC 235; NACC 2007-A-10d)."
+14653;14654;;"Acropternis";"Cabanis & Heine, 1860";;
+14653;14658;;"Pteroptochos";"Kittlitz, 1830";;
+14653;14664;;"Scelorchilus";"Oberholser, 1923";;
+14653;14671;;"Rhinocrypta";"Gray, GR, 1841";;
+14653;14675;;"Teledromas";"Wetmore & Peters, JL, 1922";;
+14653;14677;;"Liosceles";"Sclater, PL, 1865";;
+14653;14682;;"Psilorhamphus";"Sclater, PL, 1855";;
+14653;14684;;"Merulaxis";"Lesson, R, 1831";;
+14653;14687;;"Eugralla";"Lesson, R, 1842";;
+14653;14689;;"Myornis";"Chapman, 1915";;
+14653;14691;;"Eleoscytalopus";"Maurício et al., 2008";;
+14653;14694;;"Scytalopus";"Gould, 1837";;
+14759;14760;;"Melanopareia";"Reichenbach, 1853";;
+14774;14775;;"Piprites";"Cabanis, 1847";"PHY";"Piprites is traditionally grouped with the manakins (Pipridae), but both Tello et al. (2009) and Ohlson et al. (2008) place it within Tyrannidae, possibly in a basal position (Harshman 2009). SACC 732 declined family rank."
+14774;14786;;"Phyllomyias";"Cabanis & Heine, 1860";"PHY, TAX";"Phyllomyias is polyphyletic, with at least two clades; nomenclature revisions include return to use of Tyranniscus for one set of species (Fitzpatrick 2004; Tello et al. 2009; SACC; Harshman 2009)."
+14774;14814;;"Tyrannulus";"Vieillot, 1816";;
+14774;14816;;"Myiopagis";"Salvin & Godman, 1888";;
+14774;14846;;"Elaenia";"Sundevall, 1836";;
+14774;14903;;"Ornithion";"Hartlaub, 1853";;
+14774;14907;;"Camptostoma";"Sclater, PL, 1857";;
+14774;14923;;"Suiriri";"d'Orbigny, 1840";;
+14774;14928;;"Mecocerculus";"Sclater, PL, 1862";;
+14774;14949;;"Anairetes";"Reichenbach, 1850";;
+14774;14967;;"Uromyias";"Hellmayr, 1927";"TAX";"Uromyias resurrected based on recent molecular studies (DuBay & Witt 2012; SACC 525)."
+14774;14973;;"Serpophaga";"Gould, 1839";;
+14774;14987;;"Phaeomyias";"Berlepsch, 1902";;
+14774;14997;;"Capsiempis";"Cabanis & Heine, 1860";;
+14774;15004;;"Polystictus";"Reichenbach, 1850";;
+14774;15010;;"Nesotriccus";"Townsend, CH, 1895";;
+14774;15012;;"Pseudocolopteryx";"Lillo, 1905";;
+14774;15018;;"Pseudotriccus";"Taczanowski & Berlepsch, 1885";;
+14774;15026;;"Corythopis";"Sundevall, 1836";;
+14774;15032;;"Euscarthmus";"Wied-Neuwied, 1831";;
+14774;15038;;"Pseudelaenia";"Lanyon, W, 1988";;
+14774;15040;;"Stigmatura";"Sclater, PL & Salvin, 1866";"PS";"Additional species of Stigmatura complex await resolution and formal description (fide B. Whitney)."
+14774;15049;;"Zimmerius";"Traylor, 1977";;
+14774;15071;;"Pogonotriccus";"Cabanis & Heine, 1860";"TAX";"STET: SACC keeps bristle tyrants in Phylloscartes but needs proposal to update to Pogonotriccus (Fitzpatrick 2004)."
+14774;15084;;"Phylloscartes";"Cabanis & Heine, 1860";;
+14774;15107;;"Mionectes";"Cabanis, 1844";;
+14774;15132;;"Leptopogon";"Cabanis, 1844";;
+14774;15145;;"Guyramemua";"Lopes et al., 2017";;"Genus nov.: Lopes et al., 2017."
+14774;15147;;"Sublegatus";"Sclater, PL & Salvin, 1868";;
+14774;15159;;"Inezia";"Cherrie, 1909";;
+14774;15168;;"Myiophobus";"Reichenbach, 1850";"TAX";"The traditional genus Myiophobus is polyphyletic; comprises three clades (Ohlson et al. 2008, 2009; Tello et al. 2009), one of which is now separated as Nephelomyias."
+14774;15192;;"Nephelomyias";"Ohlson, Fjeldså & Ericson, 2009";;
+14774;15199;;"Myiotriccus";"Ridgway, 1905";;
+14774;15205;;"Tachuris";"Lafresnaye, 1836";;
+14774;15211;;"Culicivora";"Swainson, 1827";;
+14774;15213;;"Hemitriccus";"Cabanis & Heine, 1860";;
+14774;15267;;"Myiornis";"Bertoni, AW, 1901";;
+14774;15276;;"Oncostoma";"Sclater, PL, 1862";;
+14774;15279;;"Lophotriccus";"Berlepsch, 1884";;
+14774;15293;;"Atalotriccus";"Ridgway, 1905";"TAX";"Lophotriccus pilaris is assigned to Atalotriccus (SACC)."
+14774;15299;;"Poecilotriccus";"Berlepsch, 1884";;
+14774;15334;;"Taeniotriccus";"Berlepsch & Hartert, 1902";;
+14774;15338;;"Todirostrum";"Lesson, R, 1831";;
+14774;15364;;"Cnipodectes";"Sclater, PL & Salvin, 1873";;
+14774;15369;;"Rhynchocyclus";"Cabanis & Heine, 1860";;
+14774;15386;;"Tolmomyias";"Hellmayr, 1927";;
+14774;15427;;"Calyptura";"Swainson, 1832";;
+14774;15429;;"Platyrinchus";"Desmarest, 1805";;
+14774;15462;;"Neopipo";"Sclater, PL & Salvin, 1869";;
+14774;15466;;"Pyrrhomyias";"Cabanis & Heine, 1860";;
+14774;15474;;"Hirundinea";"d'Orbigny & Lafresnaye, 1837";;
+14774;15480;;"Lathrotriccus";"Lanyon, W & Lanyon, S, 1986";;
+14774;15488;;"Aphanotriccus";"Ridgway, 1905";;
+14774;15491;;"Cnemotriccus";"Hellmayr, 1927";;
+14774;15500;;"Xenotriccus";"Dwight & Griscom, 1927";;
+14774;15503;;"Sayornis";"Bonaparte, 1854";;
+14774;15515;;"Mitrephanes";"Coues, 1882";;
+14774;15522;;"Contopus";"Cabanis, 1855";;
+14774;15568;;"Empidonax";"Cabanis, 1855";;
+14774;15610;;"Pyrocephalus";"Gould, 1838";;
+14774;15624;;"Lessonia";"Swainson, 1832";;
+14774;15627;;"Knipolegus";"Boie, F, 1826";;
+14774;15653;;"Hymenops";"Lesson, R, 1828";;
+14774;15657;;"Ochthornis";"Sclater, PL, 1888";;
+14774;15659;;"Satrapa";"Strickland, 1844";;
+14774;15661;;"Muscisaxicola";"d'Orbigny & Lafresnaye, 1837";;
+14774;15691;;"Agriornis";"Gould, 1839";;
+14774;15709;;"Xolmis";"Boie, F, 1826";;
+14774;15723;;"Heteroxolmis";"Lanyon, W, 1986";;
+14774;15725;;"Myiotheretes";"Reichenbach, 1850";;
+14774;15736;;"Cnemarchus";"Ridgway, 1905";;
+14774;15740;;"Polioxolmis";"Lanyon, W, 1986";;
+14774;15744;;"Neoxolmis";"Hellmayr, 1927";;
+14774;15746;;"Gubernetes";"Such, 1825";;
+14774;15748;;"Muscipipra";"Lesson, R, 1831";;
+14774;15750;;"Fluvicola";"Swainson, 1827";;
+14774;15756;;"Arundinicola";"d'Orbigny, 1840";;
+14774;15758;;"Alectrurus";"Vieillot, 1816";;
+14774;15761;;"Tumbezia";"Chapman, 1925";;
+14774;15763;;"Silvicultrix";"Lanyon, W, 1986";"TAX";"Silvicultrix has often been submerged within Ochthoeca (in Fluvicolini), but the two are not closest relatives (Tello et al. 2009; Harshman 2009)."
+14774;15780;;"Ochthoeca";"Cabanis, 1847";;
+14774;15811;;"Colorhamphus";"Sundevall, 1872";;
+14774;15813;;"Colonia";"Gray, JE, 1828";;
+14774;15820;;"Muscigralla";"d'Orbigny & Lafresnaye, 1837";;
+14774;15822;;"Machetornis";"Gray, GR, 1841";;
+14774;15827;;"Legatus";"Sclater, PL, 1859";;
+14774;15831;;"Phelpsia";"Lanyon, W, 1984";;
+14774;15833;;"Myiozetetes";"Sclater, PL, 1859";;
+14774;15854;;"Pitangus";"Swainson, 1827";;
+14774;15866;;"Philohydor";"Lanyon, W, 1984";"TAX";"Retained in Philohydor (following Lanyon 1986; Fitzpatrick 2004); contra placement in Pitangus by SACC and AOU (1998)."
+14774;15870;;"Conopias";"Cabanis & Heine, 1860";;
+14774;15881;;"Myiodynastes";"Bonaparte, 1857";;
+14774;15897;;"Megarynchus";"Thunberg, 1824";;
+14774;15905;;"Tyrannopsis";"Ridgway, 1905";;
+14774;15907;;"Empidonomus";"Cabanis & Heine, 1860";;
+14774;15911;;"Griseotyrannus";"Lanyon, W, 1984";"TAX";"Retained in Griseotyrannus (following Lanyon 1986; Fitzpatrick 2004); contra Empidonomus by SACC and AOU (1998)."
+14774;15915;;"Tyrannus";"Lacépède, 1799";;
+14774;15948;;"Rhytipterna";"Reichenbach, 1850";;
+14774;15956;;"Sirystes";"Cabanis & Heine, 1860";;
+14774;15963;;"Casiornis";"Des Murs, 1856";;
+14774;15966;;"Myiarchus";"Cabanis, 1844";;
+14774;16038;;"Deltarhynchus";"Ridgway, 1893";;
+14774;16040;;"Ramphotrigon";"Gray, GR, 1855";;
+14774;16048;;"Attila";"Lesson, R, 1831";;
+16073;16074;;"Ampelioides";"Verreaux, J, 1867";;
+16073;16076;;"Pipreola";"Swainson, 1838";;
+16073;16108;;"Snowornis";"Prum, 2001";;
+16073;16113;;"Carpornis";"Gray, GR, 1846";;
+16073;16116;;"Rupicola";"Brisson, 1760";;
+16073;16123;;"Phoenicircus";"Swainson, 1832";;
+16073;16126;;"Zaratornis";"Koepcke, 1954";;
+16073;16128;;"Phytotoma";"Molina, 1782";;
+16073;16134;;"Phibalura";"Vieillot, 1816";"PHY, SEQ";"Phibalura is a cotinga, sister to Ampelion and Doliornis (Berv & Prum 2014)."
+16073;16137;;"Doliornis";"Taczanowski, 1874";;
+16073;16140;;"Ampelion";"Tschudi, 1845";;
+16073;16145;;"Haematoderus";"Bonaparte, 1854";;
+16073;16147;;"Querula";"Vieillot, 1816";;
+16073;16149;;"Pyroderus";"Gray, GR, 1840";;
+16073;16156;;"Cephalopterus";"Geoffroy Saint-Hilaire, É, 1809";;
+16073;16160;;"Perissocephalus";"Oberholser, 1899";;
+16073;16162;;"Tijuca";"Férussac, 1829";"TAX, PHY";"Phylogenetic studies reveal that Tijuca is embedded in Lipaugus (Berv & Prum 2014; Settlecowski et al. 2020). STET pending SACC proposal."
+16073;16165;;"Lipaugus";"Boie, F, 1828";" ";" "
+16073;16175;;"Procnias";"Illiger, 1811";;
+16073;16184;;"Cotinga";"Brisson, 1760";;
+16073;16192;;"Porphyrolaema";"Bonaparte, 1854";;
+16073;16194;;"Conioptilon";"Lowery & O'Neill, 1966";;
+16073;16196;;"Gymnoderus";"Geoffroy Saint-Hilaire, É, 1809";;
+16073;16198;;"Xipholena";"Gloger, 1841";;
+16073;16202;;"Carpodectes";"Salvin, 1865";;
+16207;16208;;"Tyranneutes";"Sclater, PL & Salvin, 1881";;
+16207;16211;;"Neopelma";"Sclater, PL, 1861";"PHY";"Tyrant-Manakins are sister group to the other ""core"" manakins (McKay et al. 2010)."
+16207;16217;;"Chloropipo";"Cabanis & Heine, 1860";;
+16207;16220;;"Antilophia";"Reichenbach, 1850";;
+16207;16223;;"Chiroxiphia";"Cabanis, 1847";;
+16207;16233;;"Ilicura";"Reichenbach, 1850";;
+16207;16235;;"Masius";"Bonaparte, 1850";;
+16207;16242;;"Corapipo";"Bonaparte, 1854";;
+16207;16248;;"Xenopipo";"Cabanis, 1847";;
+16207;16253;;"Cryptopipo";"Ohlson, Fjeldså & Ericson, 2013";"PHY, TAX";"Separated from Xenopipo by Ohlson et al. (2013); SACC 591-B2."
+16207;16259;;"Lepidothrix";"Bonaparte, 1854";;
+16207;16282;;"Heterocercus";"Sclater, PL, 1862";;
+16207;16286;;"Manacus";"Brisson, 1760";;
+16207;16310;;"Pipra";"Linnaeus, 1764";"PHY";"The traditional genus Pipra is polyphyletic (Tello et al. 2009)."
+16207;16325;;"Machaeropterus";"Bonaparte, 1854";;
+16207;16338;;"Pseudopipra";"Kirwan et al., 2016";"TAX";"Dixiphia was tentatively used for a clade of Pipra following Tello et al. (2009), but Kirwan et al. (2016) show that Dixiphia is a synonym of Arundinicola. New genus Pseudopipra replaces Dixiphia (for White-crowned Manakin only): Kirwan et al., 2016. New genus name accepted by NACC (Chesser et al. 2020, NACC 2020-C-06)."
+16207;16353;;"Ceratopipra";"Bonaparte, 1854";"PHY, TAX";"Ceratopipra species previously in Dixiphia following Tello et al. (2009); but Dixiphia is a synonym of Arundinicola (Kirwan et al. 2016)."
+16365;16366;;"Oxyruncus";"Temminck, 1820";;
+16365;16372;;"Onychorhynchus";"Fischer von Waldheim, 1810";"PHY";"Genetic data place Onychorhynchus in the Tityridae (Ohlson et al. 2008; Tello et al. 2009)."
+16365;16381;;"Myiobius";"Gray, GR, 1839";"PHY";"Genetic data place Myiobius in the Tityridae (Ohlson et al. 2008; Tello et al. 2009)."
+16365;16404;;"Terenotriccus";"Ridgway, 1905";"PHY";"Genetic data place Terenotriccus in the Tityridae (Ohlson et al. 2008; Tello et al. 2009)."
+16365;16414;;"Tityra";"Vieillot, 1816";;
+16365;16435;;"Schiffornis";"Bonaparte, 1854";;
+16365;16456;;"Laniocera";"Lesson, R, 1841";;
+16365;16462;;"Iodopleura";"Lesson, R, 1839";;
+16365;16468;;"Laniisoma";"Swainson, 1832";;
+16365;16474;;"Xenopsaris";"Ridgway, 1891";;
+16365;16478;;"Pachyramphus";"Gray, GR, 1839";;
+16548;16549;;"Menura";"Latham, 1801";;
+16556;16557;;"Atrichornis";"Stejneger, 1885";;
+16563;16564;;"Ailuroedus";"Cabanis, 1851";"PHY, TAX, SEQ";"Revision of Ailuroedus catbirds follows Irestedt et al. (2015)"
+16563;16584;;"Scenopoeetes";"Coues, 1891";;
+16563;16586;;"Archboldia";"Rand, 1940";;
+16563;16590;;"Amblyornis";"Elliot, DG, 1872";;
+16563;16598;;"Prionodura";"De Vis, 1883";;
+16563;16600;;"Sericulus";"Swainson, 1825";;
+16563;16605;;"Ptilonorhynchus";"Kuhl, 1820";;
+16563;16609;;"Chlamydera";"Gould, 1837";;
+16622;16623;;"Cormobates";"Mathews, 1922";;
+16622;16633;;"Climacteris";"Temminck, 1820";;
+16647;16648;;"Sipodotus";"Mathews, 1928";;
+16647;16650;;"Chenorhamphus";"Oustalet, 1878";"TAX";"Broad-billed Fairywren and Campbell's Fairywren are moved from Malurus to Chenorhamphus (Driskell et al. 2011)."
+16647;16653;;"Malurus";"Vieillot, 1816";;
+16647;16696;;"Clytomyias";"Sharpe, 1879";;
+16647;16700;;"Stipiturus";"Lesson, R, 1831";;
+16647;16712;;"Amytornis";"Stejneger, 1885";"TAX";"See Christidis et al. (2013) for proposed revisions of Amytornis taxonomy, including subgenera."
+16747;16748;;"Myza";"Meyer, AB & Wiglesworth, 1895";;
+16747;16756;;"Acanthorhynchus";"Gould, 1837";;
+16747;16763;;"Glycichaera";"Salvadori, 1878";"TAX, SEQ";"Move Green-backed Honeyeater from Timeliopsis to Glycichaera (Driskell & Christidis 2004; Higgins et al. 2008; Christidis & Boles 2008)."
+16747;16768;;"Melionyx";"Iredale, 1956";"PHY, TAX";"Separate (10.1) the three species in the Melidectes fuscus clade to the genus Melionyx (Andersen et al. 2019)."
+16747;16772;;"Ptiloprora";"De Vis, 1894";;
+16747;16785;;"Ashbyia";"North, 1911";;
+16747;16787;;"Epthianura";"Gould, 1838";;
+16747;16795;;"Stresemannia";"Meise, 1950";;
+16747;16797;;"Conopophila";"Reichenbach, 1852";;
+16747;16801;;"Ramsayornis";"Mathews, 1912";;
+16747;16804;;"Melilestes";"Salvadori, 1876";;
+16747;16808;;"Timeliopsis";"Salvadori, 1876";;
+16747;16815;;"Melipotes";"Sclater, PL, 1874";;
+16747;16823;;"Macgregoria";"De Vis, 1897";"PHY";"Macgregor's Honeyeater may be related to Melipotes (Cracraft & Feinstein 2000)."
+16747;16827;;"Glycifohia";"Mathews, 1929";;
+16747;16832;;"Gliciphila";"Swainson, 1837";;
+16747;16836;;"Pycnopygius";"Salvadori, 1880";;
+16747;16846;;"Certhionyx";"Lesson, R, 1830";;
+16747;16848;;"Prosthemadera";"Gray, GR, 1840";;
+16747;16852;;"Anthornis";"Gray, GR, 1840";"PHY";"Anthornis bellbirds are related to Tui (Driskell & Christidis 2004)."
+16747;16858;;"Sugomel";"Mathews, 1922";"TAX";"Move Black Honeyeater from Certhionyx to Sugomel (Driskell & Christidis 2004; Higgins et al. 2008; Christidis & Boles 2008)."
+16747;16860;;"Melitograis";"Sundevall, 1872";;
+16747;16862;;"Vosea";"Gilliard, 1960";;
+16747;16864;;"Myzomela";"Vigors & Horsfield, 1827";;
+16747;16957;;"Philemon";"Vieillot, 1816";;
+16747;16994;;"Xanthotis";"Reichenbach, 1852";;
+16747;17010;;"Plectorhyncha";"Gould, 1838";;
+16747;17012;;"Grantiella";"Mathews, 1911";;
+16747;17014;;"Trichodere";"North, 1912";;
+16747;17016;;"Phylidonyris";"Lesson, R, 1830";;
+16747;17029;;"Lichmera";"Cabanis, 1851";;
+16747;17052;;"Cissomela";"Bonaparte, 1854";"TAX, SEQ";"Move Banded Honeyeater from Certhionyx to Cissomela; resequence to precede Lichmera (Nyari & Joseph 2011; cf. Driskell & Christidis 2004; Higgins et al. 2008; Christidis & Boles 2008)."
+16747;17054;;"Guadalcanaria";"Hartert, 1929";"PHY";"Relationships of Guadalcanaria remain obscure."
+16747;17056;;"Meliarchus";"Salvadori, 1880";;
+16747;17058;;"Gymnomyza";"Reichenow, 1914";"PHY";"Gymnomyza is paraphyletic. The three traditional species are not each other’s closest relatives. Further study required (Andersen et al. 2019). Relationships of Crow Honeyeater uncertain."
+16747;17063;;"Foulehaio";"Reichenbach, 1852";;
+16747;17067;;"Meliphacator";"Mathews, 1930";;
+16747;17069;;"Nesoptilotis";"Mathews, 1913";"PHY,TAX";"Separation of Nesoptilotis honeyeaters follows Nyári & Joseph (2011)."
+16747;17077;;"Entomyzon";"Swainson, 1825";;
+16747;17082;;"Melithreptus";"Vieillot, 1816";;
+16747;17099;;"Stomiopera";"Reichenbach, 1852";"PHY,TAX";"Separation of Stomiopera honeyeaters follows Nyári & Joseph (2011)."
+16747;17104;;"Meliphaga";"Lewin, 1808";"PHY, TAX";"Revisions (10.1) of Meliphaga retain only three species in this genus (Andersen et al. 2019; McCullough et al. 2019)."
+16747;17113;;"Purnella";"Mathews, 1914";"TAX, SEQ";"Move White-fronted Honeyeater from Phylidonyris to Purnella following White-plumed Honeyeater? (Driskell & Christidis 2004; Higgins et al. 2008; Christidis & Boles 2008)."
+16747;17115;;"Lichenostomus";"Cabanis, 1851";"TAX, PHY";"See Nyari & Joseph (2011) re phylogeny and generic classification of Lichenostomus honeyeaters. Move to Purnella? (Andersen et al. 2019)."
+16747;17124;;"Microptilotis";"Mathews, 1912";"PHY, TAX";"Microptilotis replaces (10.1) Meliphaga which is restricted to three species (aruensis, lewinii, notata); see Andersen et al. (2019)."
+16747;17142;;"Territornis";"Mathews, 1924";"PHY, TAX";"Three species separated from Meliphaga by McCullough et al. (2019)."
+16747;17146;;"Gavicalis";"Schodde & Mason, IJ, 1999";"PHY,TAX";"Separation of Gavicalis honeyeaters follows Nyári & Joseph (2011)."
+16747;17156;;"Oreornis";"Van Oort, 1910";"PHY";"Relationships of Oreornis to Meliphaga honeyeaters not resolved (Andersen et al. 2019; McCullough et al. 2019). "
+16747;17158;;"Ptilotula";"Mathews, 1912";"PHY,TAX";"Separation of Ptilotula honeyeaters follows Nyári & Joseph (2011)."
+16747;17176;;"Caligavis";"Iredale, 1956";"PHY,TAX";"Separation of Caligavis honeyeaters follows Nyári & Joseph (2011)."
+16747;17183;;"Anthochaera";"Vigors & Horsfield, 1827";;
+16747;17197;;"Acanthagenys";"Gould, 1838";;
+16747;17199;;"Bolemoreus";"Nyári & Joseph, 2011";"PHY,TAX";"Separation of Bolemoreus honeyeaters follows Nyári & Joseph (2011)."
+16747;17202;;"Melidectes";"Sclater, PL, 1874";;
+16747;17221;;"Manorina";"Vieillot, 1818";;
+17235;17236;;"Dasyornis";"Vigors & Horsfield, 1827";;
+17246;17247;;"Pardalotus";"Vieillot, 1816";;
+17264;17265;;"Pachycare";"Gould, 1876";;
+17264;17271;;"Oreoscopus";"North, 1905";;
+17264;17273;;"Acanthornis";"Legge, 1887";;
+17264;17277;;"Smicrornis";"Gould, 1843";;
+17264;17283;;"Calamanthus";"Gould, 1838";;
+17264;17298;;"Hylacola";"Gould, 1843";"PHY, TAX";"Two species of heathwren (pyrrhopygia, cauta) are moved (9.1) from Calamanthus to new genus Hylacola, with gender corrections (Norman et al. 2018)."
+17264;17308;;"Pycnoptilus";"Gould, 1851";;
+17264;17312;;"Pyrrholaemus";"Gould, 1841";;
+17264;17315;;"Origma";"Gould, 1838";;
+17264;17329;;"Neosericornis";"Mathews, 1912";;
+17264;17334;;"Aethomyias";"Sharpe, 1879";"PHY, TAX";"New genus (9.1) includes 5 species of New Guinea scrubwrens previously in Sericornis (spilodera, rufescens, perspiciilatus, papuensis, arfakianus)."
+17264;17349;;"Sericornis";"Gould, 1838";;
+17264;17392;;"Gerygone";"Gould, 1841";;
+17264;17457;;"Acanthiza";"Vigors & Horsfield, 1827";;
+17264;17502;;"Aphelocephala";"Oberholser, 1899";;
+17509;17510;;"Garritornis";"Iredale, 1956";;
+17509;17512;;"Pomatostomus";"Cabanis, 1851";;
+17524;17525;;"Orthonyx";"Temminck, 1820";;
+17534;17535;;"Cnemophilus";"De Vis, 1890";;
+17534;17540;;"Loboparadisea";"Rothschild, 1896";;
+17545;17546;;"Melanocharis";"Sclater, PL, 1858";;
+17545;17564;;"Rhamphocharis";"Salvadori, 1876";;
+17545;17568;;"Oedistoma";"Salvadori, 1876";;
+17545;17576;;"Toxorhamphus";"Stresemann, 1914";;
+17582;17583;;"Oreocharis";"Salvadori, 1876";;
+17582;17585;;"Paramythia";"De Vis, 1892";;
+17590;17591;;"Callaeas";"Forster, JR, 1788";;
+17590;17594;;"Philesturnus";"Geoffroy Saint-Hilaire, I, 1832";;
+17590;17597;"1";"Heteralocha";"Cabanis, 1851";;
+17600;17601;;"Notiomystis";"Richmond, 1908";;
+17606;17607;;"Androphobus";"Hartert & Paludan, 1934";;
+17606;17609;;"Psophodes";"Vigors & Horsfield, 1827";;
+17622;17623;;"Ptilorrhoa";"Peters, JL, 1940";;
+17622;17645;;"Cinclosoma";"Vigors & Horsfield, 1827";;
+17665;17666;;"Batis";"Boie, F, 1833";;
+17665;17709;;"Lanioturdus";"Waterhouse, 1838";;
+17665;17711;;"Platysteira";"Jardine & Selby, 1830";"TAX";"Platysteira species sequence follows Njabo et al. (2008)."
+17734;17735;;"Malaconotus";"Swainson, 1824";;
+17734;17753;;"Chlorophoneus";"Cabanis, 1851";;
+17734;17775;;"Telophorus";"Swainson, 1832";;
+17734;17792;;"Bocagia";"Shelley, 1894";;
+17734;17797;;"Tchagra";"Lesson, R, 1831";;
+17734;17825;;"Dryoscopus";"Boie, F, 1826";;
+17734;17848;;"Laniarius";"Vieillot, 1816";;
+17734;17893;;"Nilaus";"Swainson, 1827";;
+17906;17907;;"Machaerirhynchus";"Gould, 1851";;
+17920;17921;;"Calicalicus";"Bonaparte, 1854";;
+17920;17924;;"Vanga";"Vieillot, 1816";;
+17920;17928;;"Oriolia";"Geoffroy Saint-Hilaire, I, 1838";;
+17920;17930;;"Xenopirostris";"Bonaparte, 1850";;
+17920;17934;;"Falculea";"Geoffroy Saint-Hilaire, I, 1836";;
+17920;17936;;"Artamella";"Sclater, WL, 1924";;
+17920;17940;;"Leptopterus";"Bonaparte, 1854";;
+17920;17944;;"Cyanolanius";"Bonaparte, 1854";;
+17920;17949;;"Schetba";"Lesson, R, 1831";;
+17920;17953;;"Euryceros";"Lesson, R, 1831";;
+17920;17955;;"Tylas";"Hartlaub, 1862";;
+17920;17959;;"Hypositta";"Newton, A, 1881";;
+17920;17961;;"Newtonia";"Schlegel, 1867";;
+17920;17970;;"Pseudobias";"Sharpe, 1870";;
+17920;17972;;"Mystacornis";"Sharpe, 1870";;
+17920;17974;;"Prionops";"Vieillot, 1816";"PHY, TAX";"Previously separated as the family Prionopidae, helmetshrikes are moved into an expanded Vangidae based on several molecular studies (Reddy et al. 2012; Jonsson et al. 2012, 2016; H&M 4; HBW). Treated as subfamily Prionopinae."
+17920;18000;;"Hemipus";"Hodgson, 1844";"PHY, TAX";"Three enigmatic genera of woodshrikes and their allies (Hemipus, Tephrodornis, and Philentoma) previously separated as a new family Tephrodornithidae recommended by Moyle et al. (2006) are now included in an expanded Vangidae following Reddy et al. (2012);  Jonsson et al. (2012, 2016); H&M 4; HBW."
+17920;18007;;"Tephrodornis";"Swainson, 1832";"PHY, TAX";"Three enigmatic genera of woodshrikes and their allies (Hemipus, Tephrodornis, and Philentoma) previously separated as a new family Tephrodornithidae recommended by Moyle et al. (2006) are now included in an expanded Vangidae following Reddy et al. (2012);  Jonsson et al. (2012, 2016); H&M 4; HBW."
+17920;18025;;"Philentoma";"Eyton, 1845";"PHY";"Three enigmatic genera of woodshrikes and their allies (Hemipus, Tephrodornis, and Philentoma) previously separated as a new shrike family Tephrodornithidae recommended by Moyle et al. (2006) are now included in an expanded Vangidae following Reddy et al. (2012);  Jonsson et al. (2012, 2016); H&M 4; HBW."
+17920;18032;;"Megabyas";"Verreaux, J & Verreaux, E, 1855";"PHY";"The enigmatic shrike-flycatchers (Megabyas and Bias) are relatives of the woodshrikes, vangas and allies, not wattle-eyes and batises (Platysteiridae) (Moyle et al. 2006; Reddy et al. 2012; Jonsson et al. 2012)."
+17920;18036;;"Bias";"Lesson, R, 1831";"PHY";"The enigmatic shrike-flycatchers (Megabyas and Bias) are relatives of the woodshrikes, vangas and allies, not wattle-eyes and batises (Platysteiridae) (Moyle et al. 2006; Reddy et al. 2012; Jonsson et al. 2012)."
+18042;18043;;"Pityriasis";"Lesson, R, 1839";;
+18046;18047;;"Artamus";"Vieillot, 1816";;
+18046;18077;;"Peltops";"Wagler, 1829";"PHY";"Peltops species are basal members of the Cracticinae, now a subfamily of the Artamidae (Kearns et al. 2013; cf. Norman et al. 2009)."
+18046;18080;;"Melloria";"Mathews, 1912";"PHY, TAX, SEQ";"Move Black Butcherbird from Cracticus to Melloria, sister to Gymnorhina (Kearns et al. 2013; H&M 4; Cake et al. 2018). Butcherbirds (former Cracticidae) are included in Artamidae as a subfamily (Schodde & Christidis 2014)."
+18046;18087;;"Gymnorhina";"Gray, GR, 1840";"PHY, SEQ";"Gymnorhina is sister to Melloria (Kearns et al. 2013; Cake et al. 2018)."
+18046;18097;;"Cracticus";"Vieillot, 1816";;
+18046;18115;;"Strepera";"Lesson, R, 1831";;
+18135;18136;;"Rhagologus";"Stresemann & Paludan, 1934";;
+18141;18142;;"Aegithina";"Vieillot, 1816";;
+18164;18165;;"Pericrocotus";"Boie, F, 1826";"PHY, SEQ";"Pericrocotus is the basal clade (subfamily) of cuckooshrikes; sequence follows Jønsson et al. (2010); also H&M 4.  "
+18164;18228;;"Ceblepyris";"Cuvier, 1816";"PHY, TAX";"African Coracina cuckooshrikes separated (8.2) into Ceblepyris (H&M 4). Basal position in phylogeny of Coracina sensu stricto (Jønsson et al. 2010)."
+18164;18240;;"Coracina";"Vieillot, 1816";"PHY, SEQ";"Sequence of Coracina species follows Jønsson et al. (2010); H&M 4."
+18164;18336;;"Campephaga";"Vieillot, 1816";;
+18164;18344;;"Lobotos";"Reichenbach, 1850";;
+18164;18347;;"Campochaera";"Sharpe, 1878";;
+18164;18351;;"Malindangia";"Mearns, 1907";"PHY, TAX";"McGregor's Cuckooshrike is basal to the Edolisoma and Lalage clades. Separated (8.2) to monotypic Malindangia following H&M 4."
+18164;18353;;"Edolisoma";"Jacquinot & Pucheran, 1853";"PHY, TAX";"Former species of Coracina separated (8.2) to genus Edolisoma (follows phylogeny of Jønsson et al. 2010; H&M 4; Pedersen et al. 2018)."
+18164;18428;;"Celebesica";"Strand, 1928";;
+18164;18430;;"Cyanograucalus";"Hartlaub, 1861";;
+18164;18432;;"Lalage";"Boie, F, 1826";"PHY, TAX";"Genus Lalage (8.2) incorporates 6 species previously assigned to Coracina, following Jønsson et al. (2010)."
+18512;18513;;"Mohoua";"Lesson, R, 1837";;
+18518;18519;;"Daphoenositta";"De Vis, 1897";;
+18533;18534;;"Eulacestoma";"De Vis, 1894";;
+18537;18538;;"Aleadryas";"Iredale, 1956";;
+18537;18543;;"Ornorectes";"Iredale, 1956";;
+18537;18545;;"Oreoica";"Gould, 1838";;
+18550;18551;;"Falcunculus";"Vieillot, 1816";"TAX";"Falcunculus whitei includes F. whitei and F. leucogaster recognized by Schodde & Mason (1999), but lumped with F. frontatus by Christidis & Boles (2008) who urge further study."
+18557;18558;;"Coracornis";"Riley, 1918";;
+18557;18561;;"Melanorectes";"Sharpe, 1877";;
+18557;18568;;"Pachycephala";"Vigors, 1825";;
+18557;18742;;"Pseudorectes";"Sharpe, 1877";;
+18557;18750;;"Colluricincla";"Vigors & Horsfield, 1827";;
+18782;18783;;"Corvinella";"Lesson, R, 1831";;
+18782;18788;;"Urolestes";"Cabanis, 1851";;
+18782;18793;;"Eurocephalus";"Smith, A, 1836";;
+18782;18798;;"Lanius";"Linnaeus, 1758";;
+18899;18900;;"Cyclarhis";"Swainson, 1824";;
+18899;18927;;"Vireolanius";"Bonaparte, 1850";;
+18899;18943;;"Vireo";"Vieillot, 1808";;
+18899;19074;;"Hylophilus";"Temminck, 1822";;
+18899;19129;;"Erpornis";"Blyth, 1844";"PHY, ENG";"Move Erpornis from babblers (Timaliidae) to vireos (Vireonidae) (Reddy & Cracraft 2007; Reddy 2008). Change English name (tentatively) to White-bellied Erpornis; it is not a Yuhina."
+18899;19139;;"Pteruthius";"Swainson, 1832";"PHY, SEQ";"Shrike-babblers are Old World vireos (Reddy 2008); resequence."
+19164;19165;"1";"Turnagra";"Lesson, R, 1837";"PHY, SEQ";"Piopio Turnagra belongs with Old World orioles (Oriolidae), not with bowerbirds (Ptilonorhynchidae) (Johansson et al. 2011; cf. Christidis et al. 1996; see also Zuccon & Ericson 2012; Gibb et al. 2015)."
+19164;19170;;"Sphecotheres";"Vieillot, 1816";;
+19164;19179;;"Pitohui";"Lesson, R, 1831";"PHY, SEQ";"Pitohui s.s. is sister to Oriolus (Jønsson et al. 2008; Dumbacher 2013)."
+19164;19200;;"Oriolus";"Linnaeus, 1766";"PHY, SEQ";"Revised classification of Oriolus follows Jønsson et al. (2019)."
+19301;19302;;"Dicrurus";"Vieillot, 1816";;
+19431;19432;;"Rhipidura";"Vigors & Horsfield, 1827";;
+19431;19601;;"Lamprolia";"Finsch, 1874";"TAX";"Silktails are treated as a separate family by Jonsson et al. (2016) but as a subfamiy by Schodde & Christidis (2016)."
+19431;19604;;"Chaetorhynchus";"Meyer, AB, 1874";;
+19607;19608;;"Hypothymis";"Boie, F, 1826";;
+19607;19643;;"Eutrichomyias";"Meise, 1939";;
+19607;19645;;"Trochocercus";"Cabanis, 1851";"TAX, SEQ";"Dusky Crested Flycatcher, White-bellied Crested Flycatcher, and White-tailed Crested Flycatcher transferred from Trochocercus to Elminia (Dickinson 2003; Sinclair & Ryan 2003; Coates et al. 2006)."
+19607;19655;;"Terpsiphone";"Gloger, 1827";;
+19607;19720;;"Chasiempis";"Cabanis, 1847";;
+19607;19727;;"Pomarea";"Bonaparte, 1854";;
+19607;19739;;"Mayrornis";"Wetmore, 1932";;
+19607;19745;;"Neolalage";"Mathews, 1928";;
+19607;19747;;"Clytorhynchus";"Elliot, DG, 1870";;
+19607;19767;;"Metabolus";"Bonaparte, 1854";;
+19607;19769;;"Symposiachrus";"Bonaparte, 1854";"TAX";"Separate 19 species of Monarcha to Symposiachrus (Filardi & Smith 2005; Christidis & Boles 2008)."
+19607;19811;;"Monarcha";"Vigors & Horsfield, 1827";;
+19607;19840;;"Carterornis";"Mathews, 1912";"TAX";"Separate Golden Monarch from Monarcha to Carterornis (Filardi & Moyle 2005; Christidis & Boles 2008)."
+19607;19856;;"Arses";"Lesson, R, 1831";;
+19607;19868;;"Grallina";"Vieillot, 1816";;
+19607;19873;;"Myiagra";"Vigors & Horsfield, 1827";;
+19934;19935;;"Platylophus";"Swainson, 1832";;
+19934;19941;;"Platysmurus";"Reichenbach, 1850";;
+19934;19945;;"Perisoreus";"Bonaparte, 1831";;
+19934;19963;;"Cyanolyca";"Cabanis, 1851";;
+19934;19985;;"Cyanocorax";"Boie, F, 1826";;
+19934;20031;;"Psilorhinus";"Rüppell, 1837";;
+19934;20036;;"Calocitta";"Gray, GR, 1841";;
+19934;20042;;"Cyanocitta";"Strickland, 1845";;
+19934;20062;;"Aphelocoma";"Cabanis, 1851";;
+19934;20095;;"Gymnorhinus";"Wied-Neuwied, 1841";;
+19934;20097;;"Garrulus";"Brisson, 1760";;
+19934;20135;;"Cyanopica";"Bonaparte, 1850";;
+19934;20140;;"Urocissa";"Cabanis, 1851";;
+19934;20157;;"Cissa";"Boie, F, 1826";;
+19934;20172;;"Dendrocitta";"Gould, 1833";;
+19934;20197;;"Crypsirina";"Vieillot, 1816";;
+19934;20200;;"Temnurus";"Lesson, R, 1831";;
+19934;20202;;"Pica";"Brisson, 1760";;
+19934;20218;;"Zavattariornis";"Moltoni, 1938";;
+19934;20220;;"Podoces";"Fischer von Waldheim, 1821";;
+19934;20227;;"Nucifraga";"Brisson, 1760";;
+19934;20239;;"Pyrrhocorax";"Tunstall, 1771";;
+19934;20253;;"Ptilostomus";"Swainson, 1837";;
+19934;20255;;"Coloeus";"Kaup, 1829";"TAX";"Assign Western Jackdaw and Daurian Jackdaw from Corvus to Coloeus (Rasmussen & Anderton 2005)."
+19934;20262;;"Corvus";"Linnaeus, 1758";;
+20365;20366;;"Corcorax";"Lesson, R, 1831";;
+20365;20370;;"Struthidea";"Gould, 1837";;
+20375;20376;;"Melampitta";"Schlegel, 1871";;
+20375;20378;;"Megalampitta";"Schodde & Christidis, 2014";;
+20381;20382;;"Ifrita";"Rothschild, 1898";;
+20385;20386;;"Lycocorax";"Bonaparte, 1853";;
+20385;20391;;"Manucodia";"Boddaert, 1783";;
+20385;20398;;"Phonygammus";"Lesson, R & Garnot, 1826";;
+20385;20406;;"Paradigalla";"Lesson, R, 1835";;
+20385;20409;;"Astrapia";"Vieillot, 1816";;
+20385;20419;;"Parotia";"Vieillot, 1816";;
+20385;20430;;"Pteridophora";"Meyer, AB, 1894";;
+20385;20432;;"Lophorina";"Vieillot, 1816";;
+20385;20441;;"Ptiloris";"Swainson, 1825";;
+20385;20448;;"Epimachus";"Cuvier, 1816";;
+20385;20451;;"Drepanornis";"Sclater, PL, 1873";;
+20385;20457;;"Diphyllodes";"Lesson, R, 1834";;
+20385;20463;;"Cicinnurus";"Vieillot, 1816";;
+20385;20467;;"Semioptera";"Gray, GR, 1859";;
+20385;20471;;"Seleucidis";"Lesson, R, 1834";;
+20385;20473;;"Paradisaea";"Linnaeus, 1758";;
+20490;20491;;"Tregellasia";"Mathews, 1912";;
+20490;20506;;"Quoyornis";"Mathews, 1912";;
+20490;20508;;"Eopsaltria";"Swainson, 1832";;
+20490;20515;;"Gennaeodryas";"Mathews, 1920";;
+20490;20517;;"Melanodryas";"Gould, 1865";;
+20490;20526;;"Peneothello";"Mathews, 1920";;
+20490;20547;;"Poecilodryas";"Gould, 1865";;
+20490;20558;;"Plesiodryas";"Mathews, 1920";;
+20490;20563;;"Heteromyias";"Sharpe, 1879";"TAX";"Separate Ashy Robin and Grey-headed Robin from other species of Poecilodryas to Heteromyias (Boles 2007c; Christidis & Boles 2008; Christidis et al. 2011)."
+20490;20569;;"Drymodes";"Gould, 1841";;
+20490;20575;;"Microeca";"Gould, 1841";;
+20490;20589;;"Monachella";"Salvadori, 1874";;
+20490;20593;;"Cryptomicroeca";"Christidis, Irestedt, Rowe, Boles & Norman, 2012";;
+20490;20595;;"Kempiella";"Mathews, 1913";;
+20490;20601;;"Devioeca";"Mathews, 1925";;
+20490;20603;;"Eugerygone";"Finsch, 1901";;
+20490;20605;;"Petroica";"Swainson, 1829";;
+20490;20647;;"Pachycephalopsis";"Salvadori, 1879";;
+20490;20658;;"Amalocichla";"De Vis, 1892";"PHY";"Amalocichla ground-robins of New Guinea are sister to the other species of Australasian robins (Petroicidae) (Norman et al. 2009)."
+20666;20667;;"Picathartes";"Lesson, R, 1828";;
+20671;20672;;"Chaetops";"Swainson, 1832";;
+20676;20677;;"Eupetes";"Temminck, 1831";;
+20682;20683;;"Bombycilla";"Vieillot, 1808";;
+20690;20691;;"Phainoptila";"Salvin, 1877";;
+20690;20695;;"Ptiliogonys";"Swainson, 1827";"TAX";"Revert spelling of Ptilogonys to the original spelling Ptiliogonys (AOU 54th supplement 2013)."
+20690;20702;;"Phainopepla";"Baird, SF, 1858";;
+20707;20708;;"Hypocolius";"Bonaparte, 1850";;
+20711;20712;;"Dulus";"Vieillot, 1816";;
+20715;20716;"1";"Chaetoptila";"Gray, GR, 1869";;
+20715;20718;"1";"Moho";"Lesson, R, 1830";;
+20724;20725;;"Hylocitrea";"Mathews, 1925";"PHY, SEQ";"Yellow-flanked Whistler (Hylocitrea) is related to waxwings, not whistlers (Spellman et al. 2008)."
+20730;20731;;"Chelidorhynx";"Blyth, 1843";;
+20730;20733;;"Stenostira";"Cabanis & Bonaparte, 1850";;
+20730;20738;;"Culicicapa";"Swinhoe, 1871";;
+20730;20751;;"Elminia";"Bonaparte, 1854";"TAX,SEQ";"Transfer Dusky Crested Flycatcher, White-bellied Crested Flycatcher, and White-tailed Crested Flycatcher from Trochocercus to Elminia (Dickinson 2003; Sinclair & Ryan 2003; Coates et al. 2006)."
+20767;20768;;"Cephalopyrus";"Bonaparte, 1854";"PHY, SEQ";"Cephalopyrus is the basal lineage of the Paridae (Johansson et al. 2013)."
+20767;20772;;"Sylviparus";"Burton, 1836";;
+20767;20777;;"Melanochlora";"Lesson, R, 1839";;
+20767;20783;;"Periparus";"Sélys-Longchamps, 1884";;
+20767;20812;;"Pardaliparus";"Sélys-Longchamps, 1884";"PHY, TAX";"Separation of Pardaliparus spp. from Periparus follows Johansson et al. (2013)."
+20767;20825;;"Lophophanes";"Kaup, 1829";;
+20767;20839;;"Baeolophus";"Cabanis, 1851";;
+20767;20858;;"Sittiparus";"Sélys-Longchamps, 1884";"PHY, TAX";"Separation of Sittiparus spp. from Poecile follows Johansson et al. (2013)."
+20767;20872;;"Poecile";"Kaup, 1829";"PHY, SEQ";"Revised (10.1) sequence of Poecile species follows Tritsch et al. (2017)."
+20767;20950;;"Cyanistes";"Kaup, 1829";;
+20767;20978;;"Pseudopodoces";"Zarudny & Loudon, 1902";;
+20767;20980;;"Parus";"Linnaeus, 1758";;
+20767;21025;;"Machlolophus";"Cabanis, 1851";"PHY, TAX";"Separation of Machlolophus spp. from Parus follows Johansson et al. (2013)."
+20767;21037;;"Melaniparus";"Bonaparte, 1850";"PHY, TAX";"Separation of Melaniparus spp. from Parus follows Johansson et al. (2013)."
+21075;21076;;"Remiz";"Jarocki, 1819";;
+21075;21091;;"Anthoscopus";"Cabanis, 1851";;
+21075;21115;;"Auriparus";"Baird, SF, 1864";;
+21124;21125;;"Nicator";"Hartlaub & Finsch, 1870";;
+21130;21131;;"Panurus";"Koch, 1816";;
+21137;21138;;"Alaemon";"Keyserling & Blasius, JH, 1840";;
+21137;21148;;"Chersomanes";"Cabanis, 1851";;
+21137;21161;;"Ammomanopsis";"Bianchi, 1905";;
+21137;21165;;"Certhilauda";"Swainson, 1827";;
+21137;21183;;"Pinarocorys";"Shelley, 1902";;
+21137;21188;;"Ramphocoris";"Bonaparte, 1850";;
+21137;21190;;"Ammomanes";"Cabanis, 1851";;
+21137;21221;;"Eremopterix";"Kaup, 1836";;
+21137;21244;;"Calendulauda";"Blyth, 1855";"TAX, SEQ";"Move four species of Mirafra larks (Fawn-colored, Foxy, Pink-breasted, Sabota) and four species of Certhilauda larks (Karoo, Dune, Barlow's, Red) to Calendulauda (de Juana et al. 2004; Hockey et al. 2005; Alström et al. 2013)."
+21137;21277;;"Heteromirafra";"Grant, CHB, 1913";;
+21137;21280;;"Mirafra";"Horsfield, 1821";;
+21137;21385;;"Lullula";"Kaup, 1829";;
+21137;21389;;"Spizocorys";"Sundevall, 1872";;
+21137;21410;;"Alauda";"Linnaeus, 1758";;
+21137;21439;;"Galerida";"Boie, F, 1828";;
+21137;21501;;"Eremophila";"Boie, F, 1828";;
+21137;21546;;"Calandrella";"Kaup, 1829";;
+21137;21571;;"Melanocorypha";"Boie, F, 1828";;
+21137;21581;;"Chersophilus";"Sharpe, 1890";;
+21137;21585;;"Eremalauda";"Sclater, WL, 1926";;
+21137;21589;;"Alaudala";"Horsfield & Moore, F, 1858";;
+21617;21618;;"Andropadus";"Swainson, 1832";;
+21617;21624;;"Stelgidillas";"Oberholser, 1899";"TAX";"Stelgidillas bulbuls separated from Andropadus following Johansson et al. (2007)."
+21617;21628;;"Calyptocichla";"Oberholser, 1905";;
+21617;21630;;"Neolestes";"Cabanis, 1875";"PHY";"Neolestes is a member of the Afrotropical clade of bulbuls (Johansson et al. 2008; Zuccon & Ericson 2010)."
+21617;21632;;"Bleda";"Bonaparte, 1857";;"Sequence of Bleda follows Huntley & Voelker (2016)."
+21617;21642;;"Atimastillas";"Oberholser, 1905";;
+21617;21647;;"Ixonotus";"Verreaux, J & Verreaux, E, 1851";;
+21617;21649;;"Thescelocichla";"Oberholser, 1905";;
+21617;21651;;"Chlorocichla";"Sharpe, 1882";;
+21617;21662;;"Baeopogon";"Heine, 1860";;
+21617;21667;;"Arizelocichla";"Oberholser, 1905";"TAX";"Arizelocichla bulbuls separated from Andropadus following Johansson et al. (2007)."
+21617;21688;;"Criniger";"Temminck, 1820";;
+21617;21699;;"Eurillas";"Oberholser, 1899";"TAX";"Eurillas bulbuls separated from Andropadus following Johansson et al. (2007)."
+21617;21720;;"Phyllastrephus";"Swainson, 1832";;
+21617;21764;;"Tricholestes";"Salvadori, 1874";;
+21617;21769;;"Setornis";"Lesson, R, 1839";;
+21617;21771;;"Alophoixus";"Oates, 1889";"TAX";"Separate the Oriental species of Criniger bulbuls to a different genus Alophoixus (Fishpool & Tobias 2005; BLI). Sequence in Alophoixus is based on Shakya et al. (2020)."
+21617;21804;;"Alcurus";"Blyth, 1843";"TAX, PHY";"Genus resurrected for Pycnonotus striatus, which  is sister to a clade of species deeply genetically divergent from members of core Pycnonotus (Shakya & Sheldon 2017)."
+21617;21810;;"Iole";"Blyth, 1844";;
+21617;21826;;"Hemixos";"Blyth, 1845";;
+21617;21840;;"Acritillas";"Oberholser, 1905";;
+21617;21845;;"Ixos";"Temminck, 1825";;
+21617;21861;;"Hypsipetes";"Vigors, 1831";;
+21617;21925;;"Euptilotus";"Reichenbach, 1850";"TAX, PHY";"Pycnonotus s.l. Clade A of Shakya & Sheldon (2017) is deeply divergent from Pycnonotus s.s. and Clade B (formerly Pycnonotus). Relatively long branch lengths and disparate morphology support treatment as four genera, including the monotypic Euptilotus."
+21617;21927;;"Microtarsus";"Eyton, 1839";"TAX, PHY";"Pycnonotus s.l. Clade A of Shakya & Sheldon (2017) is deeply divergent from Pycnonotus s.s. and Clade B (formerly Pycnonotus). Relatively long branch lengths and disparate morphology support treatment as four genera, including Microtarsus."
+21617;21929;;"Poliolophus";"Sharpe, 1877";"TAX, PHY";"Pycnonotus s.l. Clade A of Shakya & Sheldon (2017) is deeply divergent from Pycnonotus s.s. and Clade B (formerly Pycnonotus). Relatively long branch lengths and disparate morphology support treatment as four genera, including the monospecific Poliolophus."
+21617;21936;;"Brachypodius";"Blyth, 1845";"TAX, PHY";"Pycnonotus s.l. Clade A of Shakya & Sheldon (2017) is deeply divergent from Pycnonotus s.s. and Clade B (formerly Pycnonotus). Relatively long branch lengths and disparate morphology support treatment as four genera, including Brachypodius."
+21617;21947;;"Ixodia";"Blyth, 1845";"TAX, PHY";"Ixodia is resurrected here for a subclade within Clade B of Shakya & Sheldon (2017; where misspelled Ixodea) which is fairly deeply diverged genetically from other members of Clade B (now Rubigula) and deeply diverged from species in Pycnonotus s.s. The genus name Ixodia Blyth, 1845 is available and is not preoccupied by Ixodia Robert Brown, 1812 (Asteraceae) (R. Schodde, pers. comm.), hence there was no need for the replacement name Ixidia Blyth, 1846, which has nevertheless been used a few times after 1899."
+21617;21956;;"Rubigula";"Blyth, 1845";;"The resurrected genus Rubigula is adopted here for a subclade within Clade B of Shakya & Sheldon (2017) which is fairly deeply divergent genetically from other members of Clade B (now Ixodia) and deeply divergent from species in Pycnonotus s.s. (Shakya & Sheldon 2017)."
+21617;21970;;"Nok";"Fuchs et al., 2018";"PHY, TAX, SEQ";"Sister to Spizixos; moved from Pycnonotus to the monotypic genus Nok Fuchs et al., 2018."
+21617;21972;;"Spizixos";"Blyth, 1845";;
+21617;21979;;"Pycnonotus";"Boie, F, 1826";;
+22083;22084;;"Pseudochelidon";"Hartlaub, 1861";;
+22083;22087;;"Psalidoprocne";"Cabanis, 1851";;
+22083;22109;;"Pseudhirundo";"Roberts, 1922";;
+22083;22113;;"Cheramoeca";"Cabanis, 1851";;
+22083;22115;;"Phedina";"Bonaparte, 1855";;
+22083;22120;;"Riparia";"Forster, T, 1817";;
+22083;22149;;"Tachycineta";"Cabanis, 1851";;
+22083;22163;;"Progne";"Boie, F, 1826";"SEQ";"Sequence follows Sheldon et al. (2005); Moyle et al. (2008)."
+22083;22181;;"Notiochelidon";"Baird, SF, 1865";;
+22083;22192;;"Haplochelidon";"Todd, 1929";;
+22083;22196;;"Atticora";"Gould, 1842";"TAX";"Change author and date from Boie, F, 1844 to Gould, 1842 (Gregory & Dickinson 2012b)."
+22083;22199;;"Neochelidon";"Sclater, PL, 1862";;
+22083;22204;;"Stelgidopteryx";"Baird, SF, 1858";;
+22083;22217;;"Alopochelidon";"Ridgway, 1903";;
+22083;22219;;"Hirundo";"Linnaeus, 1758";;
+22083;22261;;"Ptyonoprogne";"Reichenbach, 1850";;
+22083;22281;;"Delichon";"Moore, F, 1854";;
+22083;22293;;"Cecropis";"Boie, F, 1826";;
+22083;22326;;"Petrochelidon";"Cabanis, 1851";;
+22354;22355;;"Pnoepyga";"Hodgson, 1844";;
+22371;22372;;"Melocichla";"Hartlaub, 1857";;
+22371;22378;;"Sphenoeacus";"Strickland, 1841";;
+22371;22384;;"Achaetops";"Roberts, 1922";;
+22371;22388;;"Macrosphenus";"Cassin, 1859";;
+22371;22400;;"Sylvietta";"Lafresnaye, 1839";;
+22371;22439;;"Cryptillas";"Oberholser, 1899";;
+22442;22443;;"Abroscopus";"Baker, ECS, 1930";"PHY,SEQ";"Move Abroscopus from ""Sylviidae"" to Cettiidae (Alström et al. 2006; Johansson et al. 2008)."
+22442;22463;;"Phyllergates";"Sharpe, 1883";"PHY";"Mountain Tailorbird and Rufous-headed Tailorbird are not related to Orthotomus (Cisticolidae); assigned instead to Phyllergates [Cettiidae] (Alström et al. 2006; Ryan et al. 2006; Nguembock et al. 2007)."
+22442;22482;;"Tickellia";"Blyth, 1861";"PHY, SEQ";"Move Tickellia from Sylviidae to Cettiidae (Alström et al. 2006; Johansson et al. 2008)."
+22442;22486;;"Horornis";"Hodgson, 1845";;
+22442;22529;;"Tesia";"Hodgson, 1837";;
+22442;22538;;"Cettia";"Bonaparte, 1834";;
+22442;22554;;"Urosphena";"Swinhoe, 1877";;
+22566;22567;;"Scotocerca";"Sundevall, 1872";"PHY, SEQ";"Scotocerca is sister to Cettiidae. Move from Incertae sedis to family Scotocercidae (Alström et al. 2011c; Fregin et al. 2012; Olsson et al. 2013b; cf. Barhoum and Burns 2002)."
+22578;22579;;"Erythrocercus";"Hartlaub, 1857";"PHY,SEQ";"Move from Incertae sedis to new family Erythrocercidae, after Scotocercidae (Fregin et al. 2012)."
+22590;22591;;"Hylia";"Cassin, 1859";"PHY";"Hylia is a sylvioid previously allied to the Cettiidae (Sefc et al. 2003; Beresford et al. 2005; Fuchs et al. 2006; Johannson et al. 2008). Fregin et al. (2012) and Oliveros et al. (2019) suggest assignment to family Hyliidae Bannerman, 1923 together with Pholidornis."
+22590;22595;;"Pholidornis";"Hartlaub, 1857";"PHY";"Pholidornis is a sylvioid tentatively allied to Hylia and the Cettiidae (Sefc et al. 2003; Fuchs et al. 2006; Johannson et al. 2008); Fregin et al. (2012) suggest assignment to Hyliidae."
+22602;22603;;"Aegithalos";"Hermann, 1804";;
+22602;22642;;"Leptopoecile";"Severtsov, 1873";;
+22602;22651;;"Psaltriparus";"Bonaparte, 1850";;
+22664;22665;;"Phylloscopus";"Boie, F, 1826";;
+22882;22883;;"Graueria";"Hartert, 1908";"PHY, SEQ";"Reposition (9.2) enigmatic Grauer's Warbler from Incertae sedis to basal position as sister to other reed warblers (Acrocephalidae) (Oliveros et al. 2019)."
+22882;22885;;"Nesillas";"Oberholser, 1899";;
+22882;22896;;"Acrocephalus";"Naumann, JA & Naumann, JF, 1811";;
+22882;23006;;"Arundinax";"Blyth, 1845";;
+22882;23010;;"Iduna";"Keyserling & Blasius, JH, 1840";;
+22882;23026;;"Calamonastides";"Grant, CHB & Mackworth-Praed, 1940";;
+22882;23030;;"Hippolais";"Conrad von Baldenstein, 1827";;
+23036;23037;;"Robsonius";"Collar, 2006";"PHY, ENG";"Robsonius is basal and sister to rest of Locustellidae, not a babbler (Oliveros et al. 2012; Alström et al. 2018). Change group name to Ground Warbler (Hosner et al. 2013)."
+23036;23041;;"Helopsaltes";"Alström et al., 2018";"PHY, TAX";"Separation (8.2) of 6 species from Locustella to Helopsaltes follows phylogeny of Alström et al. (2018). Accepted by Chesser et al. (2020), NACC 2020-B-04. Sequence follows Alstrom et al. (2018)."
+23036;23055;;"Locustella";"Kaup, 1829";"SEQ";"Sequence follows Alstrom et al. (2018)."
+23036;23100;;"Poodytes";"Cabanis, 1851";"PHY, TAX";"Separation (8.2) of 5 species from Megalurus to Poodytes follows phylogeny of Alström et al. (2018)."
+23036;23115;;"Malia";"Schlegel, 1880";"PHY, TAX";"Malia was traditionally allied to the bulbuls (Pycnonotidae), but recent data indicates relationship to Megalurus grassbirds (Locustellidae) (Johansson et al. 2008; Oliveros et al. 2012; Alström et al. 2018)."
+23036;23120;;"Cincloramphus";"Gould, 1838";;
+23036;23151;;"Megalurus";"Horsfield, 1821";"PHY, TAX";"Megalurus previously included two species now (8.2) in Cincloramphus (mathewsi, cruralis), and Spinifexbird in Eremiornis (Alström 2011a)."
+23036;23156;;"Elaphrornis";"Legge, 1879";;
+23036;23158;;"Schoenicola";"Blyth, 1844";"PHY, TAX";
+23036;23161;;"Catriscus";"Cabanis, 1851";;
+23036;23165;;"Bradypterus";"Swainson, 1837";;
+23208;23209;;"Donacobius";"Swainson, 1831";;
+23216;23217;;"Oxylabes";"Sharpe, 1870";;
+23216;23219;;"Bernieria";"Pucheran, 1855";;
+23216;23223;;"Cryptosylvicola";"Goodman, Langrand & Whitney, 1996";;
+23216;23225;;"Hartertula";"Stresemann, 1925";;
+23216;23227;;"Thamnornis";"Milne-Edwards & Grandidier, A, 1882";;
+23216;23229;;"Xanthomixis";"Sharpe, 1881";;
+23216;23238;;"Crossleyia";"Hartlaub, 1877";;
+23216;23240;;"Randia";"Delacour & Berlioz, 1931";;
+23243;23244;;"Neomixis";"Sharpe, 1881";"TAX, SEQ";"Move the Neomixis jerys of Madagascar from Incertae sedis to a basal position in the Cisticolidae (Ryan et al. 2006; Nguembock et al. 2007; Olsson et al. 2013)."
+23243;23257;;"Cisticola";"Kaup, 1829";;
+23243;23497;;"Incana";"Lynes, 1930";;
+23243;23499;;"Prinia";"Horsfield, 1821";;
+23243;23624;;"Schistolais";"Wolters, 1980";;
+23243;23629;;"Phragmacia";"Brooke & Dean, 1990";;
+23243;23633;;"Oreophilais";"Clancey, 1991";;
+23243;23635;;"Micromacronus";"Amadon, 1962";"PHY, SEQ";"Move Miniature Babblers (Micromacronus) from Timaliidae to Cisticolidae, tentatively before Urolais (Oliveros et al. 2012)."
+23243;23638;;"Urolais";"Alexander, 1903";;
+23243;23643;;"Oreolais";"Nguembock, Fjeldså, Couloux, Cruaud & Pasquet, 2008";"TAX,SEQ";"Separate Black-collared Apalis and Ruwenzori Apalis from Apalis to Oreolais; related to Urolais, Schistolais and Artisornis (Nguembock et al. 2008). "
+23243;23648;;"Drymocichla";"Hartlaub, 1881";;
+23243;23650;;"Spiloptila";"Sundevall, 1872";;
+23243;23652;;"Phyllolais";"Hartlaub, 1881";;
+23243;23654;;"Apalis";"Swainson, 1833";;
+23243;23744;;"Malcorus";"Smith, A, 1829";"PHY, SEQ";"Malcorus belongs with Hypergerus and Eminia in Cisticolidae (Johansson et al. 2008; TiF, Fjeldså pers. comm.)."
+23243;23749;;"Hypergerus";"Reichenbach, 1850";;
+23243;23751;;"Eminia";"Hartlaub, 1881";;
+23243;23753;;"Camaroptera";"Sundevall, 1850";;
+23243;23780;;"Calamonastes";"Sharpe, 1883";;
+23243;23796;;"Euryptila";"Sharpe, 1883";;
+23243;23798;;"Bathmocercus";"Reichenow, 1895";;
+23243;23803;;"Scepomycter";"Grant, CHB & Mackworth-Praed, 1941";"TAX";"Separate Winifred's Warbler from Bathmocercus to Scepomycter; move both genera to Cisticolidae (Ryan et al. 2006)."
+23243;23806;;"Orthotomus";"Horsfield, 1821";;
+23243;23855;;"Artisornis";"Friedmann, 1928";;
+23243;23862;;"Poliolais";"Alexander, 1903";;
+23243;23867;;"Eremomela";"Sundevall, 1850";"PHY,SEQ";"Move Eremomela to the Cisticolidae (Johansson et al. 2008)."
+23907;23908;;"Sylvia";"Scopoli, 1769";;
+23907;23929;;"Curruca";"Bechstein, 1802";"PHY";"Members of this genus, formerly in Sylvia and/or Parisoma, are deeply divergent from members of Sylvia s.s. Move all to Curruca (Voelker & Light 2011; Dickinson & Christidis 2014; Cai et al.2019)."
+24011;24012;;"Myzornis";"Blyth, 1843";"TAX";"Gelang et al. (2009) recommend placing Myzornis in the Sylviidae from Incertae sedis. Genus is a basal taxon in Paradoxornithidae (Cai et al. 2019)."
+24011;24014;;"Moupinia";"David & Oustalet, 1877";"PHY, SEQ";"Move Moupinia to Paradoxornithidae with split of that family from Sylviidae (Cai et al. 2019)."
+24011;24016;;"Lioparus";"Oates, 1889";;
+24011;24024;;"Chrysomma";"Blyth, 1843";"PHY, SEQ";"Chrysomma babblers are moved to the Sylviidae (Gelang et al. 2009). Placed in Paradoxornithidae with split of that family from Sylviidae (Cai et al. 2019)."
+24011;24033;;"Rhopophilus";"Giglioli & Salvadori, 1870";"TAX";"MOVE Rhopophilus to Sylviidae positioned near Paradoxornis (Gelang et al. 2009; Olsson et al. 2013b). Placed in Paradoxornithidae by Cai et al. (2019)."
+24011;24036;;"Fulvetta";"David & Oustalet, 1877";"PHY, SEQ";"Fulvetta fulvettas are separated from Alcippe fulvettas and moved to Sylviidae (Pasquet et al. 2006; Collar & Robson 2007; Gelang et al. 2009). Placed in Paradoxornithidae with split of that family from Sylviidae (Cai et al. 2019)."
+24011;24063;;"Chamaea";"Gambel, 1847";"PHY, SEQ";"MOVE Wrentit from Timaliidae to Sylviidae next to parrotbills (Gelang et al. 2009). Placed in Paradoxornithidae with split of that family from Sylviidae (Cai et al. 2019)."
+24011;24070;;"Calamornis";"Gould, 1874";"TAX";"Move Reed Parrotbill from Paradoxornis to the resurrected genus Calamornis since it is paraphyletic to the other two species in Paradoxornis in Cai et al. (2019)."
+24011;24074;;"Paradoxornis";"Gould, 1836";;
+24011;24077;;"Conostoma";"Hodgson, 1841";;
+24011;24079;;"Cholornis";"Verreaux, J, 1871";;
+24011;24084;;"Psittiparus";"Hellmayr, 1903";;
+24011;24097;;"Neosuthora";"Hellmayr, 1911";;
+24011;24102;;"Suthora";"Hodgson, 1837";;
+24011;24124;;"Chleuasicus";"Blyth, 1845";;
+24011;24128;;"Sinosuthora";"Penhallurick & Robson, CR, 2009";;
+24153;24154;;"Parayuhina";"Cai et al., 2019";"TAX, PHY";"Genus nov.: Cai et al., 2019. Monotypic and basal to all other species in the ""yuhina"" clade. "
+24153;24158;;"Staphida";"Swinhoe, 1871";"TAX, PHY";"Resurrect genus Staphida to include three species formerly in Yuhina but which are in a discrete clade basal to Yuhina s.s. (Cai et al. 2019)."
+24153;24166;;"Yuhina";"Hodgson, 1836";"PHY, SEQ";"Move Yuhina species to Zosteropidae from Timaliidae (Cibois et al. 2003; Moyle et al. 2009). Resequence following Cai et al. (2019)."
+24153;24187;;"Dasycrotapha";"Tweeddale, 1878";;
+24153;24191;;"Sterrhoptilus";"Oberholser, 1918";;
+24153;24201;;"Zosterornis";"Ogilvie-Grant, 1894";;
+24153;24209;;"Cleptornis";"Oustalet, 1889";;
+24153;24211;;"Rukia";"Momiyama, 1922";"TAX";"Phylogenetic relationships of Rukia are uncertain; not sampled in Cai et al. (2019)."
+24153;24214;;"Megazosterops";"Stresemann, 1930";;
+24153;24216;;"Heleia";"Hartlaub, 1865";"TAX, PHY, ENG";"Heleia Hartlaub, 1865 includes species that were formerly attributed to Lophozosterops Hartert, 1896 and Oculocincta Mees, 1953 (Moyle et al. 2009). For those species formerly attributed to Lophozosterops and Oculocincta, replace controversial Tagalog name “Ibon” (=bird) with established, phylogenetically appropriate “White-eye”."
+24153;24243;;"Apalopteron";"Bonaparte, 1854";"TAX, PHY";"Apalopteron may be embedded within Heleia, but STET pending a more comprehensive analysis (Cai et al. 2019)."
+24153;24247;;"Tephrozosterops";"Stresemann, 1931";;
+24153;24249;;"Zosterops";"Vigors & Horsfield, 1827";"TAX, SEQ";"Revisions of Zosterops rely heavily on genetic relationships following Warren et al. (2006); Moyle et al. (2009); Melo et al. (2011); Cox et al. (2014); Pearson & Turner (2017); Lim et al. (2018); Cai et al. (2019); Martins et al. (2020)."
+24515;24516;;"Timalia";"Horsfield, 1821";;
+24515;24524;;"Dumetia";"Blyth, 1852";"TAX";"Merge monospecific genus Rhopocichla with Dumetia based on fairly recent divergence and similar morphology (Cai et al. 2019)."
+24515;24534;;"Mixornis";"Blyth, 1842";"TAX, PHY";"Mixornis is split from Macronus to resolve paraphyly (Moyle et al. 2012; Dickinson & Christidis 2014)."
+24515;24562;;"Macronus";"Jardine & Selby, 1835";"TAX";"Correct spelling of Macronous to Macronus (H&M 3rd corrigendum 8)."
+24515;24572;;"Cyanoderma";"Salvadori, 1874";"TAX, PHY";"Genus resurrected for species formerly assigned to Stachyridopsis and one from Stachyris to accommodate recent phylogenetic studies (Moyle et al. 2012; Dickinson & Christidis 2018). Cyanoderma Salvadori, 1874 has priority over Stachyridopsis Oates, 1883. Note change in gender."
+24515;24609;;"Spelaeornis";"David & Oustalet, 1877";"PHY, TAX";"Spotted Wren-Babbler moved to monotypic Elachuridae as Spotted Elachura."
+24515;24625;;"Melanocichla";"Sharpe, 1883";"TAX, PHY";"Melanocichla is comprised of two species that were formerly assigned to Garrulax in Leiothrichidae but molecular studies reveal that they belong in Timaliidae (Cai et al. 2019)."
+24515;24628;;"Pomatorhinus";"Horsfield, 1821";;
+24515;24688;;"Erythrogenys";"Baker, ECS, 1930";"TAX. PHY";"Deeply genetically divergent from other scimitar babblers in Pomatorhinus; split as a separate genus (Reddy & Moyle 2011; Dickinson & Christidis 2014). Note change in gender."
+24515;24710;;"Stachyris";"Hodgson, 1844";;
+24752;24753;;"Graminicola";"Jerdon, 1863";"TAX";"MOVE Graminicola from Locustellidae (Megaluridae) to Pellorneidae (Timaliidae) (Alström 2006; Johansson et al. 2008)."
+24752;24758;;"Turdinus";"Blyth, 1844";"TAX. PHY";"Napothera, as previously defined, is polyphyletic. Separate the genus Turdinus which is a basal clade within Pellorneidae (Cai et al. 2019)."
+24752;24767;;"Malacopteron";"Eyton, 1839";"TAX";"Genus transferred from Timaliidae to new babbler family Pellorneidae."
+24752;24784;;"Gampsorhynchus";"Blyth, 1844";"TAX";"Genus transferred from Timaliidae to new babbler family Pellorneidae."
+24752;24790;;"Schoeniparus";"Hume, 1874";"TAX, PHY";"Schoeniparus was formerly assigned to Alcippe but is genetically widely divergent (Moyle et al. 2012; Cai et al. 2019)."
+24752;24818;;"Pellorneum";"Swainson, 1832";"TAX";"Genus transferred from Timaliidae to new babbler family Pellorneidae. Genus expanded to include Trichastoma and two species formerly assigned to Malacocincla (Eaton et al. 2016; Cai et al. 2019)."
+24752;24887;;"Laticilla";"Blyth, 1845";"ENG";"Change [8.1] English names of Laticilla spp. from Prinia to Grass Babbler (H&M 4; HBW; Praveen et al. 2017)."
+24752;24892;;"Illadopsis";"Heine, 1860";"TAX";"Genus transferred from Timaliidae to new babbler family Pellorneidae."
+24752;24923;;"Kenopia";"Gray, GR, 1869";"TAX";"Genus transferred from Timaliidae to new babbler family Pellorneidae."
+24752;24925;;"Malacocincla";"Blyth, 1845";"TAX, PHY";"Genus transferred from Timaliidae to new babbler family Pellorneidae. Malacocincla, as formerly treated, is polyphyletic. Two species transferred to Pellorneum to resolve the polyphyly (Cai et al. 2019)."
+24752;24942;;"Gypsophila";"Oates, 1883";"TAX, PHY";"Gypsophila resurrected for a clade of species formerly attributed to Napothera (Cai et al. 2019)."
+24752;24957;;"Ptilocichla";"Sharpe, 1877";"TAX";"Genus Ptilocichla transferred from Timaliidae to new babbler family Pellorneidae."
+24752;24965;;"Napothera";"Gray, GR, 1842";"TAX, PHY";"Genus transferred from Timaliidae to new babbler family Pellorneidae. Genus expanded to include species formerly assigned to Rimator and Jabouilleia (Cai et al. 2019)."
+24989;24990;;"Alcippe";"Blyth, 1844";;
+25023;25024;;"Grammatoptila";"Reichenbach, 1850";;
+25023;25031;;"Cutia";"Hodgson, 1837";"TAX";"Transfer genus Cutia from Timaliidae to new babbler family Leiothrichidae (Cibois et al. 2018)."
+25023;25039;;"Laniellus";"Swainson, 1832";"PHY, TAX";"Genus Crocias transferred from Timaliidae to new babbler family Leiothrichidae. Replaced (9.1) by Laniellus (Cibois et al. 2018)."
+25023;25042;;"Trochalopteron";"Blyth, 1843";"PHY, TAX";"Trochalopteron laughingthrushes are a non-sister clade to Garrulax (Gelang et al. 2009), with which they were long united."
+25023;25100;;"Montecincla";"Robin et al., 2017";"TAX, SEQ";"Genus novum: Robin et al., 2017. Applied to the Western Ghats laughingthrushes which do not group with other genera of laughingthrushes, including Trochalopteron and Strophocincla, in which they were formerly placed by some. Sister to other Leiothrichidae (Robin et al. 2017); resequence to follow Heterophasia."
+25023;25105;;"Heterophasia";"Blyth, 1842";"PHY, TAX";"Genus transferred from Timaliidae to new babbler family Leiothrichidae."
+25023;25130;;"Actinodura";"Gould, 1836";"TAX";"Genus Actinodura transferred from Timaliidae to new babbler family Leiothrichidae."
+25023;25167;;"Leiothrix";"Swainson, 1832";"TAX";"Genus transferred from Timaliidae to new babbler family Leiothrichidae."
+25023;25184;;"Minla";"Hodgson, 1837";"TAX";"Previously in the Timaliidae, genus Minla is restricted to M. ignotincta (Cibois et al. 2018)."
+25023;25190;;"Leioptila";"Blyth, 1847";;
+25023;25198;;"Liocichla";"Swinhoe, 1877";"PHY, TAX";"Genus transferred from Timaliidae to new babbler family Leiothrichidae."
+25023;25208;;"Argya";"Lesson, R, 1831";"PHY, TAX";"Genus Argya subsumes a clade of babblers previously lumped with Turdoides, and one species of ""Garrulax"" (Cibois et al. 2018)."
+25023;25255;;"Turdoides";"Cretzschmar, 1826";;
+25023;25310;;"Garrulax";"Lesson, R, 1831";"TAX, PHY";"Paraphyletic genus Garrulax transferred from Timaliidae to new babbler family Leiothrichidae; 21 species transferred from Garrulax to Trochalopteron and 8 species to Ianthocincla (Cibois et al. 2018)."
+25023;25352;;"Ianthocincla";"Gould, 1835";"PHY, TAX";"New genus of laughingthrushes includes 8 species previously in Garrulax (Cibois et al. 2018). Note gender agreement."
+25023;25376;;"Pterorhinus";"Swinhoe, 1868";"PHY, TAX";"Pterorhinus is a newly defined clade of 23 Garrulax babblers (Cibois et al. 2018)."
+25439;25440;;"Modulatrix";"Ripley, 1952";;
+25439;25444;;"Arcanator";"Irwin & Clancey, 1986";"TAX, PHY";"Separate Dapple-throat from Modulatrix to Arcanator, which is sister to Kakamega (Collar & Robson 2007; Johansson et al. 2008a)."
+25439;25449;;"Kakamega";"Mann, CF, Burton, PJK & Lennerstedt, 1978";"PHY,SEQ";"Kakamega is not a babbler (Cibois et al. 2003); sister to Arcanator (Johansson et al. 2008a)."
+25452;25453;;"Promerops";"Brisson, 1760";;
+25459;25460;;"Irena";"Horsfield, 1821";;
+25474;25475;;"Regulus";"Cuvier, 1800";;
+25509;25510;;"Elachura";"Oates, 1889";;
+25513;25514;;"Hyliota";"Swainson, 1837";;
+25527;25528;;"Campylorhynchus";"Spix, 1824";;
+25527;25582;;"Odontorchilus";"Richmond, 1915";;
+25527;25587;;"Salpinctes";"Cabanis, 1847";;
+25527;25597;;"Catherpes";"Baird, SF, 1858";;
+25527;25607;;"Hylorchilus";"Nelson, 1897";;
+25527;25610;;"Cinnycerthia";"Lesson, R, 1844";;
+25527;25623;;"Cistothorus";"Cabanis, 1851";;
+25527;25663;;"Thryomanes";"Sclater, PL, 1862";;
+25527;25680;;"Ferminia";"Barbour, 1926";;
+25527;25682;;"Pheugopedius";"Cabanis, 1851";;
+25527;25745;;"Thryophilus";"Baird, SF, 1864";;
+25527;25766;;"Cantorchilus";"Mann, NI, Barker, Graves, JA, Dingess-Mann & Slater, PJB, 2006";;
+25527;25803;;"Thryothorus";"Vieillot, 1816";;
+25527;25815;;"Troglodytes";"Vieillot, 1809";;
+25527;25921;;"Thryorchilus";"Oberholser, 1904";;
+25527;25923;;"Uropsila";"Sclater, PL & Salvin, 1873";;
+25527;25930;;"Henicorhina";"Sclater, PL & Salvin, 1868";;
+25527;25966;;"Microcerculus";"Salvin, 1861";;
+25527;25984;;"Cyphorhinus";"Cabanis, 1844";;
+26002;26003;;"Microbates";"Sclater, PL & Salvin, 1873";;
+26002;26018;;"Ramphocaenus";"Vieillot, 1819";;
+26002;26036;;"Polioptila";"Sclater, PL, 1855";;
+26087;26088;;"Sitta";"Linnaeus, 1758";;
+26192;26193;;"Tichodroma";"Illiger, 1811";;
+26198;26199;;"Certhia";"Linnaeus, 1758";;
+26198;26248;;"Salpornis";"Gray, GR, 1847";;
+26258;26259;;"Dumetella";"Wood, CT, 1837";;
+26258;26261;;"Melanoptila";"Sclater, PL, 1858";;
+26258;26263;;"Mimus";"Boie, F, 1826";;
+26258;26306;;"Oreoscoptes";"Baird, SF, 1858";;
+26258;26308;;"Toxostoma";"Wagler, 1831";;
+26258;26342;;"Ramphocinclus";"Lafresnaye, 1843";;
+26258;26346;;"Melanotis";"Bonaparte, 1850";;
+26258;26351;;"Allenia";"Cory, 1891";;
+26258;26358;;"Margarops";"Sclater, PL, 1859";;
+26258;26364;;"Cinclocerthia";"Gray, GR, 1840";;
+26374;26375;;"Aplonis";"Gould, 1836";;
+26374;26453;;"Mino";"Lesson, R, 1827";;
+26374;26463;;"Basilornis";"Bonaparte, 1850";;
+26374;26468;;"Sarcops";"Walden, 1875";;
+26374;26473;;"Streptocitta";"Bonaparte, 1850";;
+26374;26478;;"Enodes";"Temminck, 1839";;
+26374;26480;;"Scissirostrum";"Lafresnaye, 1845";;
+26374;26482;;"Saroglossa";"Hodgson, 1844";;
+26374;26484;;"Ampeliceps";"Blyth, 1842";;
+26374;26486;;"Gracula";"Linnaeus, 1758";;
+26374;26499;;"Acridotheres";"Vieillot, 1816";;
+26374;26524;;"Spodiopsar";"Sharpe, 1889";"TAX";"Separate Red-billed Starling and White-cheeked Starling from Sturnus to Spodiopsar (Lovette et al. 2008; Zuccon et al. 2008)."
+26374;26527;;"Gracupica";"Lesson, R, 1831";"TAX";"Separate Black-collared Starling and Asian Pied Starling (Pied Myna) from Sturnus to Gracupica (Lovette et al. 2008; Zuccon et al. 2008)."
+26374;26535;;"Agropsar";"Oates, 1889";"TAX";"Separate Daurian Starling and Chestnut-cheeked Starling from Sturnus to Agropsar (Lovette et al. 2008; Zuccon et al. 2008)."
+26374;26538;;"Sturnia";"Lesson, R, 1837";"TAX";"Separate five starling species (White-shouldered, Chestnut-tailed, White-headed, Malabar, and Brahminy) from Sturnus to Sturnia (Lovette et al. 2008; Zuccon et al. 2008)."
+26374;26549;;"Sturnornis";"Legge, 1879";"TAX";"Separate White-faced Starling from Sturnus to Sturnornis (Lovette et al. 2008; Zuccon et al. 2008)."
+26374;26551;;"Leucopsar";"Stresemann, 1912";;
+26374;26553;"1";"Fregilupus";"Lesson, R, 1831";;
+26374;26555;"2";"Necropsar";"Slater, 1879";;
+26374;26557;;"Pastor";"Temminck, 1815";"TAX";"Separate Rosy Starling from Sturnus to Pastor (Lovette et al. 2008; Zuccon et al. 2008)."
+26374;26559;;"Sturnus";"Linnaeus, 1758";;
+26374;26575;;"Creatophora";"Lesson, R, 1847";;
+26374;26577;;"Notopholia";"Roberts, 1922";"TAX, SEQ";"Separate Black-bellied Starling from Lamprotornis to Notopholia; resequence to precede Hylopsar/Lamprotornis (Lovette & Rubenstein 2007)."
+26374;26581;;"Hylopsar";"Boetticher, 1940";"TAX, SEQ";"Separate Purple-headed Starling and Copper-tailed Starling from Lamprotornis to Hylopsar; resequence to precede Lamprotornis (Lovette & Rubenstein 2007)."
+26374;26584;;"Lamprotornis";"Temminck, 1820";;
+26374;26629;;"Hartlaubius";"Bonaparte, 1853";"TAX, SEQ";"Separate Madagascar Starling from Saroglossa to Hartlaubius; resequence to precede Violet-backed Starling (Lovette & Rubenstein 2007)."
+26374;26631;;"Cinnyricinclus";"Lesson, R, 1840";;
+26374;26636;;"Onychognathus";"Hartlaub, 1849";;
+26374;26660;;"Poeoptera";"Bonaparte, 1854";;
+26374;26668;;"Grafisia";"Bates, 1926";;
+26374;26670;;"Speculipastor";"Reichenow, 1879";;
+26374;26672;;"Neocichla";"Sharpe, 1876";;
+26374;26676;;"Rhabdornis";"Reichenbach, 1853";"PHY";"Rhabdornis ""creepers"" of the Philippines are related to Aplonis starlings and not separable into their own family (Lovette et al. 2008; Zuccon et al. 2008)."
+26687;26688;;"Buphagus";"Brisson, 1760";;
+26694;26695;;"Neocossyphus";"Fischer, GA, 1884";;
+26694;26702;;"Stizorhina";"Oberholser, 1899";;
+26694;26708;;"Geokichla";"Müller, S, 1836";"TAX";"21 species of Zoothera thrushes are assigned to Geokichla (Voelker & Klicka 2008; Voelker & Outlaw 2008)."
+26694;26769;;"Zoothera";"Vigors, 1832";;
+26694;26807;;"Ixoreus";"Bonaparte, 1854";;
+26694;26813;;"Ridgwayia";"Stejneger, 1883";;
+26694;26817;;"Cataponera";"Hartert, 1896";;
+26694;26823;;"Grandala";"Hodgson, 1843";;
+26694;26825;;"Sialia";"Swainson, 1827";;
+26694;26842;;"Myadestes";"Swainson, 1838";;
+26694;26875;;"Cichlopsis";"Cabanis, 1851";;
+26694;26881;;"Catharus";"Bonaparte, 1850";;
+26694;26957;;"Hylocichla";"Baird, SF, 1864";;
+26694;26959;;"Entomodestes";"Stejneger, 1883";;
+26694;26962;;"Turdus";"Linnaeus, 1758";;
+26694;27265;;"Cochoa";"Hodgson, 1836";;
+26694;27270;;"Chlamydochaera";"Sharpe, 1887";;
+27273;27274;;"Alethe";"Cassin, 1859";"PHY, TAX";"Species of Alethe transferred from Turdidae (Voelker & Spellman 2004; Sangster et al. 2010); see also Pseudalethe."
+27273;27279;;"Cercotrichas";"Boie, F, 1831";"PHY, TAX";"Cercotrichas includes Erythropygia scrub robins (Sangster et al. 2010; cf. Collar 2005). Revision of the genus Cercotrichas awaits clarification of the phylogenetic position of C. signata."
+27273;27320;;"Copsychus";"Wagler, 1827";"PHY, TAX";"Copsychus includes species formerly in Saxicoloides and Trichixos."
+27273;27362;;"Fraseria";"Bonaparte, 1854";;
+27273;27370;;"Myioparus";"Roberts, 1922";;
+27273;27378;;"Melaenornis";"Gray, GR, 1840";"PHY, TAX";"Melaenornis includes Dioptrornis, Bradornis, and Sigelus (Dickinson 2003; Sangster et al. 2010)."
+27273;27431;;"Empidornis";"Reichenow, 1901";"PHY";"Silverbird possibly a member of the Melaenornis complex but not sampled by Sangster et al. (2010)."
+27273;27433;;"Muscicapa";"Brisson, 1760";;
+27273;27503;;"Anthipes";"Blyth, 1847";"TAX, SEQ";"Separate White-gorgeted Flycatcher and Rufous-browed Flycatcher from Ficedula to Anthipes in Niltavinae (Outlaw & Voelker 2006; Sangster et al. 2010; Shakya et al. 2020)."
+27273;27512;;"Cyornis";"Blyth, 1843";"PHY, TAX";"Transfer Cyornis species from Rhinomyias (Sangster et al. 2010; see Zhang et al. 2016; Gwee et al. 2019 for revisions based on genetics and vocalisations)."
+27273;27603;;"Niltava";"Hodgson, 1837";;
+27273;27621;;"Cyanoptila";"Blyth, 1847";;
+27273;27626;;"Eumyias";"Cabanis, 1851";;
+27273;27645;;"Erithacus";"Cuvier, 1800";;
+27273;27656;;"Chamaetylas";"Heine, 1860";"PHY, TAX";"Transfer 4 species of Alethe to Chamaetylas (Pseudalethe) (Sangster et al. 2010). Replace Pseudalethe Beresford, 2003 with Chamaetylas Heine, 1860 which has priority."
+27273;27674;;"Cossyphicula";"Grote, 1934";;
+27273;27678;;"Cossypha";"Vigors, 1825";;
+27273;27727;;"Swynnertonia";"Roberts, 1922";;
+27273;27731;;"Pogonocichla";"Cabanis, 1847";;
+27273;27743;;"Stiphrornis";"Hartlaub, 1855";;
+27273;27753;;"Sheppardia";"Haagner, 1909";;
+27273;27782;;"Cichladusa";"Peters, W, 1863";;
+27273;27789;;"Heinrichia";"Stresemann, 1931";"PHY, SEQ";"Genus Heinrichia transferred from Turdidae to Muscicapidae/Saxicolinae (Sangster et al. 2010; Zuccon & Ericson 2010)."
+27273;27794;;"Leonardina";"Mearns, 1905";;
+27273;27796;;"Heteroxenicus";"Sharpe, 1902";"PHY, SEQ";"Genus Heteroxenicus transferred from Turdidae to Muscicapidae/Saxicolinae (Sangster et al. 2010; Zuccon & Ericson 2010)."
+27273;27800;;"Brachypteryx";"Horsfield, 1821";"PHY, SEQ";"Genus Brachypteryx transferred from Turdidae to Muscicapidae/Saxicolinae (Sangster et al. 2010; Zuccon & Ericson 2010)."
+27273;27823;;"Vauriella";"Wolters, 1980";"PHY, TAX";"Separate four species of Jungle Flycatchers from Rhinomyias to Vauriella (Sangster et al. 2010)."
+27273;27828;;"Larvivora";"Hodgson, 1837";"PHY, TAX";"Reinstate Larvivora for 6 species of Luscinia/Erithacus (Sangster et al. 2010; H&M 4)."
+27273;27844;;"Luscinia";"Forster, T, 1817";;
+27273;27865;;"Irania";"de Filippi, 1863";;
+27273;27867;;"Calliope";"Gould, 1836";"PHY, TAX";"Move 4 species from Luscinia to Calliope (Sangster et al. 2010)."
+27273;27879;;"Myiomela";"Gray, GR, 1846";"PHY";"Myiomela is sister to Tarsiger (Zuccon & Ericson 2010)."
+27273;27887;;"Sholicola";"Robin et al., 2017";"PHY, TAX, SEQ";"Sholicola is a new genus for two species of Myiomela blue robins which were formerly assigned to Brachypteryx. Sholicola is related instead to the blue flycatchers within Niltavinae (Robin et al. 2017)."
+27273;27892;;"Tarsiger";"Hodgson, 1845";;
+27273;27906;;"Enicurus";"Temminck, 1822";;
+27273;27926;;"Myophonus";"Temminck, 1822";"PHY, SEQ";"Genus Myophonus transferred from Turdidae to Muscicapidae/Saxicolinae (Sangster et al. 2010; Zuccon & Ericson 2010)."
+27273;27942;;"Cinclidium";"Blyth, 1842";;
+27273;27946;;"Ficedula";"Brisson, 1760";"SEQ";"Sequence based on Moyle et al. (2015) and Hooper et al. (2016)."
+27273;28036;;"Phoenicurus";"Forster, T, 1817";;
+27273;28064;;"Monticola";"Boie, F, 1822";;
+27273;28094;;"Saxicola";"Bechstein, 1802";;
+27273;28155;;"Campicoloides";"Roberts, 1922";;
+27273;28157;;"Emarginata";"Shelley, 1896";"PHY, TAX";"Emarginata has priority over Cercomela for these three species of chats not moved to Oenanthe (Outlaw et al. 2009; Aliabadian et al. 2012)."
+27273;28173;;"Pinarochroa";"Sundevall, 1872";"PHY, TAX";"Separate Moorland Chat from other species of Cercomela/Oenanthe to Pinarochroa (Outlaw et al. 2010; Aliabadian et al. 2012)."
+27273;28179;;"Thamnolaea";"Cabanis, 1851";;
+27273;28191;;"Myrmecocichla";"Cabanis, 1851";;
+27273;28209;;"Oenanthe";"Vieillot, 1816";;
+27273;28289;;"Pinarornis";"Sharpe, 1876";;
+27273;28291;;"Namibornis";"Bradfield, 1935";"PHY";"Incertae sedis."
+27273;28293;;"Humblotia";"Milne-Edwards & Oustalet, 1885";"PHY";"Incertae sedis."
+28296;28297;;"Cinclus";"Borkhausen, 1797";;
+28329;28330;;"Chloropsis";"Jardine & Selby, 1827";;
+28364;28365;;"Prionochilus";"Strickland, 1841";;
+28364;28384;;"Dicaeum";"Cuvier, 1816";;
+28542;28543;;"Chalcoparia";"Cabanis, 1851";;
+28542;28556;;"Deleornis";"Wolters, 1977";;
+28542;28562;;"Anthreptes";"Swainson, 1832";;
+28542;28603;;"Hedydipna";"Cabanis, 1851";;
+28542;28617;;"Anabathmis";"Reichenow, 1905";;
+28542;28621;;"Dreptes";"Reichenow, 1914";;
+28542;28623;;"Anthobaphes";"Cabanis, 1851";;
+28542;28625;;"Cyanomitra";"Reichenbach, 1853";;
+28542;28662;;"Chalcomitra";"Reichenbach, 1853";;
+28542;28687;;"Leptocoma";"Cabanis, 1851";;
+28542;28726;;"Nectarinia";"Illiger, 1811";;
+28542;28744;;"Drepanorhynchus";"Fischer, GA & Reichenow, 1884";;
+28542;28749;;"Cinnyris";"Cuvier, 1816";;
+28542;28896;;"Aethopyga";"Cabanis, 1851";;
+28542;28974;;"Kurochkinegramma";"Kashain, 1978";"TAX";"Formerly Hypogramma, which is preoccupied by a genus within Lepidoptera (Gregory & Dickinson 2012b; Dickinson & Christidis 2014)."
+28542;28981;;"Arachnothera";"Temminck, 1826";;
+29024;29025;;"Hypocryptadius";"Hartert, 1903";;
+29024;29027;;"Passer";"Brisson, 1760";;
+29024;29104;;"Carpospiza";"Müller, JW, 1854";;
+29024;29106;;"Petronia";"Kaup, 1829";;
+29024;29115;;"Gymnoris";"Blyth, 1845";;
+29024;29128;;"Montifringilla";"Brehm, CL, 1828";;
+29024;29141;;"Onychostruthus";"Richmond, 1917";;
+29024;29143;;"Pyrgilauda";"Verreaux, J, 1871";;
+29156;29157;;"Bubalornis";"Smith, A, 1836";;
+29156;29162;;"Dinemellia";"Reichenbach, 1863";;
+29156;29166;;"Plocepasser";"Smith, A, 1836";"PHY, TAX";"Move sparrow-weavers Plocepasser from Passeridae to Ploceidae (De Silva et al. 2017)."
+29156;29175;;"Histurgops";"Reichenow, 1887";"PHY, TAX";"Move Rufous-tailed Weaver (Histurgops) from Passeridae to Ploceidae (De Silva et al. 2017)."
+29156;29177;;"Pseudonigrita";"Reichenow, 1903";"PHY, TAX";"Move social weavers (Pseudonigrita) from Passeridae to Ploceidae (De Silva et al. 2017)."
+29156;29183;;"Philetairus";"Smith, A, 1837";"PHY, TAX";"Move Sociable Weaver (Philetairus) from Passeridae to Ploceidae (De Silva et al. 2017)."
+29156;29185;;"Sporopipes";"Cabanis, 1847";;
+29156;29192;;"Amblyospiza";"Sundevall, 1850";;
+29156;29204;;"Ploceus";"Cuvier, 1816";;
+29156;29354;;"Malimbus";"Vieillot, 1805";;
+29156;29374;;"Anaplectes";"Reichenbach, 1863";;
+29156;29379;;"Quelea";"Reichenbach, 1850";;
+29156;29388;;"Foudia";"Reichenbach, 1850";;
+29156;29400;;"Brachycope";"Reichenow, 1900";;
+29156;29402;;"Euplectes";"Swainson, 1829";;
+29457;29458;;"Heteromunia";"Mathews, 1913";;
+29457;29460;;"Oreostruthus";"De Vis, 1898";;
+29457;29462;;"Stagonopleura";"Reichenbach, 1850";;
+29457;29469;;"Neochmia";"Gray, GR, 1849";;
+29457;29476;;"Emblema";"Gould, 1842";;
+29457;29478;;"Bathilda";"Reichenbach, 1862";"TAX, PHY";"Bathilda is resurrected to address the paraphyly of Neochmia s.l. (Olsson & Alström 2020)."
+29457;29483;;"Aidemosyne";"Reichenbach, 1862";"TAX, PHY";"Aidemosyne is resurrected to address the paraphyly of Neochmia s.l. It is sister to Bathilda but phylogenetically divergent (Olsson & Alström 2020)."
+29457;29485;;"Stizoptera";"Oberholser, 1899";"TAX, PHY";"Stizoptera is resurrected for Taeniopygia bichenovii which is sister to, but phylogenetically divergent from, Taeniopygia guttata (Olsson & Alström 2020)."
+29457;29489;;"Taeniopygia";"Reichenbach, 1862";;
+29457;29493;;"Poephila";"Gould, 1842";;
+29457;29503;;"Spermestes";"Swainson, 1837";"TAX, PHY";"Spermestes is resurrected for a clade of species formerly assigned to Lonchura and Odontospiza but which are relatively divergent from Lonchura s.s. (Payne 2010; Olsson & Alström 2020)."
+29457;29515;;"Lepidopygia";"Reichenbach, 1862";"TAX";"Formerly placed in Lemuresthes Wolters, 1949, but Lepidopygia Reichenbach, 1862 is available (Dickinson & Christidis 2014)."
+29457;29517;;"Euodice";"Reichenbach, 1862";;
+29457;29522;;"Lonchura";"Sykes, 1832";;
+29457;29610;;"Chloebia";"Reichenbach, 1862";"TAX, PHY";"Monotypic Chloebia is resurrected for Gouldian Finch which is deeply divergent from Erythrura s.s. (Olsson & Alström 2020)."
+29457;29612;;"Erythrura";"Swainson, 1837";;
+29457;29649;;"Nesocharis";"Alexander, 1903";;
+29457;29654;;"Coccopygia";"Reichenbach, 1862";"TAX";"Separate Coccopygia waxbills from Estrilda (Payne 2010)."
+29457;29661;;"Mandingoa";"Hartert, 1919";;
+29457;29667;;"Cryptospiza";"Salvadori, 1884";;
+29457;29678;;"Parmoptila";"Cassin, 1859";;
+29457;29684;;"Nigrita";"Strickland, 1843";;
+29457;29702;;"Delacourella";"Wolters, 1949";"TAX, PHY";"Delacourella is resurrected for Grey-headed Oliveback which is in a different clade from the other members of Nesocharis. It is basal in the clade containing Brunhilda and Glaucestrilda which is sister to Estrilda s.s. (Olsson & Alström 2020)."
+29457;29704;;"Brunhilda";"Reichenbach, 1862";"TAX, PHY";"Brunhilda is resurrected as a genus for two species formerly in Estrilda but which belong to a clade which is paraphyletic to Estrilda s.s. (Olsson & Alström 2020) ."
+29457;29711;;"Glaucestrilda";"Roberts, 1922";"TAX, PHY";"Glaucestrilda is resurrected as a genus for three species formerly in Estrilda but which belong to a clade which is paraphyletic to Estrilda s.s. (Olsson & Alström 2020)."
+29457;29717;;"Estrilda";"Swainson, 1827";;
+29457;29760;;"Ortygospiza";"Sundevall, 1850";;
+29457;29773;;"Paludipasser";"Neave, 1909";"SEQ";"Paludipasser is not included in the phylogeny of Olsson & Alström (2020). Position in sequence tentative."
+29457;29777;;"Amadina";"Swainson, 1827";;
+29457;29784;;"Amandava";"Blyth, 1836";;
+29457;29793;;"Granatina";"Sharpe, 1890";"TAX, PHY";"Granatina is resurrected for two species in a clade that is sister to, but deeply divergent from Uraeginthus s.s. (Payne 2010; Olsson & Alström 2020)."
+29457;29796;;"Uraeginthus";"Cabanis, 1851";;
+29457;29807;;"Spermophaga";"Swainson, 1837";;
+29457;29816;;"Pyrenestes";"Swainson, 1837";;
+29457;29820;;"Pytilia";"Swainson, 1837";;
+29457;29836;;"Euschistospiza";"Wolters, 1943";;
+29457;29841;;"Hypargos";"Reichenbach, 1862";;
+29457;29846;;"Clytospiza";"Shelley, 1896";;
+29457;29848;;"Lagonosticta";"Cabanis, 1851";;
+29881;29882;;"Vidua";"Cuvier, 1816";;
+29881;29912;;"Anomalospiza";"Shelley, 1901";;
+29915;29916;;"Peucedramus";"Coues, 1875";;
+29924;29925;;"Prunella";"Vieillot, 1816";;
+29970;29971;;"Dendronanthus";"Blyth, 1844";;
+29970;29973;;"Motacilla";"Linnaeus, 1758";;
+29970;30023;;"Tmetothylacus";"Cabanis, 1879";"PHY, TAX";"Both Tmetothylacus and Macronyx croceus are nested within Anthus (no other Macronyx analysed), calling for revision (Alström et al. 2015)."
+29970;30025;;"Macronyx";"Swainson, 1827";;
+29970;30044;;"Anthus";"Bechstein, 1805";;
+30200;30201;;"Urocynchramus";"Przewalski, 1876";;
+30204;30205;;"Fringilla";"Linnaeus, 1758";;
+30204;30226;;"Mycerobas";"Cabanis, 1847";;
+30204;30234;;"Hesperiphona";"Bonaparte, 1850";;
+30204;30244;;"Coccothraustes";"Brisson, 1760";;
+30204;30252;;"Eophona";"Gould, 1851";;
+30204;30259;;"Pinicola";"Vieillot, 1808";;
+30204;30269;;"Pyrrhula";"Brisson, 1760";;
+30204;30296;;"Rhodopechys";"Cabanis, 1851";;
+30204;30299;;"Bucanetes";"Cabanis, 1851";;
+30204;30306;;"Agraphospiza";"Zuccon, Prŷs-Jones, Rasmussen & Ericson, 2012";;
+30204;30308;;"Callacanthis";"Reichenbach, 1850";;
+30204;30310;;"Pyrrhoplectes";"Hodgson, 1844";;
+30204;30312;;"Procarduelis";"Blyth, 1843";"TAX, PHY";"Previously in Carpodacus, Dark-breasted Rosefinch is assigned to Procarduelis (Zuccon et al. 2012)."
+30204;30316;;"Leucosticte";"Swainson, 1832";;
+30204;30344;;"Carpodacus";"Kaup, 1829";"SEQ";"Carpodacus resequenced following Zuccon et al. (2012). Erythrina erythrina retained in a more inclusive Carpodacus after Sangster (pers. comm.). Requires incorporating Haematospiza and Chaunoproctus into Carpodacus."
+30204;30409;"1";"Melamprosops";"Casey & Jacobi, JD, 1974";;
+30204;30411;;"Paroreomyza";"Perkins, 1901";;
+30204;30417;;"Oreomystis";"Stejneger, 1903";;
+30204;30419;;"Telespiza";"Wilson, SB, 1890";;
+30204;30422;;"Loxioides";"Oustalet, 1877";;
+30204;30424;"1";"Rhodacanthis";"Rothschild, 1892";;
+30204;30427;"1";"Chloridops";"Wilson, SB, 1888";;
+30204;30429;"1";"Psittirostra";"Temminck, 1820";;
+30204;30431;"1";"Dysmorodrepanis";"Perkins, 1919";;
+30204;30433;;"Drepanis";"Temminck, 1820";;
+30204;30437;"1";"Ciridops";"Newton, A, 1892";;
+30204;30439;;"Palmeria";"Rothschild, 1893";;
+30204;30441;;"Himatione";"Cabanis, 1851";;
+30204;30444;"1";"Viridonia";"Rothschild, 1892";;
+30204;30446;"1";"Akialoa";"Olson & James, 1995";;
+30204;30451;;"Hemignathus";"Lichtenstein, MHK, 1839";;
+30204;30456;;"Pseudonestor";"Rothschild, 1893";;
+30204;30458;;"Magumma";"Mathews, 1925";;
+30204;30460;;"Loxops";"Cabanis, 1847";;
+30204;30466;;"Chlorodrepanis";"Perkins, 1899";"TAX, PHY";"Previously in Hemignathus, 3 species of Amakihi (virens, flava, stejnegeri) are assigned to Chlorodrepanis based on Lerner et al. (2011) phylogeny; see also Pratt (2005)."
+30204;30472;;"Haemorhous";"Swainson, 1837";"TAX, PHY";"Previously in Carpodacus, Purple Finch, Cassin's Finch and House Finch are assigned to Haemorhous (Zuccon et al. 2012; AOU 2012)."
+30204;30489;;"Chloris";"Cuvier, 1800";"TAX";"Greenfinches represent a monophyletic group, genus Chloris, which is not sister to the other species currently classified in Carduelis (Sangster et al. 2011 and refs therein)."
+30204;30514;;"Rhodospiza";"Sharpe, 1888";;
+30204;30516;;"Rhynchostruthus";"Sclater, PL & Hartlaub, 1881";;
+30204;30520;;"Linurgus";"Reichenbach, 1850";;
+30204;30526;;"Crithagra";"Swainson, 1827";;
+30204;30625;;"Linaria";"Bechstein, 1802";"TAX, PHY";"Previously in Carduelis, Twite and Linnets are assigned to Linaria (Arnaiz-Villena et al. 1999; Nguembock et al. 2009; Zuccon et al. 2012)."
+30204;30646;;"Acanthis";"Borkhausen, 1797";"TAX, PHY";"Previously in Carduelis, redpolls are returned to Acanthis (Arnaiz-Villena et al. 1999; Nguembock et al. 2009; Zuccon et al. 2012; NACC)."
+30204;30654;;"Loxia";"Linnaeus, 1758";;
+30204;30682;;"Chrysocorythus";"Wolters, 1967";;
+30204;30689;;"Carduelis";"Brisson, 1760";"TAX";"AOU (2009) changes back to component genera (Spinus, Acanthis, Chloris) for their species."
+30204;30707;;"Serinus";"Koch, 1816";;
+30204;30724;;"Spinus";"Koch, 1816";"TAX, PHY";"Previously in Carduelis, New World goldfinches and siskins are restored to Spinus (NACC 2008-A-9B) or Sporagra (SACC 488); sequence of Spinus based on Arnaiz-Villena et al. (2012)."
+30204;30778;;"Euphonia";"Desmarest, 1806";;
+30204;30862;;"Chlorophonia";"Bonaparte, 1851";;
+30876;30877;;"Rhynchophanes";"Baird, SF, 1858";;
+30876;30879;;"Calcarius";"Bechstein, 1802";;
+30876;30888;;"Plectrophenax";"Stejneger, 1882";;
+30896;30897;;"Rhodinocichla";"Hartlaub, 1853";;
+30905;30906;;"Emberiza";"Linnaeus, 1758";;
+31049;31050;;"Oreothraupis";"Sclater, PL, 1856";"PHY, TAX, SEQ";"Uncertain relationships of Tanager Finch; included in Cardinalidae and then Thraupidae. Genetic data place it in Passerellidae as sister to Chlorospingus (Barker et al. 2013, 2015; also H&M 4; HBW). Sequence based on Klicka et al. (2014); SACC 633; NACC 2019-B-9."
+31049;31052;;"Chlorospingus";"Cabanis, 1851";"PHY, SEQ, ENG";"Move Chlorospingus tanagers to the end of the Passerellidae (Klicka et al. 2007; DaCosta et al. 2009; SACC 426). SACC changes English species name from Bush Tanager to Chlorospingus."
+31049;31100;;"Rhynchospiza";"Ridgway, 1898";"PHY, TAX";"Separate Tumbes Sparrow and Stripe-capped Sparrow from Aimophila to Rhynchospiza (DaCosta et al. 2009; SACC 456)."
+31049;31105;;"Peucaea";"Audubon, 1839";"PHY, TAX";"Separate the following seven species of Aimophila sparrows to Peucaea (DaCosta et al. 2009; NACC 2009-A-12a)."
+31049;31132;;"Ammodramus";"Swainson, 1827";"TAX, PHY";"Based on phylogenetic studies, six species formerly in Ammodramus are moved to resurrected genera Ammospiza and Centronyx (Klicka et al. 2014; NACC 2019-B-19)."
+31049;31156;;"Arremonops";"Ridgway, 1896";;
+31049;31177;;"Amphispiza";"Coues, 1874";;
+31049;31191;;"Chondestes";"Swainson, 1827";;
+31049;31195;;"Calamospiza";"Bonaparte, 1838";;
+31049;31197;;"Spizella";"Bonaparte, 1832";;
+31049;31217;;"Arremon";"Vieillot, 1816";"ENG";"Change spellings of Brush Finch to Brushfinch (Ridgely & Tudor 2009; SACC 653)."
+31049;31274;;"Passerella";"Swainson, 1837";;
+31049;31293;;"Spizelloides";"Slager & Klicka, 2014";;
+31049;31297;;"Junco";"Wagler, 1831";;
+31049;31322;;"Zonotrichia";"Swainson, 1832";;
+31049;31361;;"Artemisiospiza";"Klicka & Banks, 2011";;
+31049;31367;;"Oriturus";"Bonaparte, 1850";;
+31049;31371;;"Pooecetes";"Baird, SF, 1858";;
+31049;31376;;"Ammospiza";"Oberholser, 1905 ";"TAX, PHY";"Ammospiza is resurrected for four species in a clade which is sister to Pooecetes. Formerly assigned to genetically distant Ammodramus which would otherwise be polyphyletic (Klicka et al. 2014; NACC 2019-B-9)."
+31049;31393;;"Centronyx";"Baird, SF, 1858 ";;"Centronyx is resurrected for two species in a clade which is sister to Passerculus. Formerly assigned to genetically distant Ammodramus which would otherwise be polyphyletic (Klicka et al. 2014; NACC 2019-B-9)."
+31049;31398;;"Passerculus";"Bonaparte, 1838";;
+31049;31417;;"Xenospiza";"Bangs, 1931";;
+31049;31419;;"Melospiza";"Baird, SF, 1858";;
+31049;31453;;"Pezopetes";"Cabanis, 1861";;
+31049;31455;;"Torreornis";"Barbour & Peters, JL, 1927";;
+31049;31460;;"Melozone";"Reichenbach, 1850";"PHY, TAX";"Melozone includes 4 species of towhees (White-throated, Canyon, California, Abert's) transferred from Pipilo (DaCosta et al. 2009; NACC 2009-E-2)."
+31049;31494;;"Aimophila";"Swainson, 1837";;
+31049;31522;;"Pipilo";"Vieillot, 1816";;
+31049;31558;;"Atlapetes";"Wagler, 1831";"ENG";"Change spelling of Brush Finch to Brushfinch (Ridgely & Tudor 2009; SACC 653)."
+31638;31639;;"Calyptophilus";"Cory, 1884";;
+31646;31647;;"Phaenicophilus";"Strickland, 1851";;
+31646;31653;;"Microligea";"Cory, 1884";"PHY, TAX, SEQ";"Move Microligea from Incertae sedis to new family Phaenicophilidae including Phaenicophilus and Xenoligea (Barker et al. 2013, 2015; NACC 2017-B-6)."
+31646;31657;;"Xenoligea";"Bond, J, 1967";"PHY, TAX, SEQ";"Move Xenoligea from Incertae sedis to new family Phaenicophilidae (together with Phaenicophilus and Microligea (Barker et al. 2013, 2015; NACC 2017-B-6)."
+31660;31661;;"Nesospingus";"Sclater, PL, 1885";;
+31664;31665;;"Spindalis";"Jardine & Selby, 1837";;
+31676;31677;;"Zeledonia";"Ridgway, 1889";;
+31680;31681;;"Teretistris";"Cabanis, 1855";;
+31687;31688;;"Icteria";"Vieillot, 1808";;
+31693;31694;;"Xanthocephalus";"Bonaparte, 1850";;
+31693;31696;;"Dolichonyx";"Swainson, 1827";;
+31693;31698;;"Sturnella";"Vieillot, 1816";;
+31693;31719;;"Leistes";"Vigors, 1825";"PHY, TAX";"Neotropical 'meadowlarks' are separated from Sturnella to Leistes (Powell et al. 2014; H&M 4; NACC 2017-B-5)."
+31693;31731;;"Amblycercus";"Cabanis, 1851";;
+31693;31736;;"Cassiculus";"Swainson, 1827";;
+31693;31738;;"Psarocolius";"Wagler, 1827";;
+31693;31764;;"Cacicus";"Lacépède, 1799";;
+31693;31787;;"Icterus";"Brisson, 1760";;
+31693;31874;;"Nesopsar";"Sclater, PL, 1859";;
+31693;31876;;"Agelaius";"Vieillot, 1816";;
+31693;31908;;"Molothrus";"Swainson, 1832";;
+31693;31930;;"Dives";"Cassin, 1867";;
+31693;31935;;"Ptiloxena";"Chapman, 1892";;
+31693;31937;;"Euphagus";"Cassin, 1867";;
+31693;31942;;"Quiscalus";"Vieillot, 1816";;
+31693;31980;;"Hypopyrrhus";"Bonaparte, 1850";;
+31693;31982;;"Lampropsar";"Cabanis, 1847";;
+31693;31989;;"Gymnomystax";"Reichenbach, 1850";;
+31693;31991;;"Macroagelaius";"Cassin, 1866";;
+31693;31994;;"Curaeus";"Sclater, PL, 1862";;
+31693;31999;;"Amblyramphus";"Leach, 1814";;
+31693;32001;;"Anumara";"Powell et al., 2014";;
+31693;32003;;"Gnorimopsar";"Richmond, 1908";;
+31693;32008;;"Oreopsar";"Sclater, WL, 1939";;
+31693;32010;;"Agelaioides";"Cassin, 1866";;
+31693;32015;;"Agelasticus";"Cabanis, 1851";;
+31693;32026;;"Chrysomus";"Swainson, 1837";;
+31693;32033;;"Xanthopsar";"Ridgway, 1901";;
+31693;32035;;"Pseudoleistes";"Sclater, PL, 1862";;
+32039;32040;;"Seiurus";"Swainson, 1827";;
+32039;32045;;"Helmitheros";"Rafinesque, 1819";;
+32039;32047;;"Parkesia";"Sangster, 2008";"TAX";"Northern and Louisiana Waterthrushes are not closely related to the Ovenbird Seiurus of NA; moved to new genus Parkesia: Sangster, 2008 (NACC 2009-B-05)."
+32039;32050;;"Vermivora";"Swainson, 1827";;
+32039;32054;;"Mniotilta";"Vieillot, 1816";;
+32039;32056;;"Protonotaria";"Baird, SF, 1858";;
+32039;32058;;"Limnothlypis";"Stone, 1914";;
+32039;32060;;"Oreothlypis";"Ridgway, 1884";"TAX";"Move majority of traditional Vermivora warblers to Oreothlypis; also Flame-throated and Crescent-chested warblers from Parula (NACC 2009-B-04)."
+32039;32068;;"Leiothlypis";"Sangster, 2008";"PHY, TAX";"Separate 6 species of Oreothlypis (previously Vermivora) to Leiothlypis (Lovette et al. 2010; SACC 453)."
+32039;32081;;"Leucopeza";"Sclater, PL, 1876";;
+32039;32083;;"Oporornis";"Baird, SF, 1858";"PHY, TAX";"Move three species (tolmiei, philadelphia, and formosa) from Oporornis to Geothlypis (Lovette et al. 2010)."
+32039;32085;;"Geothlypis";"Cabanis, 1847";;
+32039;32136;;"Catharopeza";"Sclater, PL, 1880";;
+32039;32138;;"Setophaga";"Swainson, 1827";"TAX";"Replace Dendroica with Setophaga (36 species + 2 Parula species) (AOU 2011)."
+32039;32254;;"Myiothlypis";"Cabanis, 1851";"PHY, TAX";"Assign 16 species from Basileuterus, Phaeothlypis, Euthlypis to Myiothlypis (Lovette et al. 2010)."
+32039;32308;;"Basileuterus";"Cabanis, 1849";;
+32039;32366;;"Cardellina";"Bonaparte, 1850";"PHY, TAX";"Move two species (canadensis, pusilla) from Wilsonia and two species (ruber, versicolor) from Ergaticus to Cardellina."
+32039;32378;;"Myioborus";"Baird, SF, 1865";;
+32416;32417;;"Mitrospingus";"Ridgway, 1898";;
+32416;32424;;"Orthogonys";"Strickland, 1844";"PHY, TAX, SEQ";"Move Orthogonys from Thraupidae to new family Mitrospingidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+32416;32426;;"Lamprospiza";"Cabanis, 1847";"PHY, TAX, SEQ";"Move Lamprospiza from Thraupidae to new family Mitrospingidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+32429;32430;;"Piranga";"Vieillot, 1808";"PHY, SEQ";"Move Piranga spp. from Thraupidae to Cardinalidae (Burns et al. 2003; Klicka et al. 2007; NACC 2008-B-1, SACC 318)."
+32429;32472;;"Habia";"Blyth, 1840";"PHY, SEQ";"Move Habia spp. from Thraupidae to Cardinalidae (Burns et al. 2003; Klicka et al. 2007; NACC 2008-B-1; SACC 318)."
+32429;32501;;"Chlorothraupis";"Salvin & Godman, 1883";"PHY, SEQ";"Move Chlorothraupis spp. from Thraupidae to Cardinalidae (Burns et al. 2003; Klicka et al. 2007; NACC 2008-B-1, SACC 318)."
+32429;32511;;"Pheucticus";"Reichenbach, 1850";"PHY, ENG";"See Pulgárin-R et al. (2013) for species phylogeny. Change English name to Yellow Grosbeak."
+32429;32530;;"Granatellus";"Bonaparte, 1850";"PHY, SEQ";"Granatellus spp. are moved from Incertae sedis (and previously Parulidae) to the Cardinalidae (Lovette & Bermingham 2002; Klicka et al. 2007; AOU 2009)."
+32429;32540;;"Cardinalis";"Bonaparte, 1838";;
+32429;32566;;"Caryothraustes";"Reichenbach, 1850";;
+32429;32575;;"Rhodothraupis";"Ridgway, 1898";;
+32429;32577;;"Periporphyrus";"Reichenbach, 1850";;
+32429;32579;;"Amaurospiza";"Cabanis, 1861";"PHY, SEQ";"Move Amaurospiza spp. from Thraupidae to the Cardinalidae (Klicka et al. 2007; NACC 2008-B-3, SACC 320)."
+32429;32586;;"Spiza";"Bonaparte, 1824";"PHY, SEQ";"Resequence Spiza as sister to blue cardinals Cyanocompsa (Klicka et al. 2000, 2007; Bryson et al. 2014; SACC)."
+32429;32588;;"Cyanoloxia";"Bonaparte, 1850";;
+32429;32601;;"Cyanocompsa";"Cabanis, 1861";"TAX";"Cyanocompsa is treated as monotypic (Bryson et al. 2014; SACC 724)."
+32429;32607;;"Passerina";"Vieillot, 1816";;
+32631;32632;;"Catamblyrhynchus";"Lafresnaye, 1842";;
+32631;32637;;"Charitospiza";"Oberholser, 1905";;
+32631;32639;;"Orchesticus";"Cabanis, 1851";;
+32631;32641;;"Parkerthraustes";"Remsen, 1997";"PHY, SEQ";"Move Parkerthraustes to Thraupidae from Cardinalidae (Klicka et al. 2007; AOU 2009)."
+32631;32643;;"Nemosia";"Vieillot, 1816";;
+32631;32652;;"Cyanicterus";"Bonaparte, 1850";;
+32631;32654;;"Sericossypha";"Lesson, R, 1844";;
+32631;32656;;"Compsothraupis";"Richmond, 1915";;
+32631;32658;;"Coryphaspiza";"Gray, GR, 1840";;
+32631;32662;;"Embernagra";"Lesson, R, 1831";;
+32631;32669;;"Emberizoides";"Temminck, 1822";;
+32631;32678;;"Incaspiza";"Ridgway, 1898";;
+32631;32684;;"Rhopospina";"Cabanis, 1851";;
+32631;32689;;"Porphyrospiza";"Sclater, PL & Salvin, 1873";"PHY, TAX, SEQ";"Move Porphyrospiza from Emberizidae [Passerellidae] to Thraupidae. Relationships historically uncertain. Genetics align Blue Finch with Sierra Finches Phrygilus (Klicka et al. 2007). Two species of Phrygilus, P. alaudinus and  P. carbonarius are moved to Porphyrospiza (Burns et al. 2014, 2016; SACC 730)."
+32631;32699;;"Chlorophanes";"Reichenbach, 1853";;
+32631;32708;;"Iridophanes";"Ridgway, 1901";;
+32631;32712;;"Chrysothlypis";"Berlepsch, 1912";;
+32631;32718;;"Heterospingus";"Ridgway, 1898";;
+32631;32723;;"Hemithraupis";"Cabanis, 1851";;
+32631;32748;;"Tersina";"Vieillot, 1819";;
+32631;32753;;"Cyanerpes";"Oberholser, 1899";;
+32631;32776;;"Dacnis";"Cuvier, 1816";;
+32631;32799;;"Saltatricula";"Burmeister, 1861";;
+32631;32802;;"Saltator";"Vieillot, 1816";"PHY, SEQ";"Saltators are related to tanagers not grosbeaks (see Klicka et al. 2007; AOU 2009; Barker et al. 2013; Burns et al. 2014; SACC 704)."
+32631;32865;;"Coereba";"Vieillot, 1809";"PHY, TAX, SEQ";"Historical taxonomy unsettled; separated as a monotypic family Coerebidae by AOU (1988). Genetic data position Bananaquit (Coereba) as sister to Tiaris grassquits (Thraupidae) (Burns et al. 2002, 2003; also H&M 4; NACC; SACC; HBW)."
+32631;32908;;"Tiaris";"Swainson, 1827";"TAX, PHY";"Tiaris is treated as monotypic. The other species formerly assigned to this genus are moved to other genera (Burns et al. 2014, 2016; SACC 730)."
+32631;32915;;"Euneornis";"Fitzinger, 1856";;
+32631;32917;;"Melopyrrha";"Bonaparte, 1853";"TAX, PHY";"Transfer two species of western Antillean bullfinches including Loxigilla portoricensis and L. violacea to Melopyrrha Bonaparte, 1853. Pyrrhulagra noctis Bonaparte, 1850 (type of genus) is a member of Loxigilla (NACC 2018-C-11, https://americanornithology.org/wp-content/uploads/2020/02/2018-C-amended.pdf)."
+32631;32930;;"Loxipasser";"Bryant, H, 1866";;
+32631;32932;;"Phonipara";"Bonaparte, 1850";"TAX, PHY";"Resurrect monospecific Phonipara for Cuban Grassquit (Burns et al. 2014, 2016; AOS Checklist 60th supplement 2019)."
+32631;32934;;"Loxigilla";"Lesson, R, 1831";;
+32631;32945;;"Melanospiza";"Ridgway, 1897";"TAX, PHY";"Melanospiza is expanded to include Tiaris bicolor (Burns et al. 2014, 2016; SACC 730)."
+32631;32956;;"Asemospiza";"Burns, KJ, Unitt & Mason, NA, 2016";"TAX, PHY";"Asemospiza gen. nov. newly described: Burns et al., 2016, for a tight phylogenetic clade of two sister species formerly assigned to Tiaris but which are phylogenetically divergent from T. olivaceus (Burns et al. 2016; SACC 730)."
+32631;32963;;"Certhidea";"Gould, 1837";;
+32631;32973;;"Platyspiza";"Ridgway, 1897";"TAX";"Camarhynchus crassirostris is now assigned to Platyspiza (Burns et al. 2002; SACC)."
+32631;32975;;"Pinaroloxias";"Sharpe, 1885";;
+32631;32977;;"Camarhynchus";"Gould, 1837";;
+32631;32991;;"Geospiza";"Gould, 1837";;
+32631;33007;;"Volatinia";"Reichenbach, 1850";;
+32631;33012;;"Conothraupis";"Sclater, PL, 1880";;
+32631;33015;;"Creurgops";"Sclater, PL, 1858";;
+32631;33018;;"Eucometis";"Sclater, PL, 1856";;
+32631;33027;;"Trichothraupis";"Cabanis, 1851";;
+32631;33029;;"Loriotus";"Jarocki, 1821";"TAX, PHY";"Loriotus Jarocki, 1821 has precedence over Islerothraupis gen. nov. Burns et al., 2016 which was proposed for a clade of species formerly assigned to Tachyphonus but which is phylogenetically distinct (Burns et al. 2014, 2016; Piacentini et al. 2019; SACC 836; Chesser et al. (2020), NACC 2020-B-03.)."
+32631;33048;;"Coryphospingus";"Cabanis, 1851";;
+32631;33057;;"Tachyphonus";"Vieillot, 1816";"PHY";"Tachyphonus as currently treated is both polyphyletic and paraphyletic relative to Lanio and Rhodospingus. Three genera may be involved. The taxonomy is unsettled; pending a consensus, treatment follows that of SACC."
+32631;33067;;"Rhodospingus";"Sharpe, 1888";;
+32631;33069;;"Lanio";"Vieillot, 1816";;
+32631;33082;;"Ramphocelus";"Desmarest, 1805";"TAX";"Phlogothraupis is merged with Ramphocelus (NACC; Dickinson 2003); note gender agreement."
+32631;33112;;"Sporophila";"Cabanis, 1844";"TAX, PHY";"Sporophila is expanded to include species formerly assigned to Dolospingus and Oryzoborus (Mason & Burns 2013; Burns et al. 2014, 2016; SACC 604; SACC 730) "
+32631;33203;;"Piezorina";"Lafresnaye, 1843";"TAX";"Original spelling; Piezorhina is an unjustified emendation (Zoonomen; IBC)."
+32631;33205;;"Xenospingus";"Cabanis, 1867";;
+32631;33207;;"Cnemoscopus";"Bangs & Penard, TE, 1919";;
+32631;33211;;"Pseudospingus";"Berlepsch & Stolzmann, 1896";"TAX, PHY";"Hemispingus is polyphyletic with species formerly attributed to that genus distributed throughout many divergent clades. Resurrect Pseudospingus for H. xanthophthalmus and H. verticalis which form a distinct divergent clade (Burns et al. 2014, 2016; SACC 730)."
+32631;33214;;"Poospiza";"Cabanis, 1847";"TAX, PHY";"Poospiza includes species formerly attributed to Compsospiza and two species formerly included in Hemispingus and loses species to Castanozoster and Microspingus (Burns et al. 2014, 2016; SACC 730)."
+32631;33225;;"Kleinothraupis";"Burns, KJ, Unitt & Mason, NA, 2016";"TAX, PHY";"Hemispingus is polyphyletic with species formerly attributed to that genus distributed throughout many divergent clades. Kleinothraupis gen. nov. is described for several species formerly included in Hemispingus (Burns et al. 2016; SACC 730)."
+32631;33231;;"Sphenopsis";"Sclater, PL, 1862";"TAX, PHY";"Hemispingus is polyphyletic with species formerly attributed to that genus distributed throughout many divergent clades. Resurrect Sphenopsis for several  species formerly included in Hemispingus but which are sister to Thlypopsis (Burns et al. 2014, 2016; SACC 730)."
+32631;33246;;"Thlypopsis";"Cabanis, 1851";"TAX, PHY";"Thlypopsis is expanded to include Pyrrhocoma and Hemispingus superciliaris (the type species for Hemispingus) which are embedded in that genus. Since Thlypopsis, Pyrrhocoma and Hemispingus were all described in the same work, Cabanis, 1851, Burns et al. (2016) act as first revisers in selecting Thlypopsis Cabanis, 1851, to take precedence over Pyrrhocoma Cabanis, 1851, and Hemispingus Cabanis, 1851, as the name of the redefined Thlypopsis (Burns et al. 2014, 2016; SACC 730)."
+32631;33272;;"Castanozoster";"Burns, KJ, Unitt & Mason, NA, 2016";"TAX, PHY";"Castanozoster gen. nov. is described for Poospiza thoracica which is phylogenetically distinct from Poospiza s.s. (Burns et al. 2016)."
+32631;33274;;"Donacospiza";"Cabanis, 1851";;
+32631;33276;;"Cypsnagra";"Lesson, R, 1831";;
+32631;33280;;"Poospizopsis";"Berlepsch, 1893";"TAX, PHY";"Poospizopsis is resurrected for two species previously assigned to Poospiza (Burns et al. 2014, 2016; SACC 730)."
+32631;33285;;"Urothraupis";"Taczanowski & Berlepsch, 1885";;
+32631;33287;;"Nephelornis";"Lowery & Tallman, 1976";;
+32631;33289;;"Microspingus";"Taczanowski, 1874";"TAX, PHY";"Microspingus is resurrected for a clade that is sister to Nephelornis and Urothraupis that includes Hemispingus trifasciatus and several species formerly included in Poospiza (Burns et al. 2014, 2016; SACC 730)."
+32631;33302;;"Conirostrum";"d'Orbigny & Lafresnaye, 1838";;
+32631;33335;;"Sicalis";"Boie, F, 1828";;
+32631;33373;;"Phrygilus";"Cabanis, 1844";"TAX, PHY";"Recent phylogenetic studies show that Phrygilus, as previously conceived, is highly polyphyletic. Former members of this genus have been moved to Geospizopsis, Rhopospina, Porphyrospiza and Idiopsar (Burns et al. 2014, 2016; SACC 730)."
+32631;33383;;"Nesospiza";"Cabanis, 1873";;
+32631;33390;;"Rowettia";"Lowe, 1923";;
+32631;33392;;"Melanodera";"Bonaparte, 1850";;
+32631;33399;;"Geospizopsis";"Bonaparte, 1856";"TAX, PHY";"Genus Geospizopsis is elevated for two species of sierra finch formerly assigned to Phrygilus (Burns et al. 2014, 2016; SACC 730)."
+32631;33412;;"Haplospiza";"Cabanis, 1851";;
+32631;33418;;"Acanthidops";"Ridgway, 1882";;
+32631;33420;;"Xenodacnis";"Cabanis, 1873";;
+32631;33425;;"Idiopsar";"Cassin, 1867";"PHY, TAX";"Based on phylogenetic findings, Idiopsar is expanded to include Diuca speculifera, Phrygilus dorsalis and Phrygilus erythronotus (Burns et al. 2016; SACC 730)."
+32631;33432;;"Catamenia";"Bonaparte, 1850";;
+32631;33450;;"Diglossa";"Wagler, 1832";;
+32631;33513;;"Calochaetes";"Sclater, PL, 1879";;
+32631;33515;;"Iridosornis";"Lesson, R, 1844";;
+32631;33527;;"Pipraeidea";"Swainson, 1827";"TAX, PHY";"Pipraeidea is expanded to include Thraupis bonariensis which is sister to Pipraeidea melanonota (Sedano & Burns 2010; Burns et al. 2014, 2016; SACC 437, 730)."
+32631;33536;;"Pseudosaltator";"Burns, KJ, Unitt & Mason, NA, 2016";;
+32631;33538;;"Dubusia";"Bonaparte, 1850";"TAX, PHY";"Dubusia is expanded to include Delothraupis (Sedano & Burns 2010; Burns et al. 2014, 2016; SACC 437, 730)."
+32631;33544;;"Buthraupis";"Cabanis, 1851";"TAX, PHY";"Monospecific Buthraupis is restricted to B. montana (Burns et al. 2014, 2016; SACC 730)"
+32631;33552;;"Sporathraupis";"Ridgway, 1898";"TAX, PHY";"Resurrect monospecific Sporathraupis for Thraupis cyanocephala (Burns et al. 2014, 2016; SACC 730)."
+32631;33562;;"Tephrophilus";"Moore, RT, 1934";"TAX, PHY";"Resurrect monospecific Tephrophilus for Buthraupis wetmorei (Burns et al. 2014, 2016; SACC 730)."
+32631;33564;;"Chlorornis";"Reichenbach, 1850";;
+32631;33571;;"Cnemathraupis";"Penard, TE, 1919";"TAX, PHY";"Resurrect Cnemathraupis for a clade of two sister mountain tanagers formerly assigned to Buthraupis (Sedano & Burns 2010; Burns et al. 2014, 2016; SACC 437, 730)."
+32631;33578;;"Anisognathus";"Reichenbach, 1850";;
+32631;33606;;"Chlorochrysa";"Bonaparte, 1851";;
+32631;33613;;"Wetmorethraupis";"Lowery & O'Neill, 1964";;
+32631;33615;;"Bangsia";"Penard, TE, 1919";;
+32631;33624;;"Lophospingus";"Cabanis, 1878";;
+32631;33627;;"Neothraupis";"Hellmayr, 1936";;
+32631;33629;;"Diuca";"Reichenbach, 1850";;
+32631;33635;;"Gubernatrix";"Lesson, R, 1837";"PHY, TAX, SEQ";"Yellow Cardinal Gubernatrix was traditionally included in Emberizidae, but genetic data place it with tanagers (Thraupidae) next to Paroaria (Campagna et al. 2011; SACC)."
+32631;33637;;"Stephanophorus";"Strickland, 1841";;
+32631;33639;;"Cissopis";"Vieillot, 1816";;
+32631;33643;;"Schistochlamys";"Reichenbach, 1850";;
+32631;33654;;"Paroaria";"Bonaparte, 1832";;
+32631;33665;;"Ixothraupis";"Bonaparte, 1851";"TAX, PHY";"Resurrect Ixothraupis for a clade of species formerly asssigned to Tangara (Burns et al. 2016; SACC 730)."
+32631;33684;;"Chalcothraupis";"Bonaparte 1851";"TAX, PHY";"Resurrect monospecific Chalcothraupis for Tangara ruficervix (Burns et al. 2014, 2016; SACC 730)."
+32631;33692;;"Poecilostreptus";"Burns, KJ, Unitt & Mason, NA, 2016";"TAX, PHY";"Poecilostreptus gen. nov. described for two sister species formerly assigned to Tanagara (Burns et al. 2016; SACC 730)."
+32631;33695;;"Thraupis";"Boie, F, 1826";"TAX, PHY";"Thraupis is reconfigured to exclude two species moved to other genera (Sedano & Burns 2010; Burns et al. 2014, 2016; SACC 437, 730)."
+32631;33724;;"Stilpnia";"Burns, KJ, Unitt & Mason, NA, 2016";"TAX, PHY";"Stilpnia gen. nov. is described for a clade of species formerly assigned to Tangara (Burns et al. 2016; SACC 730)."
+32631;33765;;"Tangara";"Brisson, 1760";"TAX, PHY";"Tangara, as traditionally conceived, is polyphyletic. Many species formerly included in this genus are moved to other genera (Burns et al. 2014, 2016; SACC 730)."
