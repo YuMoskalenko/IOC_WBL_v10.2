@@ -1,0 +1,253 @@
+"OrderID_idx";"FamilyID";"NumberOfSpecies";"EnglishName";"FamilySc";"Code";"Comment"
+4;5;2;"Ostriches";"Struthionidae";;
+14;15;2;"Rheas";"Rheidae";;
+28;29;5;"Kiwis";"Apterygidae";"PHY";"Kiwis are sister to the clade of emus and cassowaries/tinamous (Cracraft 2013; Prum et al. 2015)."
+39;40;4;"Cassowaries, Emu";"Casuariidae";"PHY, TAX";"Includes Dromaiidae."
+54;55;46;"Tinamous";"Tinamidae";;
+238;239;21;"Megapodes";"Megapodiidae";;
+238;296;55;"Chachalacas, Curassows, Guans";"Cracidae";;
+238;417;6;"Guineafowl";"Numididae";;
+238;445;34;"New World Quail";"Odontophoridae";;
+238;605;184;"Pheasants & Allies";"Phasianidae";;
+1272;1273;3;"Screamers";"Anhimidae";;
+1272;1280;1;"Magpie Goose";"Anseranatidae";;
+1272;1284;174;"Ducks, Geese, Swans";"Anatidae";;
+1627;1628;16;"Frogmouths";"Podargidae";"TAX";"Occasionally treated as two separate families, Asian Batrachostomatidae and Australasian Podargidae (e.g. Sibley & Monroe 1990), but generally unified into a single family."
+1627;1668;1;"Oilbird";"Steatornithidae";;
+1627;1672;7;"Potoos";"Nyctibiidae";;
+1627;1692;98;"Nightjars";"Caprimulgidae";"PHY";"The eared nightjars Eurostopodus are sister to rest of the Caprimulgidae (Barrowclough et al. 2006; Larsen et al. 2007), but they are not equivalent in rank to other families in the Caprimulgiformes."
+1981;1982;9;"Owlet-nightjars";"Aegothelidae";"PHY";"The owlet-nightjars (Aegothelidae) are the sister taxon to treeswifts and in turn to the swifts and hummingbirds, hence are included in the Apodiformes (Hackett et al. 2008; Christidis & Boles 2008). Species taxonomy of owlet-nightjars on New Guinea needs study and revision (Beehler & Pratt 2016)."
+1981;2000;4;"Treeswifts";"Hemiprocnidae";;
+1981;2019;113;"Swifts";"Apodidae";;
+1981;2374;360;"Hummingbirds";"Trochilidae";"PHY, SEQ";"Sequence within Trochilidae follows McGuire et al. (2014); Stiles et al. (2017b); Licona-Vera & Ornelas (2017). Revised classification of Trochilini follows McGuire et al. (2014); Stiles et al. (2017b); Hernández-Baños et al. (2020); SACC; AOS-NACC (2020-A-02, 2020-A-03, 2020-D-01). New sequence and generic allocations of Trochilinae based on McGuire et al. (2014) accepted by Chesser et al. (2020), NACC 2020-A-02, 2020-A-03."
+3354;3355;23;"Turacos";"Musophagidae";;
+3412;3413;26;"Bustards";"Otididae";;
+3481;3482;149;"Cuckoos";"Cuculidae";;
+3862;3863;3;"Mesites";"Mesitornithidae";;
+3870;3871;16;"Sandgrouse";"Pteroclidae";;
+3919;3920;344;"Pigeons, Doves";"Columbidae";;
+4887;4888;3;"Finfoots";"Heliornithidae";"PHY";"The finfoots (Heliornithidae) and flufftails (Sarothruridae) are sister taxa (Hackett et al. 2008)."
+4887;4900;15;"Flufftails";"Sarothruridae";"PHY";"The flufftails (Sarothruridae) and extinct adzebills (Aptornithidae) are sister taxa related in turn to finfoots (Heliornithidae) (Hackett et al. 2008; Boast et al. 2019)."
+4887;4941;152;"Rails, Crakes & Coots";"Rallidae";"PHY";"Sequence of Rallidae follows Garcia-R et al. (2020; with modifications from Kirchman 2012; Garcia-R et al. 2014; Boast et al. 2019; Stervander et al. 2019). Sequence of North and Middle American taxa agrees with that accepted by Chesser et al. (2020)."
+4887;5332;3;"Trumpeters";"Psophiidae";"PS";"Proposed revision of trumpeter species taxonomy under review (Ribas et al. 2012; SACC 607)."
+4887;5344;15;"Cranes";"Gruidae";"PHY, TAX";"Classification follows Krajewski et al. (2010); H&M 4."
+4887;5377;1;"Limpkin";"Aramidae";;
+5385;5386;23;"Grebes";"Podicipedidae";;
+5462;5463;6;"Flamingos";"Phoenicopteridae";;
+5474;5475;17;"Buttonquail";"Turnicidae";"PHY";"The buttonquails (Turnicidae) belong in the Charadriiformes, not the Gruiformes (Hackett et al. 2008)."
+5474;5542;10;"Stone-curlews, Thick-knees";"Burhinidae";;
+5474;5571;2;"Sheathbills";"Chionidae";;
+5474;5580;1;"Magellanic Plover";"Pluvianellidae";"TAX";"The Magellanic Plover (Pluvianellus) is most closely related to the sheathbills (Chionidae) (Paton et al. 2003; Paton & Baker 2006; Baker et al. 2007)."
+5474;5584;12;"Oystercatchers";"Haematopodidae";;
+5474;5607;1;"Ibisbill";"Ibidorhynchidae";;
+5474;5611;10;"Stilts, Avocets";"Recurvirostridae";;
+5474;5628;68;"Plovers";"Charadriidae";;
+5474;5775;1;"Egyptian Plover";"Pluvianidae";"PHY, TAX";"Move Egyptian Plover Pluvianus from the Glareolidae to its own family Pluvianidae. It is a separate lineage that is the outgroup to plovers and their allies (Baker et al. 2007; Hackett et al. 2008)."
+5474;5779;3;"Painted-snipes";"Rostratulidae";;
+5474;5786;8;"Jacanas";"Jacanidae";;
+5474;5808;1;"Plains-wanderer";"Pedionomidae";;
+5474;5812;4;"Seedsnipes";"Thinocoridae";;
+5474;5828;97;"Sandpipers, Snipes";"Scolopacidae";"PHY, SEQ";"Family Scolopacidae resequenced to follow Gibson & Baker (2012); NACC 2017-A-12."
+5474;6018;1;"Crab-plover";"Dromadidae";;
+5474;6022;17;"Coursers, Pratincoles";"Glareolidae";;
+5474;6070;102;"Gulls, Terns, Skimmers";"Laridae";"PHY, TAX";"The skimmers Rynchops and terns are embedded among the gulls in a monophyletic clade; separation of the families Rynchopidae and Sternidae would render the gull family Laridae paraphyletic relative to these other two groups (Baker et al. 2008)."
+5474;6323;7;"Skuas";"Stercorariidae";;
+5474;6338;25;"Auks";"Alcidae";;
+6403;6404;1;"Kagu";"Rhynochetidae";;
+6403;6408;1;"Sunbittern";"Eurypygidae";;
+6415;6416;3;"Tropicbirds";"Phaethontidae";;
+6435;6436;5;"Loons";"Gaviidae";;
+6446;6447;18;"Penguins";"Spheniscidae";;
+6483;6484;9;"Austral Storm Petrels";"Oceanitidae";"TAX, PHY";"The Oceanitidae and Hydrobatidae are not sister taxa (Nunn & Stanley 1998; Penhallurick & Wink 2004; Hackett et al. 2008). Resequence Oceanitidae to precede Diomedeidae (H&M 4)."
+6483;6517;21;"Albatrosses";"Diomedeidae";"TAX";"The species taxonomy of albatrosses is controversial with advocates for 12 to 24 species (BLI; Tennyson 2010; SACC 388; Penhallurick 2012)."
+6483;6550;18;"Northern Storm Petrels";"Hydrobatidae";"PHY, SEQ";"The Oceanitidae and Hydrobatidae are not sister taxa (Nunn & Stanley 1998; Penhallurick & Wink 2004; Hackett et al. 2008)."
+6483;6580;99;"Petrels, Shearwaters, Diving Petrels";"Procellariidae";;
+6738;6739;19;"Storks";"Ciconiidae";;
+6775;6776;5;"Frigatebirds";"Fregatidae";;
+6775;6792;10;"Gannets, Boobies";"Sulidae";;
+6775;6820;4;"Anhingas, Darters";"Anhingidae";;
+6775;6834;42;"Cormorants, Shags";"Phalacrocoracidae";"PHY, SEQ";"Until recently, generic limits of cormorants and the distinctions between ""shags"" and ""cormorants"" have remained mostly unresolved due to conflicts among studies and missing taxa (Siegel-Causey 1988; Kennedy et al. 2000; Christidis & Boles 2008). We follow the comprehensive phylogenetic studies of Kennedy & Spencer (2014) and Kennedy et al. (2019), which allow resequencing of this family. Additional generic-level changes suggested by Kennedy & Spencer (2014) and Kennedy et al. (2019) are under consideration"
+6909;6910;36;"Ibises, Spoonbills";"Threskiornithidae";;
+6909;6984;72;"Herons, Bitterns";"Ardeidae";"PHY";"The herons (Ardeidae) and ibises and spoonbills (Threskiornithidae) are sister taxa in the Order Pelecaniformes (Hackett et al. 2008)."
+6909;7178;1;"Hamerkop";"Scopidae";;
+6909;7184;1;"Shoebill";"Balaenicipitidae";;
+6909;7188;8;"Pelicans";"Pelecanidae";;
+7204;7205;1;"Hoatzin";"Opisthocomidae";;
+7209;7210;7;"New World Vultures";"Cathartidae";"TAX, SEQ";"SACC 361 elevates the New World Vultures (Cathartidae) to a separate order, the Cathartiformes; AOU-NACC follows. Sequence follows Johnson et al. (2016); Chesser et al. (2020), NACC 2020-A-13."
+7209;7232;1;"Secretarybird";"Sagittariidae";"TAX";"RESTORE: Secretarybird to a monotypic family Sagittariidae in accord with the Tree of Life phylogeny (Hackett et al. 2008)."
+7209;7236;2;"Ospreys";"Pandionidae";"TAX";"RESTORE: Ospreys to the family Pandionidae in accord with the Tree of Life phylogeny (Hackett et al. 2008)."
+7209;7244;256;"Kites, Hawks, Eagles";"Accipitridae";"TAX, PHY";"Classification of Accipitridae revised v3.3; see especially Wink & Sauer-Gürth (2004); Lerner & Mindell (2005)."
+7948;7949;20;"Barn Owls";"Tytonidae";"PHY";"See Uva et al. (2018)."
+7948;8026;228;"Owls";"Strigidae";;
+8712;8713;6;"Mousebirds";"Coliidae";;
+8755;8756;1;"Cuckoo Roller";"Leptosomidae";"TAX";"The correct spelling of this family name is Leptosomidae, not Leptosomatidae (Bock 1994)."
+8763;8764;43;"Trogons";"Trogonidae";"SEQ";"Sequence of New World trogons follows AOU in accord with DaCosta & Klicka (2008) and Moyle (2005)."
+8906;8907;4;"Hoopoes";"Upupidae";"PHY";"The hoopoes (Upupidae) and wood hoopoes (Phoeniculidae) are sister taxa related in turn to the hornbills (Hackett et al. 2008)."
+8906;8920;9;"Wood Hoopoes";"Phoeniculidae";"PHY";"The hoopoes (Upupidae) and wood hoopoes (Phoeniculidae) are sister taxa related in turn to the hornbills (Hackett et al. 2008)."
+8906;8955;2;"Ground Hornbills";"Bucorvidae";"PHY, SEQ";"The ground hornbills (Bucorvidae) and hornbills (Bucerotidae) are sister taxa related in turn to the hoopoes and wood hoopoes (Hackett et al. 2008). Classification follows Gonzalez et al. (2013a)."
+8906;8960;59;"Hornbills";"Bucerotidae";"PHY";"The hornbills (Bucerotidae) and ground hornbills (Bucorvidae) are sister taxa related in turn to the hoopoes and wood hoopoes (Hackett et al. 2008)."
+9072;9073;13;"Rollers";"Coraciidae";"PHY";"See Johansson et al. (2018) for phylogeny of the Coraciidae."
+9072;9114;5;"Ground Rollers";"Brachypteraciidae";;
+9072;9125;114;"Kingfishers";"Alcedinidae";"TAX";"The kingfishers (Alcedinidae) comprise three monophyletic clades (Alcedininae, Cerylinae, and Daceloninae) (Moyle 2006); some taxonomists elevate them to family status (Sibley & Monroe 1990; Christidis & Boles 2008)."
+9072;9526;5;"Todies";"Todidae";;
+9072;9534;14;"Motmots";"Momotidae";;
+9072;9596;27;"Bee-eaters";"Meropidae";;
+9664;9665;18;"Jacamars";"Galbulidae";"PHY";"The jacamars (Galbulidae) and puffbirds (Bucconidae) are well-established sister taxa (SACC; Hackett et al. 2008), with evidence favoring inclusion in the Piciformes, rather than a separate Order Galbuliformes (TOL; Ericson et al. 2006; cf. SACC; Fain & Houde 2004)."
+9664;9715;38;"Puffbirds";"Bucconidae";"PHY";"The jacamars (Galbulidae) and puffbirds (Bucconidae) are well-established sister taxa (SACC; Hackett et al. 2008), with evidence favoring inclusion in the Piciformes, rather than a separate Order Galbuliformes (TOL; Ericson et al. 2006; cf. SACC; Fain & Houde 2004)."
+9664;9817;15;"New World Barbets";"Capitonidae";"PHY";"Toucans and New World barbets are sister taxa (Moyle 2004; SACC 7) elevated to separate families to reflect their phylogeny (NACC 2010)."
+9664;9862;2;"Toucan Barbets";"Semnornithidae";;
+9664;9869;43;"Toucans";"Ramphastidae";;
+9664;9975;34;"Asian Barbets";"Megalaimidae";"PHY";"Asian barbets (Megalaimidae) are the basal outgroup to the African barbets and in turn the New World barbets and toucans (Moyle 2004)."
+9664;10067;42;"African Barbets";"Lybiidae";"PHY";"African barbets (Lybiidae) are sisters to the New World barbets and toucans (Moyle 2004)."
+9664;10215;17;"Honeyguides";"Indicatoridae";"PHY";"Honeyguides (Indicatoridae) and woodpeckers (Picidae) are sister families (Hackett et al. 2008)."
+9664;10263;236;"Woodpeckers";"Picidae";;
+11138;11139;2;"Seriemas";"Cariamidae";;
+11145;11146;66;"Caracaras, Falcons";"Falconidae";"PHY, TAX";"Expand Daptrius to include Milvago, Phalcoboenus and Ibycter (Fuchs et al. 2015)."
+11337;11338;4;"New Zealand Parrots";"Strigopidae";"PHY, TAX";"The New Zealand parrots (Strigops, Nestor) are an ancient, basal lineage that is sister to all other parrots (Psittacidae)."
+11337;11348;21;"Cockatoos";"Cacatuidae";"TAX";"Cockatoos are treated as a family (Christidis & Boles 2008; Joseph et al. 2012)."
+11337;11414;181;"African & New World Parrots";"Psittacidae";;
+11337;11846;192;"Old World Parrots";"Psittaculidae";;
+12375;12376;4;"New Zealand Wrens";"Acanthisittidae";"PHY";"New Zealand wrens are sister to the rest of the Passeriformes."
+12375;12390;1;"Sapayoa";"Sapayoidae";"PHY, TAX, ENG";"Sapayoa aenigma is a New World broadbill and basal branch of the Eurylaimides. Treat as a monotypic family following Acanthisittidae (Irestedt et al. 2006; Moyle et al. 2006; NACC 2008; Selvatti et al. 2017).  "
+12375;12394;4;"Asities";"Philepittidae";"PHY, TAX";"The asities and sunbird-asities are sister to Typical Broadbills and previously included in the Eurylaimidae (Prum 1993; Irestedt et al. 2006; Moyle et al. 2006; Selvatti et al. 2017). Revised (9.2) to follow recognition of Calyptomenidae (H&M 4; HBW)."
+12375;12402;9;"Typical Broadbills";"Eurylaimidae";"PHY, TAX, SEQ";"The typical broadbills (Eurylaimidae) are sister to the asities of Madagascar which are here treated as a separate family Philepittidae. Two broadbill genera (Smithornis, Calyptomena) are sister to the pittas (Pittidae) and form a separate family Calyptomenidae (Irestedt et al. 2006; Moyle 2006a; Selvatti et al. 2017). Sequence based on Selvatti et al. (2017)."
+12375;12444;6;"African and Green Broadbills";"Calyptomenidae";"PHY, TAX, SEQ";"African and Green Broadbills are not sisters of Typical Broadbills and thus treated (9.2) as a separate family Calyptomenidae (H&M 4; HBW). Sequence based on Selvatti et al. (2017)."
+12375;12471;42;"Pittas";"Pittidae";"SEQ";"Sequence based on Selvatti et al. (2017)."
+12375;12587;315;"Ovenbirds";"Furnariidae";"TAX, PHY, SEQ";"The ovenbird family Furnariidae includes the phylogenetically embedded woodcreepers, formerly separated as the family Dendrocolaptidae (SACC 132). Sequences and genera revised (9.1) to follow Derryberry et al. 2011; Claramunt et al. 2013; SACC 504, 601."
+12375;13689;237;"Antbirds";"Thamnophilidae";"PHY, SEQ";"Resequenced entire family based on recent molecular studies (Bravo et al. 2012; Ohlson et al. 2013; Isler et al. 2013). "
+12375;14394;12;"Antthrushes";"Formicariidae";;
+12375;14452;55;"Antpittas";"Grallariidae";"PHY";"The antpittas (Grallariidae) are not closely related to the antthrushes (Formicariidae) and thus are treated as a separate family (Chesser 2004; Rice 2005; SACC)."
+12375;14616;11;"Gnateaters";"Conopophagidae";;
+12375;14653;60;"Tapaculos";"Rhinocryptidae";;
+12375;14759;5;"Crescentchests";"Melanopareiidae";"PHY, TAX";"The crescentchests are not tapaculos, but a separate family Melanopareiidae that is one of four basal lineages of furnariine suboscines (Chesser 2004; Moyle et al. 2009)."
+12375;14774;437;"Tyrant Flycatchers, Calyptura";"Tyrannidae";;
+12375;16073;66;"Cotingas";"Cotingidae";"SEQ";"Sequence based on Berv & Prum (2014)."
+12375;16207;53;"Manakins";"Pipridae";"PHY, TAX";"Classification of Pipridae follows Tello et al. (2009); McKay et al. (2010); Ohlson et al. (2013); SACC 591 B2; see also Prum et al. (1992)."
+12375;16365;45;"Tityras, Becards, Sharpbill";"Tityridae";"PHY";"The genera placed in the family Tityridae are more closely related to the manakins (Pipridae) than to the cotingas (Cotingidae) (Chesser 2004; Barber & Rice 2007; SACC)."
+12375;16548;2;"Lyrebirds";"Menuridae";;
+12375;16556;2;"Scrubbirds";"Atrichornithidae";;
+12375;16563;27;"Bowerbirds";"Ptilonorhynchidae";;
+12375;16622;7;"Australasian Treecreepers";"Climacteridae";;
+12375;16647;32;"Australasian Wrens";"Maluridae";;
+12375;16747;191;"Honeyeaters";"Meliphagidae";"PHY, TAX";"Remove Moho to Mohoidae and Notiomystis to Notiomystidae. Revised classification (10.1) follows Andersen et al. (2019)."
+12375;17235;3;"Bristlebirds";"Dasyornithidae";"PHY, TAX";"Gardner et al. (2010) provide molecular evidence in support of family status of the Dasyornis bristlebirds."
+12375;17246;4;"Pardalotes";"Pardalotidae";;
+12375;17264;66;"Australasian Warblers";"Acanthizidae";;
+12375;17509;5;"Australasian Babblers";"Pomatostomidae";;
+12375;17524;3;"Logrunners";"Orthonychidae";;
+12375;17534;3;"Satinbirds";"Cnemophilidae";;
+12375;17545;10;"Berrypeckers, Longbills";"Melanocharitidae";;
+12375;17582;2;"Painted Berrypeckers";"Paramythiidae";"PHY";"Separate the painted berrypeckers (Oreocharis and Paramythia) from the Melanocharitidae to the Paramythiidae (Barker et al. 2004; HBW)."
+12375;17590;5;"New Zealand Wattlebirds";"Callaeidae";"TAX, ENG";"Correct spelling of family name is ""Callaeidae"", not ""Callaeatidae"" (Bock 1994; H&M Corrigenda). Change family name to New Zealand Wattlebirds (Checklist Committee of OSNZ 2010)."
+12375;17600;1;"Stitchbird";"Notiomystidae";"PHY";"Stitchbird is related to the wattled crows of New Zealand, not to honeyeaters (Meliphagidae) (Driskell et al. 2007)."
+12375;17606;6;"Whipbirds";"Psophodidae";"TAX, SEQ";"Psophodidae provisionally included Ptilorrhoa and Cinclosoma following Christidis & Boles (2008); now separated (9.2) to the Cinclosomatidae (Norman et al. 2009; H&M 4; HBW)."
+12375;17622;12;"Jewel-babblers, Quail-thrushes";"Cinclosomatidae";"PHY, TAX";"Jewel-babblers and quail-thrushes are sister taxa, not related to whipbirds Psophodidae (Norman et al. 2009; H&M 4; HBW)."
+12375;17665;31;"Wattle-eyes, Batises";"Platysteiridae";;
+12375;17734;50;"Bushshrikes";"Malaconotidae";;
+12375;17906;2;"Boatbills";"Machaerirhynchidae";"PHY";"Boatbills may belong to the woodswallow-bushshrike assemblage with peltops (Norman et al. 2009)."
+12375;17920;39;"Vangas & Allies";"Vangidae";"PHY";"The family Vangidae was historically restricted to a diverse and monophyletic set of Madagascan taxa. Molecular analyses support expansion of the family Vangidae to include the helmetshrikes (Prionopidae), woodshrikes and allies (Tephrodornithidae), and shrike-flycatchers (Megabyas and Bias, previously placed in the Platysteiridae) (Reddy et al. 2012; Jønsson et al. 2012, 2016; Fuchs et al. 2012; H&M 4; HBW)."
+12375;18042;1;"Bristlehead";"Pityriasidae";"TAX";"Correct (8.2) spelling of family name from Pityriaseidae to Pityriasidae (H&M 4)."
+12375;18046;24;"Woodswallows, Butcherbirds & Allies";"Artamidae";"PHY, TAX, SEQ";"Artamidae includes previous Cracticidae. Woodswallows, butcherbirds and peltops are equidistant (subfamily) lineages in one monophyletic cluster (Norman et al. 2009b; Jønsson et al. 2010, 2011; Aggerbeck et al. 2014; Schodde & Christidis 2014; J. Fjeldså pers. comm.)."
+12375;18135;1;"Mottled Berryhunter";"Rhagologidae";;
+12375;18141;4;"Ioras";"Aegithinidae";;
+12375;18164;93;"Cuckooshrikes";"Campephagidae";"PHY, SEQ";"Classification of Campephagidae revised (8.2) to follow phylogeny of Jønsson et al. (2010); also H&M 4."
+12375;18512;3;"Whiteheads";"Mohouidae";"PHY, TAX";"Change status of Mohoua species (including Finschia) from Incertae sedis to follow Campephagidae as a monophyletic family in core Corvoidea (Aidala et al. 2013)."
+12375;18518;3;"Sittellas";"Neosittidae";;
+12375;18533;1;"Ploughbill";"Eulacestomatidae";;
+12375;18537;3;"Australo-Papuan Bellbirds";"Oreoicidae";"PHY, TAX";"DNA sequence studies separate Crested Bellbird, Crested Pitohui and Rufous-naped Whistler as a distinct monophyletic taxon distantly related to other corvoid families (Schodde & Christidis 2014)."
+12375;18550;1;"Shriketit";"Falcunculidae";;"The Shriketit Falcunculus was a questionable member of Pachycephalidae (Zuccon & Ericson 2012), separated (9.2) to monotypic family Falcunculidae (H&M 4; HBW)."
+12375;18557;64;"Whistlers & Allies";"Pachycephalidae";"PHY,TAX";"Its composition in flux, Pachycephalidae includes Colluricincla, but excludes Oreoica (Oreoicidae), Rhagologus (Rhagologidae), Pitohui s.s. (Oriolidae) (Jønsson et al. 2008; Dumbacher 2008) and Hylocitrea, a bombycillid (Spellman et al. 2008). Falcunculus was a questionable member of Pachycephalidae (Zuccon & Ericson 2012), separated (9.2) to monotypic family Falcunculidae (H&M 4; HBW)."
+12375;18782;33;"Shrikes";"Laniidae";;
+12375;18899;64;"Vireos, Greenlets, Shrike-babblers";"Vireonidae";"TAX";"Vireonidae includes Erpornis and Pteruthius (Reddy & Cracraft 2007; Reddy 2008)."
+12375;19164;38;"Figbirds, Orioles, Turnagra";"Oriolidae";"PHY, SEQ";"See Jønsson et al. (2019) for phylogenetic sequence of species."
+12375;19301;30;"Drongos";"Dicruridae";"SEQ";"Sequence of Dicruridae follows Shakya et al. (2020) with modifications from Fuchs et al. (2018); Pasquet et al. (2007)."
+12375;19431;53;"Fantails";"Rhipiduridae";;
+12375;19607;102;"Monarchs";"Monarchidae";;
+12375;19934;133;"Crows, Jays";"Corvidae";;
+12375;20365;2;"Australian Mudnesters";"Corcoracidae";;
+12375;20375;2;"Melampittas";"Melampittidae";"PHY, TAX";"Melampittas are related to birds-of-paradise and Australian mudnesters (Jønsson et al. 2011; Aggerbeck et al. 2014; Schodde & Christidis 2014). Move melampittas from Incertae sedis to new family Melampittidae."
+12375;20381;1;"Ifrit";"Ifritidae";;
+12375;20385;43;"Birds-of-paradise";"Paradisaeidae";;
+12375;20490;50;"Australasian Robins";"Petroicidae";"PHY, TAX";"Generic revision and sequence (9.2) follows Loynes et al. (2009); Christidis et al. (2011); see also H&M 4; HBW."
+12375;20666;2;"Rockfowl";"Picathartidae";"PHY";"Rockfowl, rockjumpers, and rail-babbler form an ancient clade that is sister to the Petroicidae and in turn to the Passerida (Jønsson et al. 2007)."
+12375;20671;2;"Rockjumpers";"Chaetopidae";;
+12375;20676;1;"Rail-babbler";"Eupetidae";"PHY, SEQ";"Restrict Eupetidae to Rail-babbler Eupetes; resequence as sister to Chaetops and in turn to Picathartes (Jønsson et al. 2007)."
+12375;20682;3;"Waxwings";"Bombycillidae";;
+12375;20690;4;"Silky-flycatchers";"Ptiliogonatidae";"TAX";"Follow AOU 1998 in recognizing silky flycatchers as a separate family Ptiliogonatidae. Change spelling to follow original spelling of genus Ptiliogonys."
+12375;20707;1;"Hypocolius";"Hypocoliidae";"TAX";"Separate Grey Hypocolius as monotypic family Hypocoliidae to be consistent with treatment of other enigmatic waxwing relatives."
+12375;20711;1;"Palmchat";"Dulidae";;
+12375;20715;5;"Oos";"Mohoidae";"PHY, SEQ";"Species of Moho were related to waxwings (Bombycillidae), not to honeyeaters (Meliphagidae) (Fleischer et al. 2008)."
+12375;20724;1;"Hylocitrea";"Hylocitreidae";;
+12375;20730;9;"Fairy Flycatchers";"Stenostiridae";"TAX";"Stenostiridae includes Stenostira and Elminia from Incertae sedis and Culicicapa from Muscicapidae (Barker et al. 2002, 2004; Beresford et al. 2005; Fuchs et al. 2006)."
+12375;20767;64;"Tits, Chickadees";"Paridae";"PHY, TAX";"Revised classification follows Johansson et al. (2013; see also Tietze & Borthakur 2012)"
+12375;21075;11;"Penduline Tits";"Remizidae";;
+12375;21124;3;"Nicators";"Nicatoridae";"PHY, SEQ";"Move Nicator species from Incertae sedis to Nicatoridae, which aligns with Alaudidae and Panuridae to form a basal trichotomy that is sister of the rest of the sylvioids (Beresford et al. 2005; Johansson et al. 2008)."
+12375;21130;1;"Bearded Reedling";"Panuridae";"PHY, SEQ";"Bearded Reedling is not related to parrotbills, but is sister to the larks (Alaudidae) and in turn to the rest of the Sylvioidea (Ericson & Johansson 2003; Alström et al. 2006, 2013; Fuchs et al. 2006)."
+12375;21137;98;"Larks";"Alaudidae";;
+12375;21617;158;"Bulbuls";"Pycnonotidae";"SEQ";"Sequence of Pycnonotidae is primarily based on Shakya & Sheldon (2017) with modifications from Dejtaradol et al. (2016); Fuchs et al. (2018)."
+12375;22083;88;"Swallows, Martins";"Hirundinidae";;
+12375;22354;5;"Cupwings";"Pnoepygidae";"TAX, ENG";"Pnoepyga wren-babblers are not babblers and are elevated to their own family (Gelang et al. 2009). Change (8.2) English names to 'cupwing'."
+12375;22371;18;"Crombecs, African Warblers";"Macrosphenidae";"TAX";"See Fregin et al. (2012) for formal proposal of Macrosphenidae, which includes members of the Sphenoeacus group of Old World warblers separated by Johansson et al. (2008)."
+12375;22442;32;"Cettia Bush Warblers & Allies";"Cettiidae";"PHY";"Classification of Cettiidae revised (2.11) to follow Alström et al. (2011b)."
+12375;22566;1;"Streaked Scrub Warbler";"Scotocercidae";;
+12375;22578;3;"Yellow Flycatchers";"Erythrocercidae";;
+12375;22590;2;"Hylias";"Hyliidae";"PHY, TAX";"Move (9.2) these two enigmatic African warblers from Incertae sedis to their own family Hyliidae, sister to Aegithalidae and Scotocercidae (Oliveros et al. 2019). "
+12375;22602;13;"Bushtits";"Aegithalidae";"TAX, ENG";"The Aegithalidae are not closely related to the true tits (Paridae) as once thought (Harrap 2008); hence IOC recommended use of distinguishing name ""bushtit"" rather than ""tit""."
+12375;22664;80;"Leaf Warblers & Allies";"Phylloscopidae";"TAX";"The revised classification (8.2) of the Phylloscopidae follows the robust family phylogeny of Alström et al. (2018a). Seicercus is polyphyletic and hence merged with Phylloscopus (see also Olsson et al. 2005; Johansson et al. 2007)."
+12375;22882;62;"Reed Warblers & Allies";"Acrocephalidae";;
+12375;23036;66;"Grassbirds & Allies";"Locustellidae";"PHY, TAX";"Classification of Locustellidae revised (8.2) to follow Alström et al. (2018b). Family name Locustellidae has priority over Megaluridae (Bock 1994; BOU). "
+12375;23208;1;"Black-capped Donacobius";"Donacobiidae";"PHY";"Donacobius is related to the Old World warblers, not wrens (Troglodytidae); treated for now as a monotypic family Donacobiidae (Aleixo & Pacheco 2006; SACC 293) pending resolution of relationships to Megaluridae vs. Bernieridae (Johansson et al. 2008)."
+12375;23216;11;"Madagascan Warblers";"Bernieridae";"ENG";"Correct family name from Malagasy to Madagascan for taxon restricted to Madagascar."
+12375;23243;163;"Cisticolas & Allies";"Cisticolidae";;
+12375;23907;34;"Sylviid Babblers";"Sylviidae";"TAX";"Sylvidae and Paradoxornithidae form a major clade which is deeply diverged from the remaining families in the babbler radiation (Cai et al. 2019)."
+12375;24011;37;"Parrotbills and allies";"Paradoxornithidae";"TAX, PHY";"Paradoxornithidae is sister to Sylviidae but is deeply divided from it to a degree that is simiilar to other families in the babbler radiation. Recognize as a separate family (Cai et al. 2019). Sequence and constituent species of the entire family is based on Cai et al. (2019), but generic taxonomy of the parrotbill group, per se, is based on Penhallurick & Robson (2009)."
+12375;24153;141;"White-eyes";"Zosteropidae";"PHY, TAX";"White-eyes constitute a major clade of babblers that includes Yuhina (Cibois et al. 2003); retain as family Zosteropidae. Sequence based on Cai et al. (2019) augmented by Moyle et al. (2009); Cox et al. (2014); Meimberg et al. (2016); Lim et al. (2018); and O'Connell et al. (2019)."
+12375;24515;54;"Babblers, Scimitar Babblers";"Timaliidae";"SEQ";"Sequence based on Cai et al. (2019)."
+12375;24752;60;"Ground Babblers";"Pellorneidae";"TAX";"Major clade of babblers treated as the family Pellorneidae (Moyle et al. 2012; Cai et al. 2018). Sequence based on Cai et al. (2019)."
+12375;24989;10;"Alcippe Fulvettas";"Alcippeidae";"TAX, PHY";"The fulvettas remaining in Alcippe are separated from the ground babblers (Pellorneidae) due to deep genetic divergence as a new family Alcippeidae (Moyle et al. 2012; Cai et al. 2019)."
+12375;25023;133;"Laughingthrushes & Allies";"Leiothrichidae";"PHY, TAX";"Revised classification (9.1) of family Leiothrichidae follows Cibois et al. (2018). Sequence follows Cai et al. (2019)."
+12375;25439;3;"Dapple-throat & Allies";"Modulatricidae";"TAX";"Promeropidae and Arcanatoridae are basal branches that each go further back in time than almost any other extant lineage in the Passerida. Best to treat as two families pending confirmation of their sister relationship (Johansson et al. 2008a; Fjeldså 2012). Modulatricidae has priority over Arcanatoridae."
+12375;25452;2;"Sugarbirds";"Promeropidae";;
+12375;25459;2;"Fairy-bluebirds";"Irenidae";;
+12375;25474;6;"Goldcrests, Kinglets";"Regulidae";;
+12375;25509;1;"Elachura";"Elachuridae";;
+12375;25513;4;"Hyliotas";"Hyliotidae";"PHY";"Move Hyliotas from the Sylviidae to their own family Hyliotidae, a basal lineage of the Passerida without known modern relatives (Fuchs et al. 2006; TOL)."
+12375;25527;88;"Wrens";"Troglodytidae";;
+12375;26002;20;"Gnatcatchers";"Polioptilidae";"PHY, PS";"See Smith et al. (2018) for robust phylogeny of gnatcatcher species."
+12375;26087;28;"Nuthatches";"Sittidae";"SEQ";"Sequence follows Päckert et al. (2020)."
+12375;26192;1;"Wallcreeper";"Tichodromidae";;
+12375;26198;11;"Treecreepers";"Certhiidae";;
+12375;26258;34;"Mockingbirds, Thrashers";"Mimidae";;
+12375;26374;123;"Starlings, Rhabdornis";"Sturnidae";"TAX";"Includes major revisions of genera by Lovette et al. (2008); Zuccon et al. (2008)."
+12375;26687;2;"Oxpeckers";"Buphagidae";"PHY";"Separate the oxpeckers from the Sturnidae to the Buphagidae; they are sister to the starlings (Sturnidae) and mockingbirds (Mimidae) (Lovette & Rubenstein 2007)."
+12375;26694;172;"Thrushes";"Turdidae";;
+12375;27273;331;"Chats, Old World Flycatchers";"Muscicapidae";"PHY, TAX";"See Sangster et al. (2010); Zuccon & Ericson (2010) for revisions of Muscicapidae."
+12375;28296;5;"Dippers";"Cinclidae";;
+12375;28329;11;"Leafbirds";"Chloropseidae";;
+12375;28364;49;"Flowerpeckers";"Dicaeidae";;
+12375;28542;145;"Sunbirds";"Nectariniidae";;
+12375;29024;43;"Old World Sparrows, Snowfinches";"Passeridae";;
+12375;29156;117;"Weavers, Widowbirds";"Ploceidae";;
+12375;29457;141;"Waxbills, Munias & Allies";"Estrildidae";"SEQ";"Sequence of Estrildidae is primarliy based on Olsson & Alström (2020)."
+12375;29881;20;"Indigobirds, Whydahs";"Viduidae";;
+12375;29915;1;"Olive Warbler";"Peucedramidae";"PHY, SEQ";"Olive Warbler Peucedramus of New World most closely related to accentors (Prunellidae) (Ericson & Johansson 2003; Jønsson & Fjeldså 2006).K29401"
+12375;29924;13;"Accentors";"Prunellidae";;
+12375;29970;69;"Wagtails, Pipits";"Motacillidae";;
+12375;30200;1;"Przevalski's Finch";"Urocynchramidae";;
+12375;30204;228;"Finches, Euphonias";"Fringillidae";"TAX,PHY";"Classification of Fringillidae revised for v3.3; see especially Zuccon et al. (2012)."
+12375;30876;6;"Longspurs, Snow Buntings";"Calcariidae";"TAX, SEQ";"Move longspurs Calcarius and snow buntings Plectrophenax from Emberizidae to their own family Calcariidae (Alström et al. 2008)."
+12375;30896;1;"Thrush-tanager";"Rhodinocichlidae";"PHY, TAX, SEQ, ENG";"Move Rhodinocichla from Thraupidae to a new monotypic family Rhodinocichlidae, which follows Calcariidae (Barker et al. 2013, 2015; NACC 2017-B-6). ENG [8.1] = lower case 'tanager'."
+12375;30905;44;"Buntings";"Emberizidae";;
+12375;31049;136;"New World Sparrows";"Passerellidae";"PHY, TAX";"Separate New World Sparrows from Old World Buntings into new family Passerellidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31638;2;"Chat-tanagers";"Calyptophilidae";"PHY, TAX, SEQ";"Move Chat-tanagers from Thraupidae to new family Calyptophilidae, which follows Passerellidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31646;4;"Hispaniolan Tanagers";"Phaenicophilidae";"PHY, TAX, SEQ";"Move Hispaniolan tanagers from Thraupidae to a new family Phaenicophilidae, which follows Calyptophilidae and which includes Microligea and Xenoligea (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31660;1;"Puerto Rican Tanager";"Nesospingidae";"PHY, TAX, SEQ";"Move Puerto Rican Tanager from Thraupidae to new monotypic family Nesospingidae, which follows Phaenicophilidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31664;4;"Spindalises";"Spindalidae";"PHY, TAX, SEQ";"Move Spindalises from Thraupidae to new family Spindalidae, which follows Nesospingidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31676;1;"Wrenthrush";"Zeledoniidae";"PHY, TAX, SEQ";"Move Wrenthrush from Incertae sedis to new monotypic family Zeledonidae that follows Spindalidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31680;2;"Cuban Warblers";"Teretistridae";"PHY, TAX, SEQ";"Move Cuban Warblers from Incertae sedis to new family Teretristidae that follows Zeledonidae (Barker et al. 2013, 2015; NACC 2017-B-6)."
+12375;31687;1;"Yellow-breasted Chat";"Icteriidae";"PHY, TAX, SEQ";"Move Yellow-breasted Chat from Incertae sedis to new monotypic family Icteriidae which follows Teretristidae (Barker et al. 2013, 2015; NACC 2017-B-6). Note spelling of Icteriidae with double ""i"", versus Icteridae (orioles, oropendolas, etc.)."
+12375;31693;109;"Oropendolas, Orioles, Blackbirds";"Icteridae";"PHY, TAX";"Icteridae classification follows Powell et al. (2014)."
+12375;32039;119;"New World Warblers";"Parulidae";"PHY, TAX";"Genera and species sequences follow Lovette et al. (2010) and AOU/NACC 2011 (supplement)."
+12375;32416;4;"Mitrospingid Tanagers";"Mitrospingidae";"PHY, TAX, SEQ";"Move Mitrospingus from Thraupidae to new family Mitrospingidae  which includes Olive-green Tanager Orthogonys and Red-billed Pied Tanager Lamprospiza. Family follows Parulidae (Barker et al. 2013; NACC 2017-B-6)."
+12375;32429;53;"Cardinals & Allies";"Cardinalidae";;
+12375;32631;383;"Tanagers & Allies";"Thraupidae";"SEQ";"Tanagers (Thraupidae) are moved to the end of the sequence of 9-primaried oscine families (NACC). Sequence generally based on Burns et al. (2016)."
