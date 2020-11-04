@@ -4,7 +4,7 @@
 
 Репозиторій містить 5 окремих таблиць (для кожного таксономічного рівня від ряду до підвиду), які укладені у формі, що дозволяє швидко імпортувати їх у середовище будь-якої системи керування базами даних. Це забезпечується форматом представлення даних (csv), а також тим, що в таблицях вже визначені поля первинних (Primary key) та зовнішніх (Foreign key) ключів.
 
-Таблиці укладені на основі IOC World Bird List v10.2[^1]. Безпосереднім джерелом даних для таблиць був використаний файл [IOC_Names_File_Plus-10.2_full_ssp.xlsx](http://www.worldbirdnames.org/IOC_Names_File_Plus-10.2_full_ssp.xlsx "IOC_Names_File_Plus-10.2_full_ssp.xlsx"). Крім того, до таблиці зі списком видів були додані українські назви птахів за Г. В. Фесенком[^2]. Власне джерелом українських назв був файл [Multiling IOC 10.2_b.xlsx](http://worldbirdnames.org/Multiling%20IOC%2010.2_b.xlsx "Multiling IOC 10.2_b.xlsx").
+Таблиці укладені на основі IOC World Bird List v10.2<sup>1</sup>. Безпосереднім джерелом даних для таблиць був використаний файл [IOC_Names_File_Plus-10.2_full_ssp.xlsx](http://www.worldbirdnames.org/IOC_Names_File_Plus-10.2_full_ssp.xlsx "IOC_Names_File_Plus-10.2_full_ssp.xlsx"). Крім того, до таблиці зі списком видів були додані українські назви птахів за Г. В. Фесенком<sup>2</sup>. Власне джерелом українських назв був файл [Multiling IOC 10.2_b.xlsx](http://worldbirdnames.org/Multiling%20IOC%2010.2_b.xlsx "Multiling IOC 10.2_b.xlsx").
 
 ## Специфікації
 
@@ -90,7 +90,7 @@
 
 The repository contains five tables with lists of birds taxa of the world fauna. These tables are designed for using bird taxonomy in a databases. Each of the tables contains a list of one of the five levels of bird taxa (order, family, genus, species, subspecies). The IOC World Bird List V. 10.2 was used for create the tables.
 
-[^1]: Gill, F., Donsker, D., & Rasmussen, P. (Eds). 2020. IOC World Bird List (v10.2) [Data set]. World Bird Names. https://doi.org/10.14344/IOC.ML.10.2.
-[^2]: Фесенко, Г. В. 2018. Вітчизняна номенклатура птахів світу. Видавець ФО-П Чернявський Д. О. („Діонат”), Кривий Ріг, 1–580.
+<sup>1</sup> Gill, F., Donsker, D., & Rasmussen, P. (Eds). 2020. IOC World Bird List (v10.2) [Data set]. World Bird Names. https://doi.org/10.14344/IOC.ML.10.2.
+<sup>2</sup> Фесенко, Г. В. 2018. Вітчизняна номенклатура птахів світу. Видавець ФО-П Чернявський Д. О. („Діонат”), Кривий Ріг, 1–580.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
